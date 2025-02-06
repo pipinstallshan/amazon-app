@@ -1,0 +1,10 @@
+scrapy==2.7.0
+scrapy-selenium==0.0.7
+selenium==4.7.0
+crawler
+pillow==9.2.0
+pandas==1.5.3
+fake-useragent==1.1.1
+webdriver-manager==3.8.5
+requests==2.28.1
+msilib==0.0.1
