@@ -1,0 +1,110 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 20px;
+}
+
+.container {
+  width: 90%;
+  margin: auto;
+  text-align: center;
+}
+
+h1 {
+  color: #333;
+  font-size: 1.5rem;
+}
+
+.view-button {
+  padding: 8px 16px;
+  background-color: #333;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: background-color 0.3s ease;
+}
+
+.view-button:hover {
+  background-color: #555;
+}
+
+.table-container {
+  width: 100%;
+  overflow-x: auto;
+  background: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-top: 20px;
+  display: block;
+}
+
+table {
+  width: 130%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: left;
+  font-size: 0.9rem;
+  line-height: 1.4;
+  vertical-align: middle;
+  word-wrap: break-word;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+th {
+  background: #333;
+  color: white;
+  font-size: 1rem;
+}
+
+img {
+  max-width: 100px;
+  border-radius: 5px;
+}
+
+td img {
+  max-width: 50px;
+}
+
+a {
+  font-size: 0.9rem;
+}
+
+.image-gallery {
+  width: 400px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: flex-start;
+}
+
+.ratings {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.product-image {
+  width: 50%;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  max-width: 100px;
+  height: auto;
+}
+
+td:nth-child(11) { 
+  width: 25%; 
+}
+
+td:nth-child(12) { 
+  width: 25%; 
+}

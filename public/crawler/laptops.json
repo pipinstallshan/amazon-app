@@ -1,0 +1,2405 @@
+[{
+    "created_at": "2025-02-06T18:22:28.296478",
+    "updated_at": "2025-02-06T18:22:28.296478",
+    "scrape_date": "2025-02-06",
+    "url": "https://www.amazon.com/SteelSeries-Arctis-Wireless-Multi-System-Headset/dp/B09ZWCYQTX/ref=sr_1_20?dib=eyJ2IjoiMSJ9.hkeFfEL7O7dLU10a2aBZw99esjun4Kp3xpYywJ5nGQeEb2ggY3c5M7IOHSuKAGQ3UgKRbHW_zkZwywm_hN6ndWeTwEcIBbyc9cWefaKzEI23Ikk0gvS8z3fbkiD6Uzyds0IGpmpUBfjvq-48T9Vx6Sqyf7NlMVexr5VkDaxjjG8kVj4L-y0sLJnBGR91JCBCWm8DTvEH01nJlWKuaYS2XcVtuaDwr7U2gQqDM-0DEVk.urXRqmiKUxUDWkhJWXSyDhtbISP4ZfKEim2jZeUHk2U&dib_tag=se&keywords=headsets&qid=1738865657&sr=8-20",
+    "name": "SteelSeries Arctis Nova Pro Wireless Multi-System Gaming Headset - Premium Hi-Fi Drivers - Active Noise Cancellation - Infinity Power System - Stealth Retractable Mic - PC, PS5/PS4, Switch, Mobile",
+    "price": "$299.99",
+    "options": {
+        "style": [
+            "PC",
+            "PlayStation",
+            "Xbox"
+        ],
+        "color": [
+            "Black",
+            "White"
+        ]
+    },
+    "specifications": {
+        "Brand": "SteelSeries",
+        "Color": "Black",
+        "Ear Placement": "Over Ear",
+        "Form Factor": "Over Ear",
+        "Impedance": "38 Ohm",
+        "Noise Control": "Active Noise Cancellation",
+        "Frequency Response": "40000 Hz",
+        "Headphones Jack": "USB",
+        "Model Name": "Arctis Nova Pro Wireless",
+        "Connectivity Technology": "USB",
+        "Wireless Communication Technology": "Bluetooth, Wi-Fi",
+        "Included Components": "Dual Wireless Base Station, 2 x USB-C to USB-A Cable, Headphones with Retractable Microphone, 1 x 4-Pole 3.5 mm Audio Cable",
+        "Age Range (Description)": "Information Not Available",
+        "Material": "Information Not Available",
+        "Specific Uses For Product": "Wireless Multi-System Gaming Headset",
+        "Charging Time": "4 Hours",
+        "Recommended Uses For Product": "Calling",
+        "Compatible Devices": "PC, PS5/PS4, Switch, Mobile",
+        "Theme": "Video Game",
+        "Control Type": "Media Control",
+        "Cable Feature": "Without Cable",
+        "Item Weight": "2.86 pounds",
+        "Frequency Range": "10-40,000 Hz",
+        "Package Type": "FFP",
+        "Style": "PC",
+        "Control Method": "Touch",
+        "Number of Items": "1",
+        "Battery Life": "44 Hours",
+        "Audio Driver Type": "Dynamic Driver",
+        "Bluetooth Version": "5",
+        "Carrying Case Material": "Likely leather or leather-like",
+        "Earpiece Shape": "Over-the-head",
+        "Is Autographed": "No",
+        "Series Number": "61520",
+        "Manufacturer": "SteelSeries",
+        "Product Dimensions": "7.58 x 7.37 x 3.44 inches",
+        "ASIN": "B09ZWCYQTX",
+        "Item model number": "61520",
+        "Batteries": "2 Lithium Ion batteries required. (included)",
+        "Customer Reviews": "4.2 4.2 out of 5 stars 5,883 ratings var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); }); 4.2 out of 5 stars",
+        "Best Sellers Rank": "#381 in Video Games (See Top 100 in Video Games) #9 in Mac Game Headsets #41 in PC Game Headsets",
+        "Date First Available": "May 24, 2022",
+        "Country of Origin": "China"
+    },
+    "features": [
+        "Almighty Audio - Experience ultimate clarity and sound quality with Premium High Fidelity Drivers. Fully customize the sound experience with the Sonar Software by using a first-in-gaming Pro-grade Parametric EQ.",
+        "360° Spatial Audio - Immersive surround sound transports you to the gaming world, letting you hear every critical step, reload, or vocal cue to give you an advantage. *Fully compatible with Tempest 3D Audio for PS5 / Microsoft Spatial Sound.",
+        "Active Noise Cancellation - Immerse yourself in your virtual world as a specialized 4-mic hybrid system designed for gaming tunes out ambient noise. Use Transparency Mode with variable levels to adapt to any situation.",
+        "Infinity Power System - Hot-swap between using one battery while charging the other to keep your headset going and going and going.",
+        "OLED Base Station - Dual USB ports let you connect your PC, Xbox, Mac, PlayStation, or Switch, swap between them with the press of a button, charge your spare battery, take full control over your EQ, volume, & ChatMix directly without leaving your game",
+        "Dual Audio Streams - Mix two audio connections at the same time, letting you chat with friends while gaming. Play with lag-free 2.4GHz while using Bluetooth simultaneously for calls, Discord, music, and podcasts.",
+        "AI Powered Noise-Cancelling Mic -The ClearCast Gen 2 mic silences background noise to give you crystal clear comms, backed by Sonar Software's powerful AI algorithms. The mic also fully retracts into the earcup for a sleeker look. Software requirements Windows 8.1 and above, Mac OS 10.13 and above"
+    ],
+    "breadcrumbs": [],
+    "media": {
+        "primary_image": "https://m.media-amazon.com/images/I/614IQytqAuL.__AC_SX800_SY800_QL70_FMwebp_.jpg",
+        "secondary_images": [
+            "https://m.media-amazon.com/images/I/41MiU3AYSEL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51QSH+FT0IL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41OVarAKMbL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51LhDOYm8DL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41XuEwKOt4L._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51f7sOI1WtL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg"
+        ],
+        "featured_images": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f90c4ce4-d4b3-4376-83dc-5b460d39915a.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/61162795-8826-4d29-a16a-8a43e7c542b2.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/fb9b8f61-5522-40cd-bd63-9c27b9a04132.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/603c2094-ed4c-4153-b649-28e17e1dbdf1.mp4/productVideoOptimized.mp4",
+            "https://d1f0esyb34c1g2.cloudfront.net/transcode/storyTeller/A2S8GSYAQUWJZ8/1648763281442/cc4fc8b1-e9bb-4739-bac8-369330590f8f/1648763321511sbv.mp4"
+        ]
+    },
+    "ratings": {
+        "avg_rating": "4.2 out of 5",
+        "total_ratings": "5,883 global ratings",
+        "distribution": {
+            "5 star": "67%",
+            "4 star": "10%",
+            "3 star": "7%",
+            "2 star": "5%",
+            "1 star": "11%"
+        }
+    }
+},
+{
+    "created_at": "2025-02-06T18:24:28.107093",
+    "updated_at": "2025-02-06T18:24:28.107093",
+    "scrape_date": "2025-02-06",
+    "url": "https://www.amazon.com/Razer-Kraken-Wired-Gaming-Headset/dp/B0BSJYM8FF/ref=sr_1_16?dib=eyJ2IjoiMSJ9.hkeFfEL7O7dLU10a2aBZw99esjun4Kp3xpYywJ5nGQeEb2ggY3c5M7IOHSuKAGQ3UgKRbHW_zkZwywm_hN6ndWeTwEcIBbyc9cWefaKzEI23Ikk0gvS8z3fbkiD6Uzyds0IGpmpUBfjvq-48T9Vx6Sqyf7NlMVexr5VkDaxjjG8kVj4L-y0sLJnBGR91JCBCWm8DTvEH01nJlWKuaYS2XcVtuaDwr7U2gQqDM-0DEVk.urXRqmiKUxUDWkhJWXSyDhtbISP4ZfKEim2jZeUHk2U&dib_tag=se&keywords=headsets&qid=1738865657&sr=8-16",
+    "name": "Razer Kraken V3 X Wired USB Gaming Headset: Lightweight Build - Triforce 40mm Drivers - HyperClear Cardioid Mic - 7.1 Surround Sound - Chroma RGB Lighting - Black",
+    "price": "$39.98",
+    "options": {
+        "color": [
+            "Black",
+            "Fortnite Edition"
+        ],
+        "style": [
+            "Kraken V3 X",
+            "Kraken V3",
+            "Kraken V3 HyperSense"
+        ]
+    },
+    "specifications": {
+        "Brand": "Razer",
+        "Color": "Black",
+        "Ear Placement": "Over Ear",
+        "Form Factor": "Over Ear",
+        "Headphones Jack": "USB",
+        "Model Name": "‎Kraken V3 X",
+        "Connectivity Technology": "‎Wired",
+        "Wireless Communication Technology": "‎wired",
+        "Included Components": "‎Headset",
+        "Age Range (Description)": "‎Adult",
+        "Material": "‎Plastic",
+        "Specific Uses For Product": "‎Gaming",
+        "Recommended Uses For Product": "‎Gaming",
+        "Compatible Devices": "‎Laptops, Desktops",
+        "Theme": "‎Video Game",
+        "Control Type": "‎Media Control",
+        "Cable Feature": "‎Retractable",
+        "Item Weight": "‎9.9 ounces",
+        "Frequency Range": "‎20 Hz - 20,000 Hz",
+        "Package Type": "‎Standard Packaging",
+        "Unit Count": "‎1 Count",
+        "Style": "‎Kraken V3 X",
+        "Control Method": "‎Touch",
+        "Number of Items": "‎1",
+        "Controller Type": "‎Wired",
+        "Audio Driver Type": "‎Dynamic Driver",
+        "Audio Driver Size": "‎40 Millimeters",
+        "Earpiece Shape": "‎Over Ear",
+        "Is Autographed": "‎No",
+        "Series Number": "‎375",
+        "UPC": "‎840272903742",
+        "Manufacturer": "‎Razer",
+        "Item model number": "‎RZ04-03750300-R3U1",
+        "Hardware Platform": "‎PC",
+        "Operating System": "‎Windows",
+        "Product Dimensions": "‎8.47 x 6.78 x 3.55 inches",
+        "Item Dimensions LxWxH": "‎8.47 x 6.78 x 3.55 inches",
+        "Power Source": "‎Corded Electric",
+        "Language": "‎English",
+        "ASIN": "‎B0BSJYM8FF",
+        "Country of Origin": "‎China",
+        "Date First Available": "‎January 31, 2023",
+        "Customer Reviews": "4.3 4.3 out of 5 stars 2,049 ratings var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); }); 4.3 out of 5 stars",
+        "Best Sellers Rank": "#199 in Video Games (See Top 100 in Video Games) #23 in PC Game Headsets"
+    },
+    "features": [
+        "285G LIGHTWEIGHT BUILD — Experience superior audio and game for hours without being weighed down by the headset",
+        "TRIFORCE 40MM DRIVERS — Cutting-edge proprietary design divides the driver into 3 parts for the individual tuning of highs, mids, and lows —producing brighter, clearer audio with richer highs and more powerful lows",
+        "HYPERCLEAR CARDIOID MIC — An improved pickup pattern ensures more voice and less noise with the sweet spot easily placed at the mouth because of the mic’s bendable design",
+        "HYBRID FABRIC AND MEMORY FOAM EAR CUSHIONS — Wrapped in a combination of breathable fabric and plush leatherette to provide a snug fit to ensure constant comfort for prolonged gaming",
+        "7.1 SURROUND SOUND — Provides accurate positional audio that lets you pinpoint intuitively where every sound is coming from. *Only available on Windows 10 64-bit",
+        "POWERED BY RAZER CHROMA RGB — Customizable earcup lighting and greater game immersion, with access to 16.8 million colors and a suite of lighting effects, apply preferred settings and watch it work seamlessly",
+        "#1 SELLING PC GAMING PERIPHERALS BRAND IN THE U.S. — Source — Circana, Retail Tracking Service, U.S., Dollar Sales, Gaming Designed Mice, Keyboards, and PC Headsets, Jan. 2019- Dec. 2023 combined"
+    ],
+    "breadcrumbs": [],
+    "media": {
+        "primary_image": "https://m.media-amazon.com/images/I/71NxwEjlU1L.__AC_SX800_SY800_QL70_FMwebp_.jpg",
+        "secondary_images": [
+            "https://m.media-amazon.com/images/I/517c6kG3pJL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41D2ZCV-cdL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41jmixHv3cL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41z7zMlpl5L._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/512p47IIziL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41STBn1HH5L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg"
+        ],
+        "featured_images": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2dd7a1be-5763-43a8-9702-f7ee0b181846.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/796ad4ed-d7fd-4092-8f99-775d546b8e73.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b7879467-1966-4e3d-97f8-320999991a84.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/35a3eed1-4fdf-456e-802e-ed9518810547.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a9b385ac-92d5-4083-ace8-c541fadbd4a7.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1a88d87b-e720-482f-89fb-b8031e278b46.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8c9a3fb6-919c-4816-b621-38a1f219b785.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+        ],
+        "videos": [
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1e9983e5-e2fc-4790-b424-2fb31b658945.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f90c4ce4-d4b3-4376-83dc-5b460d39915a.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/fb9b8f61-5522-40cd-bd63-9c27b9a04132.mp4/productVideoOptimized.mp4",
+            "https://d1f0esyb34c1g2.cloudfront.net/transcode/storyTeller/A2S8GSYAQUWJZ8/1648763281442/cc4fc8b1-e9bb-4739-bac8-369330590f8f/1648763321511sbv.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a55537c5-5d8f-4a04-9208-80e42ebbc1aa.mp4/productVideoOptimized.mp4"
+        ]
+    },
+    "ratings": {
+        "avg_rating": "4.3 out of 5",
+        "total_ratings": "2,049 global ratings",
+        "distribution": {
+            "5 star": "69%",
+            "4 star": "12%",
+            "3 star": "7%",
+            "2 star": "4%",
+            "1 star": "8%"
+        }
+    }
+},
+{
+    "created_at": "2025-02-06T18:25:06.347729",
+    "updated_at": "2025-02-06T18:25:06.347729",
+    "scrape_date": "2025-02-06",
+    "url": "https://www.amazon.com/Sony-WH-CH720N-Canceling-Headphones-Microphone/dp/B0BS1QCFHX/ref=sr_1_14?dib=eyJ2IjoiMSJ9.hkeFfEL7O7dLU10a2aBZw99esjun4Kp3xpYywJ5nGQeEb2ggY3c5M7IOHSuKAGQ3UgKRbHW_zkZwywm_hN6ndWeTwEcIBbyc9cWefaKzEI23Ikk0gvS8z3fbkiD6Uzyds0IGpmpUBfjvq-48T9Vx6Sqyf7NlMVexr5VkDaxjjG8kVj4L-y0sLJnBGR91JCBCWm8DTvEH01nJlWKuaYS2XcVtuaDwr7U2gQqDM-0DEVk.urXRqmiKUxUDWkhJWXSyDhtbISP4ZfKEim2jZeUHk2U&dib_tag=se&keywords=headsets&qid=1738865657&sr=8-14",
+    "name": "Sony WH-CH720N Noise Canceling Wireless Headphones Bluetooth Over The Ear Headset with Microphone and Alexa Built-in, Black New",
+    "price": "$82.99",
+    "options": {
+        "color": [
+            "Black",
+            "White"
+        ]
+    },
+    "specifications": {
+        "Brand": "Sony",
+        "Color": "Black",
+        "Ear Placement": "Over Ear",
+        "Form Factor": "Over Ear",
+        "Impedance": "325 Ohm",
+        "Noise Control": "Active Noise Cancellation",
+        "Sensitivity": "108 dB",
+        "Headphones Jack": "3.5 mm Jack",
+        "Model Name": "WHCH720N/B",
+        "Connectivity Technology": "Wireless",
+        "Wireless Communication Technology": "Bluetooth",
+        "Included Components": "Headphones, USB Type-C cable (USB-A to USB-C) (approx. 20 cm (7.88 in.)), Headphone cable (approx. 1.2 m (47.25 in.)",
+        "Age Range (Description)": "Adult, Kid, Teen",
+        "Material": "Recycled plastic, Metal",
+        "Specific Uses For Product": "Entertainment",
+        "Charging Time": "50 Hours",
+        "Recommended Uses For Product": "Calling",
+        "Compatible Devices": "Bluetooth-enabled devices",
+        "Control Type": "control",
+        "Cable Feature": "Without Cable",
+        "Item Weight": "3.5 ounces",
+        "Water Resistance Level": "Not Water Resistant",
+        "Frequency Range": "20 Hz - 20,000 Hz",
+        "Package Type": "FFP",
+        "Unit Count": "1 Count",
+        "Style": "Headphone",
+        "Control Method": "Voice",
+        "Number of Items": "1",
+        "Controller Type": "Built-in Controls",
+        "Battery Life": "35 Hour",
+        "Audio Driver Type": "Dynamic Driver",
+        "Bluetooth Range": "10 Meters",
+        "Bluetooth Version": "5.2",
+        "Carrying Case Color": "Black",
+        "Earpiece Shape": "Over-ear cups",
+        "Is Autographed": "No",
+        "Number of Power Levels": "1",
+        "Series Number": "720",
+        "UPC": "027242925397",
+        "Manufacturer": "SONY",
+        "Product Dimensions": "8.16 x 2.17 x 9.34 inches",
+        "ASIN": "B0BS1QCFHX",
+        "Item model number": "WHCH720N/B",
+        "Batteries": "1 Lithium Polymer batteries required. (included)",
+        "Customer Reviews": "4.4 4.4 out of 5 stars 8,699 ratings var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); }); 4.4 out of 5 stars",
+        "Best Sellers Rank": "#231 in Electronics (See Top 100 in Electronics) #13 in Over-Ear Headphones",
+        "Is Discontinued By Manufacturer": "No",
+        "Date First Available": "February 21, 2023",
+        "Country of Origin": "Vietnam"
+    },
+    "features": [
+        "SONY’S LIGHTEST WIRELESS NOISE CANCELING HEADBAND EVER: Weighing just 192g, our lightest overhead wireless headphones with Noise Canceling yet, for incredible comfort without compromising on technology.",
+        "DUAL NOISE SENSOR TECHNOLOGY: Take noise canceling to the next level with Sony’s Integrated Processor V1, so you can fully immerse yourself in the music.",
+        "ALL DAY COMFORT: Super comfortable and lightweight design.",
+        "SMART FEATURES: Adjustable Ambient Sound mode and Adaptive Sound control features tailors sound to suit the environment around you.",
+        "LONG BATTERY LIFE: Up to 35-hour battery life with quick charging (3 min charge for up to 1 hour of playback).(USB Type-C Cable included",
+        "SUPERB SOUND: Enjoy natural vocals, crystal clear sound and balanced tuning thanks to the Integrated Processor V1 and Digital Sound Enhancement Engine (DSEE), producing a high-quality sound exactly as the artists intended.",
+        "CRYSTAL CLEAR HANDS FREE CALLING: Precise Voice Pickup Technology uses beamforming microphones pick up voices clearly and accurately."
+    ],
+    "breadcrumbs": [],
+    "media": {
+        "primary_image": "https://m.media-amazon.com/images/I/51rpbVmi9XL.__AC_SX800_SY800_QL70_FMwebp_.jpg",
+        "secondary_images": [
+            "https://m.media-amazon.com/images/I/31+CMjgVyHL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/31pqpd+p9sL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/518bJuZRjwL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51I5rPANNTL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41i4wtorPjL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41syo-ZDVhL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41u0lIE0J7L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg"
+        ],
+        "featured_images": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0d10532b-bcbb-4243-8b6e-64f96fec2b74.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5b39f13e-8dbd-41bc-b6e7-6628eb1ba60d.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/34ea940f-2348-47bc-ba29-10b5903c46e4.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+        ],
+        "videos": [
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9732e125-186d-449e-9457-704380447e28.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4beeffe7-31d8-4ee5-8758-5cb3fe10e7e8.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b5b6aeeb-cf2f-4218-b989-97eb2b27cdf3.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/18532227-c51c-44e2-9f38-6e73c771d2ef.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f0eafdba-f9ad-4840-bedd-e20b5b92c10a.mp4/productVideoOptimized.mp4"
+        ]
+    },
+    "ratings": {
+        "avg_rating": "4.4 out of 5",
+        "total_ratings": "8,699 global ratings",
+        "distribution": {
+            "5 star": "71%",
+            "4 star": "14%",
+            "3 star": "6%",
+            "2 star": "4%",
+            "1 star": "5%"
+        }
+    }
+},
+{
+    "created_at": "2025-02-06T18:25:12.675541",
+    "updated_at": "2025-02-06T18:25:12.675541",
+    "scrape_date": "2025-02-06",
+    "url": "https://www.amazon.com/Jabra-Evolve-Stereo-Professional-Communicaton/dp/B00ODRSBPW/ref=sr_1_13?dib=eyJ2IjoiMSJ9.hkeFfEL7O7dLU10a2aBZw99esjun4Kp3xpYywJ5nGQeEb2ggY3c5M7IOHSuKAGQ3UgKRbHW_zkZwywm_hN6ndWeTwEcIBbyc9cWefaKzEI23Ikk0gvS8z3fbkiD6Uzyds0IGpmpUBfjvq-48T9Vx6Sqyf7NlMVexr5VkDaxjjG8kVj4L-y0sLJnBGR91JCBCWm8DTvEH01nJlWKuaYS2XcVtuaDwr7U2gQqDM-0DEVk.urXRqmiKUxUDWkhJWXSyDhtbISP4ZfKEim2jZeUHk2U&dib_tag=se&keywords=headsets&qid=1738865657&sr=8-13",
+    "name": "Jabra Evolve 20 UC Wired Headset, Stereo Professional Telephone Headphones for Greater Productivity, Superior Sound for Calls and Music, USB Connection, All Day Comfort Design",
+    "price": "$41.59",
+    "options": {
+        "style": [
+            "All Platforms",
+            "Teams Certified"
+        ],
+        "size": [
+            "Dual-ear",
+            "Dual-ear, 2nd edition",
+            "Single-ear"
+        ]
+    },
+    "specifications": {
+        "Brand": "Jabra",
+        "Color": "Black",
+        "Ear Placement": "On Ear",
+        "Form Factor": "On Ear",
+        "Impedance": "32 Ohm",
+        "Noise Control": "Active Noise Cancellation",
+        "Sensitivity": "94 dB",
+        "Headphones Jack": "Wired",
+        "Model Name": "Evolve 20 Stereo UC",
+        "Connectivity Technology": "USB",
+        "Wireless Communication Technology": "Bluetooth",
+        "Included Components": "warranty statement, Headset, accessories",
+        "Age Range (Description)": "Adult",
+        "Material": "Plastic",
+        "Specific Uses For Product": "Business",
+        "Recommended Uses For Product": "Calling",
+        "Compatible Devices": "Universal",
+        "Control Type": "Volume Control",
+        "Cable Feature": "Retractable",
+        "Item Weight": "5 ounces",
+        "Package Type": "Standard Packaging",
+        "Unit Count": "1.0 Count",
+        "Style": "All Platforms",
+        "Control Method": "Touch",
+        "Number of Items": "1",
+        "Controller Type": "Touch Control",
+        "Audio Driver Type": "Dynamic Driver",
+        "Earpiece Shape": "On Ear",
+        "Is Autographed": "No",
+        "UPC": "706487014973",
+        "Global Trade Identification Number": "00706487014973",
+        "Manufacturer": "Jabra",
+        "Product Dimensions": "3.56 x 2.79 x 0.54 inches",
+        "ASIN": "B00ODRSBPW",
+        "Item model number": "4999-829-209",
+        "Customer Reviews": "4.4 4.4 out of 5 stars 2,235 ratings var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); }); 4.4 out of 5 stars",
+        "Best Sellers Rank": "#25 in Computer Headsets",
+        "Is Discontinued By Manufacturer": "No",
+        "Date First Available": "September 29, 2014",
+        "Department": "Headset",
+        "Country of Origin": "China"
+    },
+    "features": [
+        "PROFESSIONAL HEADSET: With great sound for calls and music; The Evolve 20 Wired Headset is built to greater productivity with amazing sound quality for calls and music",
+        "INCREASE AGENT FOCUS: State of the art; Noise cancelling microphone eliminates background noise to help increase focus. The ear cushions are designed to reduce high frequency sounds; so you and your conversation partner won’t struggle to hear each other",
+        "EASILY MANAGE CALLS: With this work headset; you can easily access the most used function; Like volume and mute; As well as answer and end calls quickly and easily directly from the control unit",
+        "ALL DAY COMFORT: With foam ear cushions and around the ear design; this Jabra headset is built for comfortable all day use. The discreet boom arm easily tucks into the headband when not in use.",
+        "COMPATIBILITY: The Jabra Evolve 20 Wired Headset works with all leading UC platforms. Plus; With a USB connection; Installation is simple as plugging it in"
+    ],
+    "breadcrumbs": [],
+    "media": {
+        "primary_image": "https://m.media-amazon.com/images/I/610V-2Pz3eS.__AC_SX800_SY800_QL70_FMwebp_.jpg",
+        "secondary_images": [
+            "https://m.media-amazon.com/images/I/310EbOEnssS._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/210dahKjHpL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/31HUAZpvdsL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/31PJ1Vg5B1L._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51teOq4XYoL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg"
+        ],
+        "featured_images": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9732e125-186d-449e-9457-704380447e28.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b5b6aeeb-cf2f-4218-b989-97eb2b27cdf3.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f0eafdba-f9ad-4840-bedd-e20b5b92c10a.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7a0d5a9b-c6ca-4ac4-9013-92c1cea32245.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/18532227-c51c-44e2-9f38-6e73c771d2ef.mp4/productVideoOptimized.mp4"
+        ]
+    },
+    "ratings": {
+        "avg_rating": "4.4 out of 5",
+        "total_ratings": "2,235 global ratings",
+        "distribution": {
+            "5 star": "70%",
+            "4 star": "14%",
+            "3 star": "5%",
+            "2 star": "4%",
+            "1 star": "7%"
+        }
+    }
+},
+{
+    "created_at": "2025-02-06T18:25:33.903920",
+    "updated_at": "2025-02-06T18:25:33.903920",
+    "scrape_date": "2025-02-06",
+    "url": "https://www.amazon.com/Ozeino-2-4GHz-Wireless-Gaming-Headset/dp/B0C4F9JGTJ",
+    "name": "2.4GHz Wireless Gaming Headset for PC, Ps5, Ps4 - Lossless Audio USB & Type-C Ultra Stable Gaming Headphones with Flip Microphone, 40-Hr Battery Gamer Headset for Switch, Laptop, Mobile, Mac",
+    "price": "$32.28",
+    "options": {
+        "color": [
+            "Camouflage",
+            "Black",
+            "White",
+            "Black & Grey Pro",
+            "Yellow",
+            "Pink"
+        ]
+    },
+    "specifications": {
+        "Brand": "Ozeino",
+        "Color": "White",
+        "Ear Placement": "Over Ear",
+        "Form Factor": "Over Ear",
+        "Impedance": "32 Ohm",
+        "Noise Control": "Sound Isolation",
+        "Headphones Jack": "3.5 mm Jack",
+        "Model Name": "OW810",
+        "Connectivity Technology": "Wireless",
+        "Wireless Communication Technology": "USB-C&A,Bluetooth",
+        "Included Components": "1* Wireless Gaming Headset Black, 1* USB & Type -C Transmitter, 1* User Manual, 1* 3.5 mm Aux Cable & Charging Cable",
+        "Age Range (Description)": "Adult",
+        "Material": "Plastic",
+        "Specific Uses For Product": "Enjoy the game, music",
+        "Charging Time": "2.98 Hours",
+        "Recommended Uses For Product": "Gaming",
+        "Compatible Devices": "playstation_2, PlayStation_5, playstation, playstation_4, xbox_one, nintendo_switch",
+        "Theme": "Video Game",
+        "Control Type": "Volume Control",
+        "Cable Feature": "Detachable",
+        "Item Weight": "1.08 pounds",
+        "Package Type": "Standard Packaging",
+        "Unit Count": "1.0 Count",
+        "Style": "Modern",
+        "Control Method": "Touch",
+        "Number of Items": "1",
+        "Controller Type": "Touch",
+        "Battery Life": "40 Hours",
+        "Audio Driver Type": "Dynamic Driver",
+        "Bluetooth Range": "15 Feet",
+        "Bluetooth Version": "5.3",
+        "Audio Latency": "20 Milliseconds",
+        "Audio Driver Size": "50 Millimeters",
+        "Earpiece Shape": "Circle",
+        "Is Autographed": "No",
+        "Manufacturer": "Ozeino",
+        "Product Dimensions": "5.91 x 3.94 x 7.87 inches",
+        "ASIN": "B0C4F9JGTJ",
+        "Item model number": "OW810",
+        "Batteries": "1 Lithium Metal batteries required. (included)",
+        "Customer Reviews": "4.5 4.5 out of 5 stars 7,731 ratings var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); }); 4.5 out of 5 stars",
+        "Best Sellers Rank": "#20 in Video Games (See Top 100 in Video Games) #1 in PlayStation 2 Accessories #1 in PlayStation Accessories #2 in Mac Game Headsets",
+        "Date First Available": "May 8, 2023",
+        "Country of Origin": "China"
+    },
+    "features": [
+        "【Amazing Stable Connection-Quick Access to Games】Real-time gaming audio with our 2.4GHz USB & Type-C ultra-low latency wireless connection. With less than 30ms delay, you can enjoy smoother operation and stay ahead of the competition, so you can enjoy an immersive lag-free wireless gaming experience.",
+        "【Game Communication-Better Bass and Accuracy】The 50mm driver plus 2.4G lossless wireless transports you to the gaming world, letting you hear every critical step, reload, or vocal in Fortnite, Call of Duty, The Legend of Zelda and RPG, so you will never miss a step or shot during game playing. You will completely in awe with the range, precision, and audio quality your ears were experiencing.",
+        "【Flexible and Convenient Design-Effortless in Game】Ideal intuitive button layout on the headphones for user. Multi-functional button controls let you instantly crank or lower volume and mute, quickly answer phone calls, cut songs, turn on lights, etc. Ease of use and customization, are all done with passion and priority for the user.",
+        "【Less plug, More Play-Dual Input From 2.4GHz & Bluetooth】 Wireless gaming headset adopts high performance dual mode design. With a 2.4GHz USB dongle, which is super sturdy, lag＜30ms, perfectly made for gamers. Bluetooth mode only work for phone, laptop and switch. And 3.5mm wired mode (Only support music and call).",
+        "【Wide Compatibility with Gaming Devices】Setup the perfect entertainment system by plugging in 2.4G USB. The convenience of dual USB work seamlessly with your PS5,PS4, PC, Mac, Laptop, Switch and saves you from swapping cables.",
+        "Bluetooth function can't directly support with Mac, Ps5, Ps4,Pc, additional USB Bluetooth Adapter is required (not included). Recommend to use the 2.4G mode, it easy and amazing connect.",
+        "The 2 in 1 USB transmitter needs to be combined to connect for Ps/Ps2/Ps5/Ps4/PC/Laptop/Mac, can't be used separately."
+    ],
+    "breadcrumbs": [],
+    "media": {
+        "primary_image": "https://m.media-amazon.com/images/I/71nUYWaf0RL.__AC_SX800_SY800_QL70_FMwebp_.jpg",
+        "secondary_images": [
+            "https://m.media-amazon.com/images/I/41mCIACE9XL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51Dssfkwe5L._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51Uh0DSqkUL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51fSAG2bHxL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51hVBfddA0L._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51pzITPRoKL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/510vhn8y88L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg"
+        ],
+        "featured_images": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7d766834-2275-49ac-ad3e-9b485582a841.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/58f6b7c8-c7ba-4e63-a10f-2466de30adc1.__CR0,4,362,453_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9da423ef-42e6-48f3-b71c-7a19e375bb7a.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d851e8a1-9db4-4c24-8dc2-124110fb4e0d.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ca7c09eb-0f6c-4c52-aa66-4aac10f26823.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0433838f-af82-4256-9517-e71dac06445d.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f8bb4646-f775-4e02-91d8-eb3ab441e2db.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/760d23a1-fd6e-4f3d-8eb9-555e7ac5076d.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2ff07321-1119-4382-978d-20a7170fdf92.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+        ],
+        "videos": [
+            "https://d1f0esyb34c1g2.cloudfront.net/transcode/storyTeller/A2S8GSYAQUWJZ8/1648763281442/cc4fc8b1-e9bb-4739-bac8-369330590f8f/1648763321511sbv.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/d869b354-799a-48aa-a507-f99780382d78.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1ac6f966-b00c-40f2-96b0-8340bb232da2.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/5ee0a2c8-f790-48bf-ba1f-bbcf3cc9dfb8.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/92d8dab4-c833-4361-b164-99a1216efb7d.mp4/productVideoOptimized.mp4"
+        ]
+    },
+    "ratings": {
+        "avg_rating": "4.5 out of 5",
+        "total_ratings": "7,731 global ratings",
+        "distribution": {
+            "5 star": "78%",
+            "4 star": "8%",
+            "3 star": "4%",
+            "2 star": "3%",
+            "1 star": "7%"
+        }
+    }
+},
+{
+    "created_at": "2025-02-06T18:26:06.532645",
+    "updated_at": "2025-02-06T18:26:06.532645",
+    "scrape_date": "2025-02-06",
+    "url": "https://www.amazon.com/Sony-WH-CH520-Headphones-Bluetooth-Microphone/dp/B0BS1PRC4L/ref=sr_1_11?dib=eyJ2IjoiMSJ9.hkeFfEL7O7dLU10a2aBZw99esjun4Kp3xpYywJ5nGQeEb2ggY3c5M7IOHSuKAGQ3UgKRbHW_zkZwywm_hN6ndWeTwEcIBbyc9cWefaKzEI23Ikk0gvS8z3fbkiD6Uzyds0IGpmpUBfjvq-48T9Vx6Sqyf7NlMVexr5VkDaxjjG8kVj4L-y0sLJnBGR91JCBCWm8DTvEH01nJlWKuaYS2XcVtuaDwr7U2gQqDM-0DEVk.urXRqmiKUxUDWkhJWXSyDhtbISP4ZfKEim2jZeUHk2U&dib_tag=se&keywords=headsets&qid=1738865657&sr=8-11",
+    "name": "Sony WH-CH520 Wireless Headphones Bluetooth On-Ear Headset with Microphone, Black New",
+    "price": "$8.59",
+    "options": {
+        "color": [
+            "Black",
+            "White",
+            "Cappuccino",
+            "Blue"
+        ]
+    },
+    "specifications": {
+        "Brand": "Sony",
+        "Color": "Black",
+        "Ear Placement": "On Ear",
+        "Form Factor": "On Ear",
+        "Noise Control": "None",
+        "Frequency Response": "2.4 GHz",
+        "Model Name": "WHCH520/B",
+        "Connectivity Technology": "Wireless",
+        "Wireless Communication Technology": "Bluetooth",
+        "Included Components": "Headphones, USB Type-C cable (USB-A to USB-C) (approx. 20 cm (7.88 in.))",
+        "Age Range (Description)": "Adult, kid, teen",
+        "Material": "Plastic",
+        "Specific Uses For Product": "Music",
+        "Charging Time": "50 Hours",
+        "Recommended Uses For Product": "Calling",
+        "Compatible Devices": "Smart TV, Tablet, Smart Phones, Laptop,",
+        "Control Type": "Media Control",
+        "Cable Feature": "Without Cable",
+        "Item Weight": "5.1 ounces",
+        "Water Resistance Level": "Not Water Resistant",
+        "Frequency Range": "20 Hz - 20,000 Hz",
+        "Unit Count": "1.0 Count",
+        "Style": "Modern\" or \"Contemporary",
+        "Control Method": "App",
+        "Number of Items": "1",
+        "Battery Life": "50 Hour",
+        "Audio Driver Type": "Dynamic Driver",
+        "Bluetooth Version": "5.2",
+        "Carrying Case Weight": "5.1 Ounces",
+        "Carrying Case Material": "Plastic",
+        "Carrying Case Color": "Black",
+        "Earpiece Shape": "Round",
+        "Is Autographed": "No",
+        "Series Number": "520",
+        "UPC": "027242925205",
+        "Global Trade Identification Number": "00027242925205",
+        "Manufacturer": "SONY",
+        "Product Dimensions": "6.85 x 1.76 x 7.76 inches",
+        "ASIN": "B0BS1PRC4L",
+        "Item model number": "WHCH520/B",
+        "Batteries": "1 Lithium Polymer batteries required. (included)",
+        "Customer Reviews": "4.5 4.5 out of 5 stars 17,666 ratings var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); }); 4.5 out of 5 stars",
+        "Best Sellers Rank": "#144 in Electronics (See Top 100 in Electronics) #5 in On-Ear Headphones",
+        "Is Discontinued By Manufacturer": "No",
+        "Date First Available": "February 21, 2023",
+        "Country of Origin": "Vietnam"
+    },
+    "features": [
+        "LONG BATTERY LIFE: With up to 50-hour battery life and quick charging, you’ll have enough power for multi-day road trips and long festival weekends. (USB Type-C Cable included)",
+        "HIGH QUALITY SOUND: Great sound quality customizable to your music preference with EQ Custom on the Sony | Headphones Connect App.",
+        "LIGHT & COMFORTABLE: The lightweight build and swivel earcups gently slip on and off, while the adjustable headband, cushion and soft ear pads give you all-day comfort.",
+        "CRYSTAL CLEAR CALLS: A built-in microphone provides you with hands-free calling. No need to even take your phone from your pocket.",
+        "MULTIPOINT CONNECTION: Quickly switch between two devices at once.",
+        "AVAILABLE IN FOUR COLORS: With Black, Blue, White, and Cappuccino to choose from, find the color that suits you best.",
+        "GIVE YOUR MUSIC A BOOST: Boost the quality of compressed music files and enjoy streaming music with high quality sound through DSEE."
+    ],
+    "breadcrumbs": [],
+    "media": {
+        "primary_image": "https://m.media-amazon.com/images/I/41lArSiD5hL.__AC_SX800_SY800_QL70_FMwebp_.jpg",
+        "secondary_images": [
+            "https://m.media-amazon.com/images/I/318RvHnDwHL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51Gvk5Lfk4L._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51Xtx2HpemL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41HbBZjepVL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51iDPz2h-OL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/3172VTUPxjL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/416D2adgCNL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg"
+        ],
+        "featured_images": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0d10532b-bcbb-4243-8b6e-64f96fec2b74.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8fba63a3-0610-49e6-b0a4-a332b765ba89.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f26a0949-5ac2-4bc3-bed4-38fbc4c584e8.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+        ],
+        "videos": [
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9732e125-186d-449e-9457-704380447e28.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4beeffe7-31d8-4ee5-8758-5cb3fe10e7e8.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b5b6aeeb-cf2f-4218-b989-97eb2b27cdf3.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/18532227-c51c-44e2-9f38-6e73c771d2ef.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f0eafdba-f9ad-4840-bedd-e20b5b92c10a.mp4/productVideoOptimized.mp4"
+        ]
+    },
+    "ratings": {
+        "avg_rating": "4.5 out of 5",
+        "total_ratings": "17,666 global ratings",
+        "distribution": {
+            "5 star": "73%",
+            "4 star": "14%",
+            "3 star": "5%",
+            "2 star": "3%",
+            "1 star": "5%"
+        }
+    }
+},
+{
+    "created_at": "2025-02-06T18:26:34.811145",
+    "updated_at": "2025-02-06T18:26:34.811145",
+    "scrape_date": "2025-02-06",
+    "url": "https://www.amazon.com/Wireless-Bluetooth-Waterproof-Headphones-Microphone/dp/B0DMZZZQLD/ref=sr_1_221?dib=eyJ2IjoiMSJ9.v4CYnUKviRih9eotlt5ApdRX4UvrS7yUTzbOjFkgmTGDn-Ef-UJHCldReh94D1S3yBLDbsubkQfGnYShUW-6Ji12NwYHd0bpFP6T377vtkKe4ZjBNYCAfkJC3cSgw36t6Juh7IYzS2otQ-BSLYoq4m5EyZx2ZytxQfzg7AMOZcrOmDbQKWvL1WtA-COoxo2-QcFLM0AUdcTTtXu7nEKGRkNfI5D46r8Il-B4yZ1g2bk.56o1Cx0L3BCWO3atExs4tVIUKZn7wONyIuK0WfB2Gzk&dib_tag=se&keywords=headphones&qid=1738866349&sr=8-221&xpid=e5LGh1mEO1xrA",
+    "name": "Wireless Ear buds Bluetooth Earbuds Wireless Charging Case Waterproof Headphones Built in Microphone Stereo Bass 64H Playback LED Power Display for iPhone Android Phones Computer Sports Gaming Workout",
+    "price": "$29.99",
+    "options": {},
+    "specifications": {
+        "Brand": "CREASO",
+        "Color": "Black",
+        "Ear Placement": "In Ear",
+        "Form Factor": "On Ear",
+        "Model Name": "A16",
+        "Connectivity Technology": "Wireless",
+        "Wireless Communication Technology": "Bluetooth",
+        "Included Components": "Cable, Earbuds, User Manual, Wireless Charging Case, Eartip",
+        "Age Range (Description)": "Adult",
+        "Material": "Plastic",
+        "Specific Uses For Product": "Entertainment, Fitness, Business",
+        "Recommended Uses For Product": "Cycling, Calling, Running, Exercising",
+        "Compatible Devices": "Cellphones, Motorcycles, Laptops, Desktops",
+        "Theme": "Sports and Fitness",
+        "Control Type": "Touch Control",
+        "Cable Feature": "Without Cable",
+        "Water Resistance Level": "Waterproof",
+        "Package Type": "Case",
+        "Style": "Modern",
+        "Control Method": "Touch",
+        "Controller Type": "Touch",
+        "Battery Life": "8 Hours",
+        "Audio Driver Type": "Dynamic Driver",
+        "Bluetooth Version": "5.3",
+        "Earpiece Shape": "earhook",
+        "Is Autographed": "No",
+        "Number of Power Levels": "100",
+        "UPC": "730425901179",
+        "Manufacturer": "CREASO",
+        "Package Dimensions": "3.58 x 2.83 x 1.54 inches",
+        "Item Weight": "4.2 ounces",
+        "ASIN": "B0DMZZZQLD",
+        "Item model number": "A16",
+        "Batteries": "1 A batteries required. (included)",
+        "Customer Reviews": "4.8 4.8 out of 5 stars 74 ratings var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); }); 4.8 out of 5 stars",
+        "Best Sellers Rank": "#24,362 in Electronics (See Top 100 in Electronics) #510 in On-Ear Headphones #1,881 in Earbud & In-Ear Headphones",
+        "Other display features": "Wireless",
+        "Country of Origin": "China",
+        "Date First Available": "November 29, 2024"
+    },
+    "features": [
+        "Enjoy Crystal-Clear Calls and Stereo Sound:Our wireless Bluetooth earbuds delivers rich,layered stereo sound with deep bass,crisp treble,and clear mids.You’ll experience clear calls and music,whether indoors,outdoors,working out,gaming,or traveling",
+        "Wireless Charging and IPX5 Waterproof:These Bluetooth headphones support both wireless and USB C charging,with the case fully charged in 2 hours.And IPX5 waterproof,they prevent sweat during workouts,making them ideal for sports,running,meetings,or gaming",
+        "Bluetooth 5.3 and Auto Pairing:A16 wireless earbuds use Bluetooth 5.3 for stable transmission,low power consumption,and extended range. After the first pairing,they auto-connect when taken out.Compatible with iPhone,Android,and most Bluetooth devices",
+        "LED Power Display and 64 Hour Playback:The case's LED display shows the charging status from 1 to 100.Each earbud lasts up to 8 hours per charge,the case providing three full recharges,giving a total of 64 hours of listening time for music enjoyment",
+        "Soft Wingtips and Smart Touch Control:These Bluetooth ear buds feature ergonomic design with multiple ear tip sizes and soft ear wings for a secure.Smart touch controls allow you to manage music,calls,volume,and voice assistants without using your phone"
+    ],
+    "breadcrumbs": [],
+    "media": {
+        "primary_image": "https://m.media-amazon.com/images/I/71T1OmRuZBL.__AC_SX800_SY800_QL70_FMwebp_.jpg",
+        "secondary_images": [
+            "https://m.media-amazon.com/images/I/41EKjF88B3L._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41vQaXWv4KL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41F-Ex3iePL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41I16-0Ck9L._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41pyygo5u4L._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41cZJW0uacL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51UnqHIGdmL.SX38_SY50_CR,0,0,38,50_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg"
+        ],
+        "featured_images": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9732e125-186d-449e-9457-704380447e28.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4beeffe7-31d8-4ee5-8758-5cb3fe10e7e8.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/baa67b05-c61a-4a6c-a45f-fbf248197677.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7034fca7-4c14-4084-8f65-5d50c5eca8df.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a2eeaa43-4548-4edb-b05b-1a1495964f76.mp4/productVideoOptimized.mp4"
+        ]
+    },
+    "ratings": {
+        "avg_rating": "4.8 out of 5",
+        "total_ratings": "74 global ratings",
+        "distribution": {
+            "5 star": "86%",
+            "4 star": "7%",
+            "3 star": "6%"
+        }
+    }
+},
+{
+    "created_at": "2025-02-06T18:26:45.368063",
+    "updated_at": "2025-02-06T18:26:45.368063",
+    "scrape_date": "2025-02-06",
+    "url": "https://www.amazon.com/Ortizan-Headphones-Conduction-Waterproof-Lightweight/dp/B0DP6YGW5F/ref=sr_1_228?dib=eyJ2IjoiMSJ9.v4CYnUKviRih9eotlt5ApdRX4UvrS7yUTzbOjFkgmTGDn-Ef-UJHCldReh94D1S3yBLDbsubkQfGnYShUW-6Ji12NwYHd0bpFP6T377vtkKe4ZjBNYCAfkJC3cSgw36t6Juh7IYzS2otQ-BSLYoq4m5EyZx2ZytxQfzg7AMOZcrOmDbQKWvL1WtA-COoxo2-QcFLM0AUdcTTtXu7nEKGRkNfI5D46r8Il-B4yZ1g2bk.56o1Cx0L3BCWO3atExs4tVIUKZn7wONyIuK0WfB2Gzk&dib_tag=se&keywords=headphones&qid=1738866349&sr=8-228&xpid=e5LGh1mEO1xrA",
+    "name": "Ortizan Open Ear Headphones, Bluetooth 5.3 Wireless Air Conduction Headphones Sport Earbuds, Premium Sound, IPX6 Waterproof, Clear Call, 19g Lightweight Earphones for Running Cycling Workouts (Black)",
+    "price": "$39.99",
+    "options": {},
+    "specifications": {
+        "Brand": "Ortizan",
+        "Color": "Black",
+        "Ear Placement": "Open Ear",
+        "Form Factor": "Open Ear",
+        "Impedance": "16 Ohm",
+        "Noise Control": "None",
+        "Frequency Response": "20 KHz",
+        "Model Name": "I10",
+        "Connectivity Technology": "Wireless",
+        "Wireless Communication Technology": "Bluetooth",
+        "Included Components": "1 x Ortizan OpenCirclet I10, 1 x User Manual, 1 x Magnetic Fast Charging Cable",
+        "Age Range (Description)": "Kid, Teen, Adult",
+        "Material": "Silicone",
+        "Specific Uses For Product": "Sports, Fitness, Business, Entertainment, Gaming, Travel",
+        "Charging Time": "2 Hours",
+        "Recommended Uses For Product": "Running, Cycling, Exercising, Swimming, Skateboarding, Snowboarding, Motorcycling, Gaming, Calling",
+        "Compatible Devices": "iPhone, Android, iPad, Tablets, Laptops, Television",
+        "Theme": "Sports, Workout, Business, Travel, Rest",
+        "Control Type": "Call Control, Media Control",
+        "Cable Feature": "Tangle Free",
+        "Item Weight": "0.67 ounces",
+        "Water Resistance Level": "Waterproof",
+        "Frequency Range": "20 Hz - 20,000 Hz",
+        "Package Type": "Box",
+        "Unit Count": "1.0 Count",
+        "Style": "Minimalist",
+        "Control Method": "Touch",
+        "Number of Items": "1",
+        "Controller Type": "Button",
+        "Battery Life": "10 Hours",
+        "Audio Driver Type": "Dynamic Driver",
+        "Bluetooth Range": "33 Feet",
+        "Bluetooth Version": "5.3",
+        "Audio Driver Size": "14.2 Millimeters",
+        "Earpiece Shape": "Circle",
+        "Is Autographed": "No",
+        "Number of Power Levels": "15",
+        "Number of USB 2 Ports": "1",
+        "Manufacturer": "Ortizan",
+        "Product Dimensions": "5 x 4.25 x 1.65 inches",
+        "ASIN": "B0DP6YGW5F",
+        "Item model number": "I10",
+        "Batteries": "2 AAA batteries required. (included)",
+        "Customer Reviews": "4.3 4.3 out of 5 stars 88 ratings var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); }); 4.3 out of 5 stars",
+        "Best Sellers Rank": "#3,255 in Electronics (See Top 100 in Electronics) #48 in Open-Ear Headphones",
+        "Date First Available": "April 23, 2024",
+        "Country of Origin": "China"
+    },
+    "features": [
+        "Open-ear Design Brings All-day Comfort: Ortizan wearable stereo sports headphones have a fully innovative open design. You don’t need to enter the ear canal, you can cradle your ears comfortably and enjoy unparalleled listening. Excellent fit can reduce the pressure after wear so that you can expand the use and not damage the comfort. Made of aviation-grade liquid silicone material, the whole machine weighs only 19 grams, making it comfortable to wear when traveling.",
+        "Air Conduction Technology Directional Sound Generation: The air conduction technology of the headphones immerses you in directional audio. Special omnidirectional surround speakers accurately adjust through multi-stage sound cavity structures, match the audio parameters, and directional vocalization, so that the sound is transmitted to the ear canal at a specific angle, there are no extra leakage sounds in other directions, then provide you with rich and Immersive sound experience.",
+        "IPX6 Waterproof and Sweatproof to Enjoy Strong Sound: Ortizan Bluetooth wireless sports earbuds have an exquisite waterproof design, can tolerate all terrible weather conditions, and allow you to enjoy music always in outdoor activities. It is very suitable for running, cycling, etc. Adopting 14.2 mm dynamic drivers and digital sound enhancement technology can create a powerful sound and epic ACS stereo experience for you while reducing high-frequency distortion.",
+        "Long Battery Life and Magnetic Fast Charging: Open ear Headset can provide up to 10 hours of continuous playtime, using magnetic suction fast charging technology, just 10 minutes of charging can get up to one hour of playtime. The charging contact surface is gold-plated, which can effectively resist sweat corrosion, and ensure the safety of the headset. It can help you reduce the trouble of repeated charging, and enjoy the immersive listening experience all day.",
+        "Built-in Microphone and Bluetooth 5.3 Clear Calls: Ortizan OpenCirclet I10 headphones feature a microphone noise reduction design that accurately captures your voice for high-definition calls, ensuring call quality even in noisy environments. Equipped with the latest wireless Bluetooth 5.3 technology, the connection is fast and stable, and it can also bring lower delay during data transmission.",
+        "Excellent Customer Service: Packaging includes Circlet I10 open headphones, magnetic charging cables, and user manuals. The new design of open wireless headphones and premium music allows you to maintain your ideal movement rhythm at any time and easily shatter your sports goals. This is an ideal holiday gift, birthday surprise, and Christmas gift for your friends or family. Order immediately to enjoy our 30-day return and exchanges and 12 months of worry-free warranty!",
+        "Volume Adjustment for iPhone: After receiving the headphones, if you find that the volume of your headphones is low, you can solve your problem in the following ways: 1. Open the phone settings; 2. Find and open the \"Sounds & Haptics\" settings; 3. Find and open the \"Headphone Safety\" settings; 4. Turn off the \"Reduce Loud Sounds\" function."
+    ],
+    "breadcrumbs": [],
+    "media": {
+        "primary_image": "https://m.media-amazon.com/images/I/51-2eUG0pZL.__AC_SX800_SY800_QL70_FMwebp_.jpg",
+        "secondary_images": [
+            "https://m.media-amazon.com/images/I/31mmm2glrXL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41WgWRzsoNL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41LeiKhzQDL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51ybOZ-0tDL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41V3fSI1w5L._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41b8ZZ95UKL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/61GGgTff+eL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg"
+        ],
+        "featured_images": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c5cd9857-b1c8-40d2-a8dd-a0fbe8453650.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8a074c95-7c37-4c7c-a477-a25e4ce693e4.__CR370,0,479,600_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d31bdea5-5994-4347-8408-60f055c06be1.__CR721,0,479,600_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c835cc82-fad1-420e-b493-a82c964a3497.__CR25,0,479,600_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6d908009-9135-4991-b9b1-01799da714ac.__CR331,0,479,600_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/260d838b-9239-408b-89f8-1449097a695d.__CR364,0,479,600_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/07dd6878-32cb-4354-bf4c-63df6433b8f8.__CR517,0,479,600_PT0_SX362_V1___.jpg"
+        ],
+        "videos": [
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9732e125-186d-449e-9457-704380447e28.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4beeffe7-31d8-4ee5-8758-5cb3fe10e7e8.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7034fca7-4c14-4084-8f65-5d50c5eca8df.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a2eeaa43-4548-4edb-b05b-1a1495964f76.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b5b6aeeb-cf2f-4218-b989-97eb2b27cdf3.mp4/productVideoOptimized.mp4"
+        ]
+    },
+    "ratings": {
+        "avg_rating": "4.3 out of 5",
+        "total_ratings": "88 global ratings",
+        "distribution": {
+            "5 star": "67%",
+            "4 star": "15%",
+            "3 star": "9%",
+            "2 star": "3%",
+            "1 star": "6%"
+        }
+    }
+},
+{
+    "created_at": "2025-02-06T18:27:09.477032",
+    "updated_at": "2025-02-06T18:27:09.477032",
+    "scrape_date": "2025-02-06",
+    "url": "https://www.amazon.com/Monster-N-Lite-203-AirLinks-Headphones/dp/B0DSZPC3GP/ref=sr_1_227?dib=eyJ2IjoiMSJ9.v4CYnUKviRih9eotlt5ApdRX4UvrS7yUTzbOjFkgmTGDn-Ef-UJHCldReh94D1S3yBLDbsubkQfGnYShUW-6Ji12NwYHd0bpFP6T377vtkKe4ZjBNYCAfkJC3cSgw36t6Juh7IYzS2otQ-BSLYoq4m5EyZx2ZytxQfzg7AMOZcrOmDbQKWvL1WtA-COoxo2-QcFLM0AUdcTTtXu7nEKGRkNfI5D46r8Il-B4yZ1g2bk.56o1Cx0L3BCWO3atExs4tVIUKZn7wONyIuK0WfB2Gzk&dib_tag=se&keywords=headphones&qid=1738866349&sr=8-227&xpid=e5LGh1mEO1xrA",
+    "name": "Monster N-Lite 203 AirLinks Wireless Earbuds, Bluetooth 5.3 Headphones HiFi Stereo, Wireless Earphones with 30H Playback, Type-C Charging, HD Clear Call, Touch Control, IPX6 Waterproof in-Ear Earbuds",
+    "price": "$103.99",
+    "options": {},
+    "specifications": {
+        "Brand": "MONSTER(モンスター)",
+        "Color": "Silver",
+        "Ear Placement": "In Ear",
+        "Form Factor": "In Ear",
+        "Noise Control": "None",
+        "Model Name": "Monster N-Lite 203 AirLinks",
+        "Connectivity Technology": "Wireless",
+        "Wireless Communication Technology": "Bluetooth",
+        "Included Components": "1 x Monster N-Lite 203 AirLinks Wireless Earbuds, 1 x USB-C Charging Cable, 1 x Quick Start Guide",
+        "Age Range (Description)": "Adult",
+        "Material": "Plastic",
+        "Specific Uses For Product": "Entertainment, Gaming, Fitness",
+        "Recommended Uses For Product": "Cycling, Motorcycling, Calling, Running, Skateboarding, Exercising, Gaming",
+        "Compatible Devices": "Compatible with any Bluetooth-enabled device,such as computers, smartphones or tablets, MP3 Player, TV, Laptop",
+        "Control Type": "Touch Control",
+        "Cable Feature": "Without Cable",
+        "Water Resistance Level": "Water Resistant",
+        "Package Type": "Standard Packaging",
+        "Style": "N-Lite Silver",
+        "Number of Items": "1",
+        "Controller Type": "Touch",
+        "Audio Driver Type": "Dynamic Driver",
+        "Bluetooth Range": "33 Feet",
+        "Bluetooth Version": "5.3",
+        "Carrying Case Battery Average Life": "30 Hours",
+        "Carrying Case Battery Charging Time": "2 Hours",
+        "Carrying Case Color": "Silver",
+        "Earpiece Shape": "Bud",
+        "Manufacturer": "Monster",
+        "Package Dimensions": "4.06 x 4.06 x 1.54 inches",
+        "Item Weight": "4.2 ounces",
+        "ASIN": "B0DSZPC3GP",
+        "Item model number": "Monster N-Lite 203 AirLinks",
+        "Batteries": "1 AAA batteries required. (included)",
+        "Best Sellers Rank": "#6,316 in Electronics (See Top 100 in Electronics) #692 in Earbud & In-Ear Headphones",
+        "Date First Available": "January 14, 2025"
+    },
+    "features": [
+        "【 Pure Monster Sound & Immersive Stereo Sound 】Monster Wireless Earbuds are designed and engineered by Noel Lee and the Monster Design Team in the USA with quality components that create the most impactful musical experience with zero distortion at any volume. The unique digital audio processor and powerful 10mm drivers enhance and reproduce perfect Hifi immersive stereo audio, equipped with Qualcomm apt-X high-definition audio decoding to restore richer sound details.",
+        "【Crystal-Clear Call & Bluetooth 5.3 technology】Monster Bluetooth headphones are built in 2 mics to provide a crystal clear call. It adopts the advanced Bluetooth 5.3 technology and supports HID, HFP, A2DP, and AVRCP, which provides faster transmission speed, stronger connection stability, and a longer range of Bluetooth (Up to 15m). Monster Bluetooth earbuds feature aptX Low Latency technology, allowing you to reduce Bluetooth delay- delivering high-quality sound in perfect synchronization. Compatible with any Bluetooth-enabled devices, including smartphones, computers, and TVs.",
+        "【Featherweight Fit & Ergonomic design】The tiny wireless headphones weigh just 0.1oz (3.85g), which is 15% lighter than standard earbuds. They’re so small and light that they feel practically weightless in your ears. Based on ergonomic design, allowing you to wear them for a long time without feeling uncomfortable. Equipped with 3 pairs of different sizes of soft rubber ear caps (installed M size), perfect for workouts, sports, and work and will not fall off easily.",
+        "【 30H Long Playtime & IPX6 Waterproof】On a single charge, Monster headphones bluetooth wireless last around 8 hours (at 50%-60% volume). With recharges provided by its compact charging case, you can use them non-stop for 30 hours. Designed with an IPX6 water-resistant rating, unrestricted by weather and place, you can wear it while sweating in sports or walking in the drizzle, widely applied to running, exercises, gym, travel, and outdoors.",
+        "【 One-Step Pairing & Easy Touch Control】Monster in ear headphones have a memory function. After the first connection, these wireless earphones will connect with your device once you open the charging case, which is faster and more convenient. During use, you can touch either earbud to control the phone, such as the music switch, volume adjustment, phone calls, voice assistant, etc. No need to adjust through your mobile phones."
+    ],
+    "breadcrumbs": [],
+    "media": {
+        "primary_image": "https://m.media-amazon.com/images/I/6165ChMI1xL.__AC_SX800_SY800_QL70_FMwebp_.jpg",
+        "secondary_images": [
+            "https://m.media-amazon.com/images/I/31VCJHrBGrL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51WartiHSfL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51JtxdMS53L._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51UBYF3yI3L._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41-jQiJLs4L._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51sn8nqesrL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41E1eIwwfBL._AC_US_.jpg"
+        ],
+        "featured_images": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7f156869-fe89-4f6f-ae80-f480bc440191.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5dfd8377-f4e3-427e-8228-5cb47bfe3ca0.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cc61af36-49cb-4fbd-b459-81257a60827d.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4153d302-a395-45cf-9594-4a61f3d1f002.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b800f1ed-da81-41e2-a92d-fa9efc344186.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+        ],
+        "videos": [
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9732e125-186d-449e-9457-704380447e28.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4beeffe7-31d8-4ee5-8758-5cb3fe10e7e8.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/baa67b05-c61a-4a6c-a45f-fbf248197677.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7034fca7-4c14-4084-8f65-5d50c5eca8df.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a2eeaa43-4548-4edb-b05b-1a1495964f76.mp4/productVideoOptimized.mp4"
+        ]
+    },
+    "ratings": {
+        "avg_rating": "-",
+        "total_ratings": "-",
+        "distribution": {}
+    }
+},
+{
+    "created_at": "2025-02-06T18:27:28.497780",
+    "updated_at": "2025-02-06T18:27:28.497780",
+    "scrape_date": "2025-02-06",
+    "url": "https://www.amazon.com/JVC-Nearphones-Wireless-Headphones-Built/dp/B0DLMBLM56/ref=sr_1_226?dib=eyJ2IjoiMSJ9.v4CYnUKviRih9eotlt5ApdRX4UvrS7yUTzbOjFkgmTGDn-Ef-UJHCldReh94D1S3yBLDbsubkQfGnYShUW-6Ji12NwYHd0bpFP6T377vtkKe4ZjBNYCAfkJC3cSgw36t6Juh7IYzS2otQ-BSLYoq4m5EyZx2ZytxQfzg7AMOZcrOmDbQKWvL1WtA-COoxo2-QcFLM0AUdcTTtXu7nEKGRkNfI5D46r8Il-B4yZ1g2bk.56o1Cx0L3BCWO3atExs4tVIUKZn7wONyIuK0WfB2Gzk&dib_tag=se&keywords=headphones&qid=1738866349&sr=8-226&xpid=e5LGh1mEO1xrA",
+    "name": "JVC Nearphones Open Ear True Wireless Headphones - Earcuff Earbuds - Bluetooth 5.3-24H Playback - IPX4 Water Resistant - Built-in Mic - Ideal for Awareness & Comfort - iOS/Android/PC - HANP1T",
+    "price": "$99.99",
+    "options": {
+        "color": [
+            "Teal Blue",
+            "Black",
+            "White",
+            "Maroon",
+            "Ice Gray"
+        ]
+    },
+    "specifications": {
+        "Brand": "JVC",
+        "Color": "Black",
+        "Ear Placement": "Open Ear",
+        "Form Factor": "Open Ear",
+        "Impedance": "16 Ohm",
+        "Noise Control": "Sound Isolation",
+        "Frequency Response": "20000 Hz",
+        "Model Name": "NEARPHONES Ear-Cuffs",
+        "Connectivity Technology": "Wireless",
+        "Wireless Communication Technology": "Bluetooth",
+        "Included Components": "Headphones, Charging Case, Charging Cable",
+        "Age Range (Description)": "Adult",
+        "Material": "Plastic",
+        "Specific Uses For Product": "Travel, Business, Fitness",
+        "Recommended Uses For Product": "Cycling, Running, Calling, Exercising, Gaming",
+        "Compatible Devices": "Cellphones, Gaming Consoles, Tablets, Laptops, Desktops",
+        "Theme": "Video Game, Movie, TV Series, Work, Sports",
+        "Cartoon Character": "nearphones",
+        "Control Type": "Button Control",
+        "Cable Feature": "Without Cable",
+        "Item Weight": "6.6 ounces",
+        "Water Resistance Level": "Waterproof",
+        "Package Type": "Standard Packaging",
+        "Unit Count": "1.0 Count",
+        "Style": "Open Ear",
+        "Control Method": "App",
+        "Number of Items": "1",
+        "Controller Type": "Button",
+        "Battery Life": "24 Hour",
+        "Bluetooth Range": "10 Meters",
+        "Bluetooth Version": "5.3",
+        "Carrying Case Battery Average Life": "24 Hours",
+        "Carrying Case Battery Capacity": "280 Milliamp Hours",
+        "Carrying Case Battery Charging Time": "2 Hours",
+        "Carrying Case Material": "Plastic",
+        "Carrying Case Color": "Black",
+        "Earpiece Shape": "Flat",
+        "Is Autographed": "No",
+        "Number of Power Levels": "1",
+        "UPC": "046838504228",
+        "Manufacturer": "JVC",
+        "Product Dimensions": "3.78 x 2.79 x 4.29 inches",
+        "ASIN": "B0DLMBLM56",
+        "Item model number": "HANP1T",
+        "Batteries": "1 Lithium Ion batteries required. (included)",
+        "Customer Reviews": "4.2 4.2 out of 5 stars 81 ratings var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); }); 4.2 out of 5 stars",
+        "Best Sellers Rank": "#10,844 in Electronics (See Top 100 in Electronics) #1,069 in Earbud & In-Ear Headphones",
+        "Date First Available": "October 31, 2024",
+        "Country of Origin": "China"
+    },
+    "features": [
+        "STAY AWARE and CONNECTED: The JVC nearphone open-air earbuds deliver dynamic sound directly to your outer ear, immersing you in rich audio while keeping you aware of your surroundings.",
+        "COMFORT and SECURE FIT: The JVC clip on earbuds rest gently outside your ear canal, allowing for longer wear without discomfort or irritation. The unique clasp mechanism ensures your earbuds remain securely in place.",
+        "SEAMLESS CONNECTIVITY WITH BLUETOOTH 5.3: Experience unparalleled connection strength with Bluetooth 5.3 technology, ensuring your wireless earbuds provide stable and lag-free audio streaming from your device.",
+        "MULTIPOINT DEVICE CONNECTION: Instantly switch between your smartphone, laptop, gaming console, and other device with the touch of a button.",
+        "JEWELRY-INSPIRED DESIGN: The sleek metallic arch and five stunning colors isn't just about sound – it's a fashion statement that elevates your style."
+    ],
+    "breadcrumbs": [],
+    "media": {
+        "primary_image": "https://m.media-amazon.com/images/I/41rn-tLdOOL.__AC_SX800_SY800_QL70_FMwebp_.jpg",
+        "secondary_images": [
+            "https://m.media-amazon.com/images/I/318mggfiUOL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51pv7bfPbaL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41hhEJs9-bL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41K0Ve9y2+L._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41UC1oW9i8L._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41VTc9GPbDL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/517JE+XeuDL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg"
+        ],
+        "featured_images": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c5ef1b5e-6411-4f5c-8301-b38afd63baf8.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cb730b10-57b0-4ccb-b5ed-adea52f7aae5.__CR2062,243,1938,2425_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/47419178-94b5-4df1-b587-1bec0cd878dd.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/12895da4-fc90-4d5d-bad2-b5ff1ecd8075.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3e224232-ca58-4a83-bdf6-02990f1c0af3.__CR0,0,362,453_PT0_SX362_V1___.jpg"
+        ],
+        "videos": [
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9732e125-186d-449e-9457-704380447e28.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4beeffe7-31d8-4ee5-8758-5cb3fe10e7e8.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7034fca7-4c14-4084-8f65-5d50c5eca8df.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/baa67b05-c61a-4a6c-a45f-fbf248197677.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a2eeaa43-4548-4edb-b05b-1a1495964f76.mp4/productVideoOptimized.mp4"
+        ]
+    },
+    "ratings": {
+        "avg_rating": "4.2 out of 5",
+        "total_ratings": "81 global ratings",
+        "distribution": {
+            "5 star": "66%",
+            "4 star": "16%",
+            "3 star": "3%",
+            "2 star": "6%",
+            "1 star": "9%"
+        }
+    }
+},
+{
+    "created_at": "2025-02-06T18:27:36.470190",
+    "updated_at": "2025-02-06T18:27:36.470190",
+    "scrape_date": "2025-02-06",
+    "url": "https://www.amazon.com/HyperX-Cloud-Gaming-Headset-KHX-HSCP-RD/dp/B00SAYCXWG/ref=sr_1_225?dib=eyJ2IjoiMSJ9.v4CYnUKviRih9eotlt5ApdRX4UvrS7yUTzbOjFkgmTGDn-Ef-UJHCldReh94D1S3yBLDbsubkQfGnYShUW-6Ji12NwYHd0bpFP6T377vtkKe4ZjBNYCAfkJC3cSgw36t6Juh7IYzS2otQ-BSLYoq4m5EyZx2ZytxQfzg7AMOZcrOmDbQKWvL1WtA-COoxo2-QcFLM0AUdcTTtXu7nEKGRkNfI5D46r8Il-B4yZ1g2bk.56o1Cx0L3BCWO3atExs4tVIUKZn7wONyIuK0WfB2Gzk&dib_tag=se&keywords=headphones&qid=1738866349&sr=8-225&xpid=e5LGh1mEO1xrA",
+    "name": "HyperX Cloud II - Gaming Headset, 7.1 Surround Sound, Memory Foam Ear Pads, Durable Aluminum Frame, Detachable Microphone, Works with PC, PS5, PS4, Xbox Series X|S, Xbox One – Red",
+    "price": "$78.99",
+    "options": {
+        "style": [
+            "Wired",
+            "Wireless"
+        ]
+    },
+    "specifications": {
+        "Brand": "HyperX",
+        "Color": "Red",
+        "Ear Placement": "Over Ear",
+        "Form Factor": "Over Ear",
+        "Noise Control": "Active Noise Cancellation",
+        "Headphones Jack": "3.5 mm Jack",
+        "Model Name": "Cloud II",
+        "Connectivity Technology": "Wired",
+        "Wireless Communication Technology": "Wired",
+        "Included Components": "Detachable Mic, Headphones, Ear Cushions",
+        "Age Range (Description)": "Adult",
+        "Material": "Faux Leather, Aluminum, Memory Foam",
+        "Specific Uses For Product": "Gaming",
+        "Recommended Uses For Product": "Indoor/Outdoor",
+        "Compatible Devices": "PS4, PC, Xbox One, PS4 PRO",
+        "Theme": "Video Game",
+        "Control Type": "Noise Control",
+        "Cable Feature": "Detachable",
+        "Item Weight": "9.7 ounces",
+        "Water Resistance Level": "Not Water Resistant",
+        "Frequency Range": "10 Hz - 23 kHz",
+        "Package Type": "Standard Packaging",
+        "Unit Count": "1.0 Count",
+        "Style": "Wired",
+        "Number of Items": "1",
+        "Cable Length": "9.75 Feet",
+        "Audio Driver Type": "Dynamic Driver",
+        "Audio Driver Size": "53 Millimeters",
+        "Earpiece Shape": "Over-the-ear",
+        "Is Autographed": "No",
+        "UPC": "196188048450 196188048436",
+        "Global Trade Identification Number": "00196188048436",
+        "Manufacturer": "HP Inc.",
+        "ASIN": "B00SAYCXWG",
+        "Item model number": "CL003",
+        "Customer Reviews": "4.5 4.5 out of 5 stars 73,715 ratings var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); }); 4.5 out of 5 stars",
+        "Best Sellers Rank": "#443 in Video Games (See Top 100 in Video Games) #16 in PlayStation 4 Headsets #18 in PlayStation 5 Headsets #45 in PC Game Headsets",
+        "Is Discontinued By Manufacturer": "No",
+        "Date First Available": "January 23, 2015",
+        "Language": "English"
+    },
+    "features": [
+        "15-25kKhz Frequency Response.Headphones fit type:Over-Ear.Note : If the size of the earbud tips does not match the size of your ear canals or the headset is not worn properly in your ears, you may not obtain the correct sound qualities or call performance. Change the earbud tips to ones that fit more snugly in your ear",
+        "Designed for comfort: Exceptionally comfortable memory foam ear cushions and padded leatherette headband help keep you focused on gaming",
+        "Supreme audio quality: Large 53 millimeter drivers provide high-quality audio. Hear in-game details better and get the in-game advantage on your opponents",
+        "7.1 virtual surround sound: Truly immerse yourself in your games with hardware-driven virtual 7.1 surround sound for precisely located audio",
+        "Passive noise cancellation: The closed ear cup design blocks out outside distractions to keep you in the game",
+        "Built to last: The solid, durable aluminum frame is built to withstand the blows of daily use",
+        "Detachable, noise-cancelling microphone: TeamSpeak and Discord certified so you can chat with your friends and your callouts will be heard loud and clear"
+    ],
+    "breadcrumbs": [],
+    "media": {
+        "primary_image": "https://m.media-amazon.com/images/I/71ltsViEA8L.__AC_SX800_SY800_QL70_FMwebp_.jpg",
+        "secondary_images": [
+            "https://m.media-amazon.com/images/I/41SkA5j2l-L._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/31khqr1K4jL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/21za-1KoW1L._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/31ZDxw4ay8L._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41QYrAKaS0L._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51Ah7A4464L._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/81fbfm1uIVL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg"
+        ],
+        "featured_images": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4beeffe7-31d8-4ee5-8758-5cb3fe10e7e8.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7034fca7-4c14-4084-8f65-5d50c5eca8df.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/16be3008-62f2-441a-a9d7-86bfa1786703.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1e9983e5-e2fc-4790-b424-2fb31b658945.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/880abb43-da05-4c75-92f2-7363c2bbafa3.mp4/productVideoOptimized.mp4"
+        ]
+    },
+    "ratings": {
+        "avg_rating": "4.5 out of 5",
+        "total_ratings": "73,715 global ratings",
+        "distribution": {
+            "5 star": "75%",
+            "4 star": "13%",
+            "3 star": "5%",
+            "2 star": "3%",
+            "1 star": "5%"
+        }
+    }
+},
+{
+    "created_at": "2025-02-06T18:28:04.525261",
+    "updated_at": "2025-02-06T18:28:04.525261",
+    "scrape_date": "2025-02-06",
+    "url": "https://www.amazon.com/Conduction-Headphones-Underwater-Waterproof-Activities/dp/B0DCC5T4RF/ref=sr_1_224?dib=eyJ2IjoiMSJ9.v4CYnUKviRih9eotlt5ApdRX4UvrS7yUTzbOjFkgmTGDn-Ef-UJHCldReh94D1S3yBLDbsubkQfGnYShUW-6Ji12NwYHd0bpFP6T377vtkKe4ZjBNYCAfkJC3cSgw36t6Juh7IYzS2otQ-BSLYoq4m5EyZx2ZytxQfzg7AMOZcrOmDbQKWvL1WtA-COoxo2-QcFLM0AUdcTTtXu7nEKGRkNfI5D46r8Il-B4yZ1g2bk.56o1Cx0L3BCWO3atExs4tVIUKZn7wONyIuK0WfB2Gzk&dib_tag=se&keywords=headphones&qid=1738866349&sr=8-224&xpid=e5LGh1mEO1xrA",
+    "name": "Bone Conduction Headphones, Swimming Headphones Underwater,IPX8 Waterproof Bluetooth 5.4 Open Ear Headphones with 32G MP3 Memory for Swimming,Running, Cycling and More Activities",
+    "price": "$39.99",
+    "options": {},
+    "specifications": {
+        "Brand": "Nilsinn",
+        "Color": "Black",
+        "Ear Placement": "Open Ear",
+        "Form Factor": "Bone Conduction",
+        "Noise Control": "Sound Isolation",
+        "Model Name": "X7",
+        "Connectivity Technology": "Wireless, Bluetooth",
+        "Wireless Communication Technology": "Bluetooth",
+        "Included Components": "Cable, User Manual, Eartip",
+        "Age Range (Description)": "Adult",
+        "Material": "Acrylonitrile Butadiene Styrene (ABS)",
+        "Specific Uses For Product": "running, Swimming, Fitness",
+        "Charging Time": "2 Hours",
+        "Recommended Uses For Product": "Cycling, Running, Swimming",
+        "Compatible Devices": "[Inferred: Devices with Bluetooth 5.4 support]",
+        "Cable Feature": "Without Cable",
+        "Water Resistance Level": "Waterproof",
+        "Style": "swimming",
+        "Control Method": "Remote",
+        "Number of Items": "1",
+        "Controller Type": "Bluetooth",
+        "Battery Life": "10 Hours",
+        "Audio Driver Type": "Bone Conduction Driver",
+        "Bluetooth Range": "10 Meters",
+        "Bluetooth Version": "5.4",
+        "Earpiece Shape": "open ear",
+        "Series Number": "7",
+        "UPC": "761373256202",
+        "Manufacturer": "Nilsinn",
+        "Package Dimensions": "5.43 x 4.45 x 1.93 inches",
+        "Item Weight": "4.2 ounces",
+        "ASIN": "B0DCC5T4RF",
+        "Item model number": "X7",
+        "Batteries": "1 Lithium Polymer batteries required. (included)",
+        "Customer Reviews": "4.4 4.4 out of 5 stars 428 ratings var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); }); 4.4 out of 5 stars",
+        "Best Sellers Rank": "#1,288 in Electronics (See Top 100 in Electronics) #168 in Earbud & In-Ear Headphones",
+        "Date First Available": "August 6, 2024",
+        "Country of Origin": "China"
+    },
+    "features": [
+        "【Comfortable Bone Conduction Technology】 - The open-ear headphones use bone conduction technology to ensure all-day comfort without earplugs, keeping your ear canals clean. This design not only ensures you can hear music clearly underwater but also allows you to stay aware of your surroundings during workouts, enhancing safety. Enjoy high-quality music while benefiting from the perfect combination of superior sound quality and excellent waterproof performance, making these headphones the top choice for water sports enthusiasts.",
+        "【Built-in 32GB MP3 storage】-These bone conduction headphones feature a built-in 32GB memory, capable of storing up to 10,000 songs. Whether you’re in for a long training session or enjoying some leisure time, the extensive music library lets you enjoy high-quality music anytime, anywhere, without relying on your phone or other devices.(Note: For underwater swimming, use the MP3 playback mode as Bluetooth cannot transmit underwater.)",
+        "【IPX8 Waterproof Design】- With an IPX8 waterproof rating, these headphones are fully waterproof and can be used underwater. This makes them ideal for swimming, diving, and other water sports. Whether in the pool or the ocean, you can be assured that your music will never be interrupted.",
+        "【Stable Bluetooth 5.4 Technology】- Equipped with the latest Bluetooth 5.4 technology, the connection is more stable, the transmission speed is faster, and the sound quality is superior. Even in noisy environments, you can maintain a clear audio connection, enjoying seamless music playback and phone call experiences.(Note: Bluetooth mode cannot be used underwater, there is no signal)",
+        "【Long-lasting Battery Life】- With a built-in 200mAh high-capacity battery, these headphones provide up to 10 hours of continuous playback time, eliminating the need for frequent recharging. With a standby time of over 300 hours, they remain ready to serve you even after long periods of inactivity."
+    ],
+    "breadcrumbs": [],
+    "media": {
+        "primary_image": "https://m.media-amazon.com/images/I/71VOYFudZDL.__AC_SX800_SY800_QL70_FMwebp_.jpg",
+        "secondary_images": [
+            "https://m.media-amazon.com/images/I/51+-uUFCPTL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51EDgTGXkJL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/516fZVtWF0L._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51fjenN5NcL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/516O2gKcRyL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41aJWnqVfwL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/61nYZtMOnfL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg"
+        ],
+        "featured_images": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/471a8247-dee1-4a50-b5b5-1543d371b63f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fe6bcb05-3315-434d-bb6b-1890e832e85d.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/214af53d-3e4d-4e09-9841-1f829617042e.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/793167ee-89eb-4f69-a4a6-22d979970395.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/615e8090-a038-41ee-a111-2036a95a4ee8.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/60f56e86-67f4-416b-b3a8-4abee59a9ab6.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+        ],
+        "videos": [
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9732e125-186d-449e-9457-704380447e28.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4beeffe7-31d8-4ee5-8758-5cb3fe10e7e8.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7034fca7-4c14-4084-8f65-5d50c5eca8df.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/baa67b05-c61a-4a6c-a45f-fbf248197677.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a2eeaa43-4548-4edb-b05b-1a1495964f76.mp4/productVideoOptimized.mp4"
+        ]
+    },
+    "ratings": {
+        "avg_rating": "4.4 out of 5",
+        "total_ratings": "428 global ratings",
+        "distribution": {
+            "5 star": "81%",
+            "4 star": "4%",
+            "3 star": "2%",
+            "2 star": "3%",
+            "1 star": "10%"
+        }
+    }
+},
+{
+    "created_at": "2025-02-06T18:28:24.236814",
+    "updated_at": "2025-02-06T18:28:24.236814",
+    "scrape_date": "2025-02-06",
+    "url": "https://www.amazon.com/Monster-Wireless-AirLinks-Headphones-Bluetooth/dp/B0DFGD8T1N/ref=sr_1_223?dib=eyJ2IjoiMSJ9.v4CYnUKviRih9eotlt5ApdRX4UvrS7yUTzbOjFkgmTGDn-Ef-UJHCldReh94D1S3yBLDbsubkQfGnYShUW-6Ji12NwYHd0bpFP6T377vtkKe4ZjBNYCAfkJC3cSgw36t6Juh7IYzS2otQ-BSLYoq4m5EyZx2ZytxQfzg7AMOZcrOmDbQKWvL1WtA-COoxo2-QcFLM0AUdcTTtXu7nEKGRkNfI5D46r8Il-B4yZ1g2bk.56o1Cx0L3BCWO3atExs4tVIUKZn7wONyIuK0WfB2Gzk&dib_tag=se&keywords=headphones&qid=1738866349&sr=8-223&xpid=e5LGh1mEO1xrA",
+    "name": "Monster Wireless Earbuds, Achieve 300 AirLinks Headphones Touch Control with Bluetooth 5.3 in-Ear Stereo Headphones, USB-C Quick Charge, Bluetooth Earbuds",
+    "price": "$79.98",
+    "options": {
+        "color": [
+            "Black",
+            "grey black"
+        ]
+    },
+    "specifications": {
+        "Brand": "Monster",
+        "Color": "grey black",
+        "Ear Placement": "In Ear",
+        "Form Factor": "入耳式",
+        "Impedance": "30 Ohm",
+        "Noise Control": "None",
+        "Model Name": "MH12005",
+        "Wireless Communication Technology": "Bluetooth",
+        "Age Range (Description)": "Adult",
+        "Recommended Uses For Product": "Music, Running, Exercising, Cycling",
+        "Compatible Devices": "Devices with Bluetooth capability",
+        "Control Type": "Media Control",
+        "Cable Feature": "Without Cable",
+        "Frequency Range": "20 Hz - 20,000 Hz",
+        "Control Method": "Touch",
+        "Bluetooth Range": "1E+1 Meters",
+        "Bluetooth Version": "5.3",
+        "Carrying Case Color": "grey black",
+        "Earpiece Shape": "Rounded",
+        "UPC": "810079706112",
+        "Manufacturer": "Jonter",
+        "Package Dimensions": "4.06 x 3.66 x 1.65 inches",
+        "Item Weight": "4.2 ounces",
+        "ASIN": "B0DFGD8T1N",
+        "Item model number": "MH12005",
+        "Customer Reviews": "4.3 4.3 out of 5 stars 209 ratings var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); }); 4.3 out of 5 stars",
+        "Best Sellers Rank": "#12,257 in Electronics (See Top 100 in Electronics) #1,161 in Earbud & In-Ear Headphones",
+        "Date First Available": "August 28, 2024"
+    },
+    "features": [
+        "【Pure Sound From Monster Earbud】Monster Wireless Earphones, designed and developed in the United States by Noel Lee and the Monster design team, use high-quality components to create a distortion-free, high-impact music experience at any volume. The unique digital audio processor enhances the clarity of treble in the Bluetooth earbuds. Professional drivers provide a wider soundstage for your music, offering exceptional accuracy and clarity throughout the entire frequency range.",
+        "【Smart Touch Control Headphones】The simple and convenient touch control system is more user friendly, tap once to play/pause music and answer calls, double tap to skip forward/backward, hold to adjust the volume. You can easily control it without operating the phone.",
+        "【Bluetooth earbuds】The advanced Bluetooth 5.3 technology delivers a stable, has superior sound quality and strong signal, so that there low-latency wireless connection for high-quality sound for your ears only. Enjoy deep bass powered by the 10 mm drivers, which will give you a different experience.",
+        "【32H Long Playtime】True wireless earbuds offer stream music for up to 8 hours on a single full charge and pocket size charging case extends playtime up to 32 hours. Bluetooth Earbuds with superfast charge, when you forgot to charge the Earbuds and need to use it urgently don’t worry, can charge within 5minutes, you can use for 1 hours. Ready for an uninterrupted listening experience all day.",
+        "【 Bluetooth earphones 】 Before pairing the earphones, pick up two earphones, put the earphones back in the charging case, the indicator light will turn on, take out the earphones and pair them with the mobile phone, they will automatically connect, and then just step into the Bluetooth setting of the mobile phone to pair the earphones, Monster Achieve 300 AirLinks Bluetooth earphones with built-in microphone, Enjoy clear speakerphone calls and immerse yourself in the music.",
+        "【Monster Earbuds】Monster Achieve 300 AirLinks strike a balance between aesthetics and comfort, ensuring a comfortable fit. With three different ear tip sizes (S, M, L) suitable for all users, each earbud weighs only 4 grams, making them as light as a feather and highly discreet when worn. The ergonomic design provides a comfortable and secure fit without protruding from the ears, making them especially suitable for sports, workouts, and gym use. Enjoy 12 months of worry-free service; please feel free to contact us with any questions."
+    ],
+    "breadcrumbs": [],
+    "media": {
+        "primary_image": "https://m.media-amazon.com/images/I/61WLTXTBpqL.__AC_SX800_SY800_QL70_FMwebp_.jpg",
+        "secondary_images": [
+            "https://m.media-amazon.com/images/I/41pKYmkIqZL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41dowdKjCaL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41FJ-36d7xL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41vx2J4iypL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41OlQ3uCpjL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/31AHXRaV7eL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/512FH7dWgSL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg"
+        ],
+        "featured_images": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9732e125-186d-449e-9457-704380447e28.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4beeffe7-31d8-4ee5-8758-5cb3fe10e7e8.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/baa67b05-c61a-4a6c-a45f-fbf248197677.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7034fca7-4c14-4084-8f65-5d50c5eca8df.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a2eeaa43-4548-4edb-b05b-1a1495964f76.mp4/productVideoOptimized.mp4"
+        ]
+    },
+    "ratings": {
+        "avg_rating": "4.3 out of 5",
+        "total_ratings": "209 global ratings",
+        "distribution": {
+            "5 star": "64%",
+            "4 star": "21%",
+            "3 star": "6%",
+            "2 star": "5%",
+            "1 star": "5%"
+        }
+    }
+},
+{
+    "created_at": "2025-02-06T18:28:38.968737",
+    "updated_at": "2025-02-06T18:28:38.968737",
+    "scrape_date": "2025-02-06",
+    "url": "https://www.amazon.com/MIDOLA-Bluetooth-Headphones-Microphone-Lightweight/dp/B0CHY4PYQK/ref=sr_1_222?dib=eyJ2IjoiMSJ9.v4CYnUKviRih9eotlt5ApdRX4UvrS7yUTzbOjFkgmTGDn-Ef-UJHCldReh94D1S3yBLDbsubkQfGnYShUW-6Ji12NwYHd0bpFP6T377vtkKe4ZjBNYCAfkJC3cSgw36t6Juh7IYzS2otQ-BSLYoq4m5EyZx2ZytxQfzg7AMOZcrOmDbQKWvL1WtA-COoxo2-QcFLM0AUdcTTtXu7nEKGRkNfI5D46r8Il-B4yZ1g2bk.56o1Cx0L3BCWO3atExs4tVIUKZn7wONyIuK0WfB2Gzk&dib_tag=se&keywords=headphones&qid=1738866349&sr=8-222&xpid=e5LGh1mEO1xrA",
+    "name": "MIDOLA Bluetooth Headphones Over Ear 68H Playtime 6 EQ Wireless Headset with Microphone HiFi Stereo Foldable Lightweight Deep Bass for Travel Home Office Cellphone Black",
+    "price": "$19.99",
+    "options": {
+        "color": [
+            "Red",
+            "Cyan",
+            "Blue",
+            "Black",
+            "White",
+            "Orange",
+            "Pink",
+            "Milk White"
+        ]
+    },
+    "specifications": {
+        "Brand": "MIDOLA",
+        "Color": "Black",
+        "Ear Placement": "Over Ear",
+        "Form Factor": "Over Ear",
+        "Impedance": "32 Ohm",
+        "Noise Control": "Sound Isolation",
+        "Frequency Response": "20 KHz",
+        "Sensitivity": "105 dB",
+        "Headphones Jack": "3.5 mm Jack",
+        "Model Name": "MID-B15",
+        "Connectivity Technology": "Wireless, Wired",
+        "Wireless Communication Technology": "Bluetooth",
+        "Included Components": "Headphone ; AUX Cable ; USB Charging Cable ; User Manual",
+        "Age Range (Description)": "Adult",
+        "Material": "Plastic",
+        "Specific Uses For Product": "Entertainment Fitness Gaming Professional Travel",
+        "Charging Time": "2 Hours",
+        "Recommended Uses For Product": "Music Play Movie",
+        "Compatible Devices": "Tablets Cellphones Laptops Television Desktops",
+        "Theme": "Music",
+        "Control Type": "Volume Control",
+        "Cable Feature": "Detachable",
+        "Item Weight": "7 ounces",
+        "Water Resistance Level": "Not Water Resistant",
+        "Frequency Range": "20 Hz - 20,000 Hz",
+        "Package Type": "Standard Packaging",
+        "Style": "Bluetooth Wireless",
+        "Control Method": "Touch",
+        "Number of Items": "1",
+        "Controller Type": "Button",
+        "Battery Life": "68 Hours",
+        "Audio Driver Type": "Dynamic Driver",
+        "Bluetooth Range": "33 Feet",
+        "Bluetooth Version": "5.3",
+        "Carrying Case Color": "Black",
+        "Audio Latency": "60 Milliseconds",
+        "Audio Driver Size": "40 Millimeters",
+        "Earpiece Shape": "Oval",
+        "Is Autographed": "No",
+        "Number of Power Levels": "7",
+        "Manufacturer": "MIDOLA",
+        "Package Dimensions": "6.5 x 4.76 x 3.23 inches",
+        "ASIN": "B0CHY4PYQK",
+        "Item model number": "MID-B15",
+        "Batteries": "1 Lithium Ion batteries required. (included)",
+        "Customer Reviews": "4.5 4.5 out of 5 stars 506 ratings var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); }); 4.5 out of 5 stars",
+        "Best Sellers Rank": "#7,482 in Electronics (See Top 100 in Electronics) #352 in Over-Ear Headphones",
+        "Date First Available": "September 13, 2023",
+        "Country of Origin": "China"
+    },
+    "features": [
+        "High Quality Sound 6 Eq Music Modes: Enjoy your favorite music with the Midola B15 Bluetooth Headphones Over Ear. With 6 Eq music modes and a powerful 40mm dynamic sound unit, these wireless headphones deliver exceptional sound quality, whether you're at home, in the office, or on the go.",
+        "Long-lasting Battery 68Hrs Playtime: The headphones provide an impressive 68 hours of playtime(Charging 2 Hrs), so you can enjoy uninterrupted music for days on end. Plus, the included 3.5mm audio cable allows you to switch to wired mode when the battery runs low.Pair Easily with Phones, Tablet, PC, and Laptop.Included audio cable AUX help you continue to enjoy music without electricity,",
+        "Comfortable Design：Weighing just 0.44lb, these headphones are lightweight and comfortable for all-day wear. The adjustable headband and soft memory protein earmuffs ensure a perfect fit, while protecting your ears from discomfort during extended use.",
+        "Pair Easily Bluetooth 5.3 range (33ft)：With the latest Bluetooth 5.3 chip, the MIDOLA B15 headphones offer fast and stable connectivity, with a transmitter range of up to 33ft (10M). The built-in microphone allows you to easily switch between music and calls, and connect to two devices simultaneously.",
+        "In addition to the Foldable Deep Bass Headphone, USB Type-C charging cable，3.5mm jack backup Audio Cable, and user manual"
+    ],
+    "breadcrumbs": [],
+    "media": {
+        "primary_image": "https://m.media-amazon.com/images/I/51-AjYN476L.__AC_SX800_SY800_QL70_FMwebp_.jpg",
+        "secondary_images": [
+            "https://m.media-amazon.com/images/I/41s7yYORueL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41L26IP25tL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51Tmc6eXr7L._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41zL5zmUVXL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41oT1Y3oXsL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/418MkQU28NL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/81RTw9WmZlL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg"
+        ],
+        "featured_images": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9732e125-186d-449e-9457-704380447e28.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4beeffe7-31d8-4ee5-8758-5cb3fe10e7e8.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/baa67b05-c61a-4a6c-a45f-fbf248197677.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7034fca7-4c14-4084-8f65-5d50c5eca8df.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a2eeaa43-4548-4edb-b05b-1a1495964f76.mp4/productVideoOptimized.mp4"
+        ]
+    },
+    "ratings": {
+        "avg_rating": "4.5 out of 5",
+        "total_ratings": "506 global ratings",
+        "distribution": {
+            "5 star": "75%",
+            "4 star": "13%",
+            "3 star": "5%",
+            "2 star": "2%",
+            "1 star": "6%"
+        }
+    }
+},
+{
+    "created_at": "2025-02-06T18:28:54.361442",
+    "updated_at": "2025-02-06T18:28:54.361442",
+    "scrape_date": "2025-02-06",
+    "url": "https://www.amazon.com/Butyoef-Headphones-360-Degree-Conduction-Waterproof/dp/B0CLZVQXTM/ref=sr_1_218?dib=eyJ2IjoiMSJ9.v4CYnUKviRih9eotlt5ApdRX4UvrS7yUTzbOjFkgmTGDn-Ef-UJHCldReh94D1S3yBLDbsubkQfGnYShUW-6Ji12NwYHd0bpFP6T377vtkKe4ZjBNYCAfkJC3cSgw36t6Juh7IYzS2otQ-BSLYoq4m5EyZx2ZytxQfzg7AMOZcrOmDbQKWvL1WtA-COoxo2-QcFLM0AUdcTTtXu7nEKGRkNfI5D46r8Il-B4yZ1g2bk.56o1Cx0L3BCWO3atExs4tVIUKZn7wONyIuK0WfB2Gzk&dib_tag=se&keywords=headphones&qid=1738866349&sr=8-218&xpid=e5LGh1mEO1xrA",
+    "name": "Open Ear Headphones,360-Degree Panoramic Sound, DT4.0 Without Sound Loss,Air Conduction, 48H Range,LED Display,IPX7 Waterproof, Wireless Earbuds for Meeting, Driving,Traveling",
+    "price": "$20.99",
+    "options": {
+        "color": [
+            "Black",
+            "Orange",
+            "White"
+        ]
+    },
+    "specifications": {
+        "Brand": "Butyoef",
+        "Color": "Black",
+        "Ear Placement": "Open Ear",
+        "Form Factor": "On Ear",
+        "Impedance": "5 Ohm",
+        "Noise Control": "Sound Isolation",
+        "Model Name": "REFW9-Black",
+        "Connectivity Technology": "Wireless",
+        "Wireless Communication Technology": "Bluetooth",
+        "Included Components": "bluetooth",
+        "Age Range (Description)": "unisex",
+        "Material": "silica, Plastic",
+        "Specific Uses For Product": "Sport",
+        "Recommended Uses For Product": "Running, Exercising",
+        "Compatible Devices": "Bluetooth-enabled devices",
+        "Theme": "Sport",
+        "Control Type": "Noise Control",
+        "Cable Feature": "Without Cable",
+        "Water Resistance Level": "Waterproof",
+        "Frequency Range": "20 Hz - 20,000 Hz",
+        "Package Type": "FFP",
+        "Style": "Classic",
+        "Control Method": "App",
+        "Number of Items": "1",
+        "Controller Type": "button or software",
+        "Battery Life": "48 Hours",
+        "Bluetooth Range": "10 Meters",
+        "Earpiece Shape": "Open Ear",
+        "Is Autographed": "No",
+        "Manufacturer": "REMCCI",
+        "Package Dimensions": "5.94 x 5.08 x 1.54 inches",
+        "Item Weight": "5.9 ounces",
+        "ASIN": "B0CLZVQXTM",
+        "Item model number": "REMCCI",
+        "Batteries": "3 Lithium Polymer batteries required. (included)",
+        "Customer Reviews": "4.1 4.1 out of 5 stars 758 ratings var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); }); 4.1 out of 5 stars",
+        "Best Sellers Rank": "#8,268 in Electronics (See Top 100 in Electronics) #880 in Earbud & In-Ear Headphones",
+        "Date First Available": "October 28, 2023"
+    },
+    "features": [
+        "Comfortable wear: not plugging the ears of the listening mode, not bulging eardrums, the ear is not swollen, not sore, transparent and comfortable, close to the natural listening experience, a healthier way of listening",
+        "ACS panoramic audio: simulates realistic 360° stereo surround sound field, so that the sound as if it existed in any part of space, as if it were there.",
+        "DireectPitchTM Directional Sound Field Technology: Open, no sound leakage, preventing sound from spreading out of the air, no need to enter the ear, but also accurate and efficient sound transmission, to protect your privacy.",
+        "ENC Call Noise Cancellation: Bi-directional acoustic noise cancellation technology, forming an adaptive beam, accurately calculating the orientation of the caller's human voice, filtering out noise interference, and enjoying a comfortable call.",
+        "Lightweight body design: ultra-lightweight body allows you to experience a truly sensation-free wear, 90 ° rotatable ear-hanging design, stable fit for different ear shapes, skin-friendly silicone material to reduce the friction with the ear contour, stable and comfortable, wildly flinging not to fall!"
+    ],
+    "breadcrumbs": [],
+    "media": {
+        "primary_image": "https://m.media-amazon.com/images/I/615MuvhcuUL.__AC_SX800_SY800_QL70_FMwebp_.jpg",
+        "secondary_images": [
+            "https://m.media-amazon.com/images/I/41GVR7iHD7L._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/317HUDd2szL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/419T+R-K+wL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41SJMUaVDrL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41zyaX6QtXL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41-rKrEJ35L._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/61JOmOqdRiL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg"
+        ],
+        "featured_images": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/525025d0-ed54-4663-af84-64f4745cd27f.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/063c5524-eb92-4833-bb61-ca1966a418dc.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ab9600ee-aea3-4817-8246-d6e66f19b5fd.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e6df411d-d580-47a2-b540-cc22eadecf72.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9fd87b8a-cb0c-4d4f-8a57-6c955564e2a8.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/240f8fa6-9787-430a-a2cc-cee5a662dd0b.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/163015e3-0b30-40f4-9a80-d877301e9915.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/04bd22c0-aa2f-4db9-a0f2-fcd7adaefc14.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/28525bd9-fc0b-4dca-ba8d-7b93f16bcdc1.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+        ],
+        "videos": [
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9732e125-186d-449e-9457-704380447e28.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4beeffe7-31d8-4ee5-8758-5cb3fe10e7e8.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/baa67b05-c61a-4a6c-a45f-fbf248197677.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7034fca7-4c14-4084-8f65-5d50c5eca8df.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a2eeaa43-4548-4edb-b05b-1a1495964f76.mp4/productVideoOptimized.mp4"
+        ]
+    },
+    "ratings": {
+        "avg_rating": "4.1 out of 5",
+        "total_ratings": "758 global ratings",
+        "distribution": {
+            "5 star": "60%",
+            "4 star": "15%",
+            "3 star": "9%",
+            "2 star": "6%",
+            "1 star": "10%"
+        }
+    }
+},
+{
+    "created_at": "2025-02-06T18:29:09.616782",
+    "updated_at": "2025-02-06T18:29:09.616782",
+    "scrape_date": "2025-02-06",
+    "url": "https://www.amazon.com/Headphones-Earbuds-Microphone-Control-Earphones/dp/B0DN1K945D/ref=sr_1_217?dib=eyJ2IjoiMSJ9.v4CYnUKviRih9eotlt5ApdRX4UvrS7yUTzbOjFkgmTGDn-Ef-UJHCldReh94D1S3yBLDbsubkQfGnYShUW-6Ji12NwYHd0bpFP6T377vtkKe4ZjBNYCAfkJC3cSgw36t6Juh7IYzS2otQ-BSLYoq4m5EyZx2ZytxQfzg7AMOZcrOmDbQKWvL1WtA-COoxo2-QcFLM0AUdcTTtXu7nEKGRkNfI5D46r8Il-B4yZ1g2bk.56o1Cx0L3BCWO3atExs4tVIUKZn7wONyIuK0WfB2Gzk&dib_tag=se&keywords=headphones&qid=1738866349&sr=8-217&xpid=e5LGh1mEO1xrA",
+    "name": "2 Packs USB C Headphones for iPhone 16/15 Earbuds with Microphone & Volume Control HiFi Stereo Type C Earphones for Galaxy S23/S22/S21/S20/Ultra Note 10/20, for iPad Pro Pixel 7/6/6a/5/4 and More",
+    "price": "$19.98",
+    "options": {},
+    "specifications": {
+        "Brand": "Docutca",
+        "Color": "USB C 2PC",
+        "Ear Placement": "In Ear",
+        "Form Factor": "In Ear",
+        "Model Name": "USB C",
+        "Connectivity Technology": "Wired",
+        "Wireless Communication Technology": "Wired",
+        "Included Components": "2 Packs USB C Headphones",
+        "Age Range (Description)": "Kids & Adults",
+        "Material": "Plastic",
+        "Specific Uses For Product": "Music, Travel, Sport",
+        "Recommended Uses For Product": "Calling",
+        "Compatible Devices": "Smartphones, Tablets, Laptops",
+        "Control Type": "Volume Control, Media Control",
+        "Water Resistance Level": "Not Water Resistant",
+        "Frequency Range": "20 Hz - 20,000 Hz",
+        "Package Type": "Pack",
+        "Unit Count": "2.0 Count",
+        "Style": "USB C",
+        "Number of Items": "2",
+        "Audio Driver Type": "Dynamic Driver",
+        "Earpiece Shape": "Rounded Tips",
+        "Is Autographed": "No",
+        "UPC": "721545608628 721545608352",
+        "Manufacturer": "Docutca",
+        "Package Dimensions": "3.94 x 2.72 x 0.71 inches",
+        "Item Weight": "1.13 ounces",
+        "ASIN": "B0DN1K945D",
+        "Item model number": "Docutca-TC-2PC",
+        "Customer Reviews": "4.0 4.0 out of 5 stars 104 ratings var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); }); 4.0 out of 5 stars",
+        "Best Sellers Rank": "#287 in Electronics (See Top 100 in Electronics) #45 in Earbud & In-Ear Headphones",
+        "Date First Available": "November 11, 2024"
+    },
+    "features": [
+        "【Wide Compatibility】: These USB C Headphones for iPhone 15, iPhone 15 Plus, iPhone 15 Pro, iPhone 15 Pro Max, iPad Pro 2021/2020/2018, iPad Mini 6th Gen, 10.9\" iPad 10th Gen, 11\" iPad Pro 4th/3rd/2nd Gen,compatible for Samsung Galaxy S21 FE/ S21/ S21 Plus/ S21 Ultra/ S20 FE/ S20/ S20 Plus/ S20 Ultra/ Note 20/ 20 Ultra/ 10/ 10 Plus Galaxy Z fold / flip 3/ S22/ S22+/ S22 Ultra/ A53/ A33/ Galaxy Tab S8+ 5G, Google Pixel 6 6 Pro 5 4a 3a XL 4 XL 3 2 XL.",
+        "【Built-in Mic & Volume Control】: The wired ear buds built-in high quality microphone, no noise interference during calls. The control button allow you to play/pause songs, skip next/previous song without picking up your phone. Easy access to volume control on the go and easily answer calls, end calls. Metal-plated connectors greatly reduce the phenomenon of poor contact, Stretch resistant, long-lasting.",
+        "【Enhanced Audio Quality】: The usb c headphone built-in latest digital DAC chip, converts standard resolution audio to superior lossless audio and making the output sound quality more clear and realistic.This advanced noise canceling USB C Earphones makes the music perfectly wrapped in your ear to let you easily enjoy overall listening experience.",
+        "【Comfortable In-Ear Design】: The ergonomic and comfortable in-ear design not only reduces pain and fatigue from prolonged wear of these Type C earphones, but Anti-knot Design, Built-in powerful magnet on the back of earbuds, easy to roll up and take it and without any tangle in daily use Type C headphones are lightweight and portable, ideal for commuting, taking the bus, running, climbing, and other occasions, to enjoy beautiful music anywhere.",
+        "【Customer Satisfaction & Warranty】: This product comes with 2 USB C headphones and an 24-month worry-free replacement warranty. it is the first step that must done. If there are any issues, We provide 10*24 online support standing by and 24 months quality assurance service.We're the gold standard in budget wired headphones."
+    ],
+    "breadcrumbs": [],
+    "media": {
+        "primary_image": "https://m.media-amazon.com/images/I/61fGxlVlLLL.__AC_SX800_SY800_QL70_FMwebp_.jpg",
+        "secondary_images": [
+            "https://m.media-amazon.com/images/I/41CCOmgpcgL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41h0-rNNATL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41jksdXXRZL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/415YELkPodL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41iTmVHaf2L._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/515+lCtOrEL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/31bOiify4EL._AC_US_.jpg"
+        ],
+        "featured_images": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9732e125-186d-449e-9457-704380447e28.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4beeffe7-31d8-4ee5-8758-5cb3fe10e7e8.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/baa67b05-c61a-4a6c-a45f-fbf248197677.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7034fca7-4c14-4084-8f65-5d50c5eca8df.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a2eeaa43-4548-4edb-b05b-1a1495964f76.mp4/productVideoOptimized.mp4"
+        ]
+    },
+    "ratings": {
+        "avg_rating": "4 out of 5",
+        "total_ratings": "104 global ratings",
+        "distribution": {
+            "5 star": "61%",
+            "4 star": "13%",
+            "3 star": "7%",
+            "2 star": "6%",
+            "1 star": "13%"
+        }
+    }
+},
+{
+    "created_at": "2025-02-06T18:29:25.605358",
+    "updated_at": "2025-02-06T18:29:25.605358",
+    "scrape_date": "2025-02-06",
+    "url": "https://www.amazon.com/Monster-Persona-SE-ANC-Cancelling/dp/B0DHS9JMN9/ref=sr_1_216?dib=eyJ2IjoiMSJ9.v4CYnUKviRih9eotlt5ApdRX4UvrS7yUTzbOjFkgmTGDn-Ef-UJHCldReh94D1S3yBLDbsubkQfGnYShUW-6Ji12NwYHd0bpFP6T377vtkKe4ZjBNYCAfkJC3cSgw36t6Juh7IYzS2otQ-BSLYoq4m5EyZx2ZytxQfzg7AMOZcrOmDbQKWvL1WtA-COoxo2-QcFLM0AUdcTTtXu7nEKGRkNfI5D46r8Il-B4yZ1g2bk.56o1Cx0L3BCWO3atExs4tVIUKZn7wONyIuK0WfB2Gzk&dib_tag=se&keywords=headphones&qid=1738866349&sr=8-216&xpid=e5LGh1mEO1xrA",
+    "name": "Monster Persona SE ANC Active Noise Cancelling Headphones, Wireless Bluetooth Headphones Over Ear, 60H Playtime, HiFi Stereo Audio, Deep Bass, Built-in Mic, Memory Foam Ear Cups for Home Office",
+    "price": "$199.99",
+    "options": {},
+    "specifications": {
+        "Brand": "MONSTER(モンスター)",
+        "Color": "Dark Black",
+        "Ear Placement": "Over Ear",
+        "Form Factor": "Over Ear",
+        "Noise Control": "Active Noise Cancellation",
+        "Model Name": "Monster Persona SE ANC",
+        "Connectivity Technology": "Wireless",
+        "Wireless Communication Technology": "Bluetooth",
+        "Included Components": "Monster Persona SE ANC Headphones × 1, Type C- Charging Cable x 1, User Manual × 1",
+        "Age Range (Description)": "Adult",
+        "Material": "Leather",
+        "Specific Uses For Product": "Travel, Entertainment, Fitness",
+        "Charging Time": "2 Hours",
+        "Recommended Uses For Product": "Cycling, Motorcycling, Calling, Running, Snowboarding, Skateboarding, Exercising, Gaming",
+        "Compatible Devices": "Compatible with any Bluetooth-enabled device, such as computers, smartphones or tablets, MP3 Player, TV, Laptop",
+        "Control Type": "Button Control",
+        "Water Resistance Level": "Not Water Resistant",
+        "Number of Items": "1",
+        "Controller Type": "Button",
+        "Battery Life": "60 Hours",
+        "Audio Driver Type": "Hybrid Driver",
+        "Bluetooth Version": "5.4",
+        "Audio Driver Size": "40 Millimeters",
+        "Earpiece Shape": "over_ear_cups",
+        "Manufacturer": "Monster",
+        "Product Dimensions": "5.91 x 4.72 x 2.36 inches",
+        "Item Weight": "1.26 pounds",
+        "ASIN": "B0DHS9JMN9",
+        "Item model number": "Monster Persona SE ANC",
+        "Batteries": "1 AAA batteries required. (included)",
+        "Customer Reviews": "4.2 4.2 out of 5 stars 29 ratings var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); }); 4.2 out of 5 stars",
+        "Best Sellers Rank": "#102,201 in Electronics (See Top 100 in Electronics) #2,644 in Over-Ear Headphones",
+        "Date First Available": "September 23, 2024"
+    },
+    "features": [
+        "Active Noise Cancellation - Experience true peace and quiet with Monster Persona active noise cancelling headphones by pressing the ANC button, the advanced digital noise cancellation algorithm blocks out up to 98% of ambient noise, so you can focus on what truly matters.",
+        "Pure Monster Sound And Deep Bass - Monster Bluetooth headphones adopt the unique digital audio processor and powerful 40mm drivers to enhance and reproduce perfect Hifi immersive stereo audio. The unique Pure Monster Sound technology provides you with a balanced and immersive audio experience, immerse yourself in powerful, deep bass, and feel every beat and note with clarity and precision.",
+        "60H Playtime And Type-C Fast Charge - Monster Persona over ear headphones play up to 40 hours of music in noise cancelling mode. Standard mode extends the playtime to 60 hours. Designed with Type-C fast charging, enjoy 4hour listening with a 5-minute charge.",
+        "One Step Paring and Bluetooth 5.4 - Monster Persona wireless headphones will automatically connect to any Bluetooth-enabled device immediately after the first connection. Bluetooth 5.4 technology ensures stable transmission speed, lower latency, and better audio output. No more tangled cords or limiting freedom of movement, let yourself feel the joy of moving with the favorite music.",
+        "Ultra Comfort and Convenient Carry - Monster noise cancelling headphones have ultra-soft protein leather earcups with memory foam padding to fit snugly over the ears. The lightweight build also ensures they're comfortable for long listening sessions. The over ear headphones are equipped with adjustable headbands to fit different head sizes, a foldable design to save space, convenient to carry and keep."
+    ],
+    "breadcrumbs": [],
+    "media": {
+        "primary_image": "https://m.media-amazon.com/images/I/61T4TcnYBzL.__AC_SX800_SY800_QL70_FMwebp_.jpg",
+        "secondary_images": [
+            "https://m.media-amazon.com/images/I/31z1rDX5qDL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51mGw9RtvFL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41kFHfsC2IL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41DZEvvIL7L._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/419+MpNWYhL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51kvgLtAiNL._AC_US_.jpg"
+        ],
+        "featured_images": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3eef7e93-6235-4f64-9ffb-5fe60be9ac79.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1530e908-2a4b-46b8-b8a9-95e4a66d2b85.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f86d9ff3-b54b-4fb3-9f6f-403a07f51127.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1eec385a-9abc-4628-a1fc-d99a9a42c99f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+        ],
+        "videos": [
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4beeffe7-31d8-4ee5-8758-5cb3fe10e7e8.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9732e125-186d-449e-9457-704380447e28.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/baa67b05-c61a-4a6c-a45f-fbf248197677.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7034fca7-4c14-4084-8f65-5d50c5eca8df.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a2eeaa43-4548-4edb-b05b-1a1495964f76.mp4/productVideoOptimized.mp4"
+        ]
+    },
+    "ratings": {
+        "avg_rating": "4.2 out of 5",
+        "total_ratings": "29 global ratings",
+        "distribution": {
+            "5 star": "52%",
+            "4 star": "23%",
+            "3 star": "15%",
+            "2 star": "10%"
+        }
+    }
+},
+{
+    "created_at": "2025-02-06T18:29:40.026492",
+    "updated_at": "2025-02-06T18:29:40.026492",
+    "scrape_date": "2025-02-06",
+    "url": "https://www.amazon.com/AKG-K240STUDIO-Semi-Open-Professional-Headphones/dp/B0001ARCFA/ref=sr_1_215?dib=eyJ2IjoiMSJ9.v4CYnUKviRih9eotlt5ApdRX4UvrS7yUTzbOjFkgmTGDn-Ef-UJHCldReh94D1S3yBLDbsubkQfGnYShUW-6Ji12NwYHd0bpFP6T377vtkKe4ZjBNYCAfkJC3cSgw36t6Juh7IYzS2otQ-BSLYoq4m5EyZx2ZytxQfzg7AMOZcrOmDbQKWvL1WtA-COoxo2-QcFLM0AUdcTTtXu7nEKGRkNfI5D46r8Il-B4yZ1g2bk.56o1Cx0L3BCWO3atExs4tVIUKZn7wONyIuK0WfB2Gzk&dib_tag=se&keywords=headphones&qid=1738866349&sr=8-215&xpid=e5LGh1mEO1xrA",
+    "name": "AKG Headphones, Gold, One Size (K240STUDIO)",
+    "price": "$57.78",
+    "options": {
+        "style": [
+            "Over Ear Headphones",
+            "K240 MKII Pro Headphones"
+        ]
+    },
+    "specifications": {
+        "Brand": "AKG",
+        "Color": "Gold",
+        "Ear Placement": "Over Ear",
+        "Form Factor": "Over Ear",
+        "Impedance": "55 Ohm",
+        "Noise Control": "None",
+        "Frequency Response": "28000 Hz",
+        "Sensitivity": "104 dB",
+        "Headphones Jack": "3.5 mm;6.3 mm",
+        "Model Name": "Pro Audio",
+        "Connectivity Technology": "Wired",
+        "Included Components": "3 meter (3.3 feet) cable with stereo 3.5 mm (1/8\") connector, K240 Studio Headphones, 6.3 mm (1/4\") screw-on adapter",
+        "Age Range (Description)": "All",
+        "Material": "Stainless Steel",
+        "Specific Uses For Product": "DJ, Studio, Home",
+        "Recommended Uses For Product": "Music",
+        "Compatible Devices": "Laptops, Desktops, Music Production Equipment, Tablets, Cellphones, Telephones",
+        "Theme": "Music",
+        "Control Type": "Call Control",
+        "Cable Feature": "Detachable",
+        "Item Weight": "8.5 ounces",
+        "Water Resistance Level": "Not Water Resistant",
+        "Frequency Range": "15 Hz - 25 kHz",
+        "Package Type": "Standard Packaging",
+        "Unit Count": "1.0 Count",
+        "Style": "Over Ear Headphones",
+        "Number of Items": "1",
+        "Cable Length": "9.8 Feet",
+        "Controller Type": "Wired",
+        "Audio Driver Type": "Dynamic Driver",
+        "Earpiece Shape": "Rounded",
+        "Is Autographed": "No",
+        "UPC": "885038026730",
+        "Global Trade Identification Number": "09002761005950, 08032182450344",
+        "Manufacturer": "JBL",
+        "ASIN": "B0001ARCFA",
+        "Item model number": "K240STUDIO",
+        "Customer Reviews": "4.5 4.5 out of 5 stars 15,806 ratings var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); }); 4.5 out of 5 stars",
+        "Best Sellers Rank": "#5,003 in Electronics (See Top 100 in Electronics) #249 in Over-Ear Headphones",
+        "Is Discontinued By Manufacturer": "No",
+        "Date First Available": "September 1, 2004",
+        "Color Name": "Gold",
+        "Connector Type": "3.5mm Jack",
+        "Material Type": "Stainless Steel",
+        "Size": "One Size",
+        "Color Screen": "No",
+        "Hardware Platform": "PC",
+        "Linux System Requirements": "pc",
+        "Mac System Requirements": "pc",
+        "Windows System Requirements": "pc",
+        "Unix System Requirements": "pc",
+        "Wattage": "200 Milliwatts"
+    },
+    "features": [
+        "55 ohms impedance, plug-in cable",
+        "Self-adjusting headband for optimum fit",
+        "Single cable for ease of use",
+        "Semi-open, circumaural design"
+    ],
+    "breadcrumbs": [],
+    "media": {
+        "primary_image": "https://m.media-amazon.com/images/I/71GqLOydxRL.__AC_SX800_SY800_QL70_FMwebp_.jpg",
+        "secondary_images": [
+            "https://m.media-amazon.com/images/I/419t8ehTWZL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/31EfljSTVHL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/31tfadtEEwL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41iNHXdBMhL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/31+Dr4reZkL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/31oqysKUtXL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/31QnT-qe3vL._AC_US_.jpg"
+        ],
+        "featured_images": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9732e125-186d-449e-9457-704380447e28.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4beeffe7-31d8-4ee5-8758-5cb3fe10e7e8.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/baa67b05-c61a-4a6c-a45f-fbf248197677.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7034fca7-4c14-4084-8f65-5d50c5eca8df.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a2eeaa43-4548-4edb-b05b-1a1495964f76.mp4/productVideoOptimized.mp4"
+        ]
+    },
+    "ratings": {
+        "avg_rating": "4.5 out of 5",
+        "total_ratings": "15,806 global ratings",
+        "distribution": {
+            "5 star": "73%",
+            "4 star": "15%",
+            "3 star": "6%",
+            "2 star": "3%",
+            "1 star": "4%"
+        }
+    }
+},
+{
+    "created_at": "2025-02-06T18:29:50.015160",
+    "updated_at": "2025-02-06T18:29:50.015160",
+    "scrape_date": "2025-02-06",
+    "url": "https://www.amazon.com/Monster-Headphones-Bluetooth-Wireless-Waterproof/dp/B0DP2832QN/ref=sr_1_214?dib=eyJ2IjoiMSJ9.v4CYnUKviRih9eotlt5ApdRX4UvrS7yUTzbOjFkgmTGDn-Ef-UJHCldReh94D1S3yBLDbsubkQfGnYShUW-6Ji12NwYHd0bpFP6T377vtkKe4ZjBNYCAfkJC3cSgw36t6Juh7IYzS2otQ-BSLYoq4m5EyZx2ZytxQfzg7AMOZcrOmDbQKWvL1WtA-COoxo2-QcFLM0AUdcTTtXu7nEKGRkNfI5D46r8Il-B4yZ1g2bk.56o1Cx0L3BCWO3atExs4tVIUKZn7wONyIuK0WfB2Gzk&dib_tag=se&keywords=headphones&qid=1738866349&sr=8-214&xpid=e5LGh1mEO1xrA",
+    "name": "Monster Open Ear AC600 Headphones, Bluetooth 5.4 Wireless Earbuds with HiFi Stereo, Clip-On Earbuds with ENC Clear Call, 21H Playtime, Touch Control, IPX6 Waterproof Wireless Headphones for Workouts",
+    "price": "$149.99",
+    "options": {},
+    "specifications": {
+        "Brand": "Monster",
+        "Color": "Deep Black",
+        "Ear Placement": "Open Ear",
+        "Form Factor": "Open Ear",
+        "Noise Control": "None",
+        "Model Name": "Monster Open Ear AC600",
+        "Connectivity Technology": "Wireless",
+        "Wireless Communication Technology": "Bluetooth",
+        "Included Components": "User Manual X 1, Monster Open Ear AC600 Headphones X 1, Type-C Charging Cable X 1",
+        "Age Range (Description)": "Adult",
+        "Material": "Plastic",
+        "Specific Uses For Product": "Travel, Entertainment, Fitness",
+        "Charging Time": "2 Hours",
+        "Recommended Uses For Product": "Cycling, Motorcycling, Calling, Running, Skateboarding, Exercising, Gaming",
+        "Compatible Devices": "Compatible with any Bluetooth-enabled device, such as computers, smartphones or tablets, MP3 Player, TV, Laptop",
+        "Theme": "Sports and Fitness",
+        "Control Type": "Touch Control",
+        "Cable Feature": "Without Cable",
+        "Water Resistance Level": "Water Resistant",
+        "Frequency Range": "20 Hz - 20,000 Hz",
+        "Package Type": "Box",
+        "Style": "Open ear-Black",
+        "Control Method": "Touch",
+        "Number of Items": "1",
+        "Controller Type": "Touch",
+        "Battery Life": "21 Hours",
+        "Audio Driver Type": "Dynamic Driver",
+        "Bluetooth Version": "5.4",
+        "Carrying Case Battery Average Life": "21 Hours",
+        "Carrying Case Battery Charging Time": "2 Hours",
+        "Earpiece Shape": "Clip-on",
+        "Is Autographed": "No",
+        "Number of Power Levels": "15",
+        "Manufacturer": "Monster",
+        "Package Dimensions": "5.35 x 4.49 x 1.93 inches",
+        "Item Weight": "5.3 ounces",
+        "ASIN": "B0DP2832QN",
+        "Item model number": "E31",
+        "Batteries": "1 Lithium Ion batteries required. (included)",
+        "Customer Reviews": "4.1 4.1 out of 5 stars 2,532 ratings var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); }); 4.1 out of 5 stars",
+        "Best Sellers Rank": "#6,671 in Electronics (See Top 100 in Electronics) #87 in Open-Ear Headphones",
+        "Date First Available": "October 16, 2024",
+        "Country of Origin": "China"
+    },
+    "features": [
+        "【Clip-on Design With Pure Monster Sound】Monster Wireless Earbuds adopt the unique digital audio processor and powerful 13mm drivers to enhance and reproduce perfect Hifi immersive stereo audio, equipped with Qualcomm apt-X high-definition audio decoding to restore richer sound details. The open ear clip earbuds are based on an ergonomic design to prevent the complete sealing of the canal, reducing discomfort during long wear.",
+        "【Comfortable And Secure Fit For Everyday Use】Monster open ear earbuds weigh ONLY 0.2 oz, typically lighter and more breathable than other headphones, which makes them more comfortable to wear for extended periods of time. Constructed from innovative, non-deforming hard-shell material, the clip on earbuds are meticulously designed to retain their shape for a consistently secure fit, no matter how much you use them.",
+        "【DNN Noise Reduction & Crystal Clear Calls】DNN Intelligent Noise Filtering Technology minimizes audio distractions, allowing you to hear crystal clear calls like you are communicating face to face with others, and enjoy clear hands-free calling.",
+        "【IPX6 Water Resistant For Any Workouts】Designed for active lifestyles, it prevents water and sweat from penetrating and can be used in any harsh environment. Monster open earbuds are the perfect sports partner for running, cycling, mountaineering, and sports and fitness enthusiasts, without worrying about sweating profusely.",
+        "【Bluetooth 5.4 Connection & Smart Touch Control】Monster Bluetooth headphones feature the latest Bluetooth 5.4 technology, ensuring a fast and stable connection. You can enjoy a low-latency listening experience with audio and video perfectly synced without any delay."
+    ],
+    "breadcrumbs": [],
+    "media": {
+        "primary_image": "https://m.media-amazon.com/images/I/61ew3mr+AHL._AC_SY800_SX800_.jpg",
+        "secondary_images": [
+            "https://m.media-amazon.com/images/I/419I6FbH0KL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41HanRYiMqL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51hbXaqKq4L._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41wBDwhda1L._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41eFuDdYQUL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41IMIurGRGL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41QrYFI4WKL._AC_US_.jpg"
+        ],
+        "featured_images": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d7ea3dfa-b41c-472a-8b53-e7f40a1839c2.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fd98a033-4aed-4d8e-b0f2-947e4fd9e238.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/472a049d-788c-4452-a80a-99b0b42ae677.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/70886274-df94-48c3-ab0c-6cd63da1c24d.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ecb19a06-0eba-4fbd-99a7-1c5302355605.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+        ],
+        "videos": [
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9732e125-186d-449e-9457-704380447e28.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4beeffe7-31d8-4ee5-8758-5cb3fe10e7e8.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7034fca7-4c14-4084-8f65-5d50c5eca8df.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/08b2819b-4717-4677-978e-b3b799ba1c6c.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/baa67b05-c61a-4a6c-a45f-fbf248197677.mp4/productVideoOptimized.mp4"
+        ]
+    },
+    "ratings": {
+        "avg_rating": "4.1 out of 5",
+        "total_ratings": "2,532 global ratings",
+        "distribution": {
+            "5 star": "55%",
+            "4 star": "21%",
+            "3 star": "10%",
+            "2 star": "6%",
+            "1 star": "8%"
+        }
+    }
+},
+{
+    "created_at": "2025-02-06T18:30:03.737222",
+    "updated_at": "2025-02-06T18:30:03.737222",
+    "scrape_date": "2025-02-06",
+    "url": "https://www.amazon.com/Belkin-SoundForm-Noise-Cancelling-Headphones-CloudCushion/dp/B0DQLWL9T3/ref=sr_1_213?dib=eyJ2IjoiMSJ9.v4CYnUKviRih9eotlt5ApdRX4UvrS7yUTzbOjFkgmTGDn-Ef-UJHCldReh94D1S3yBLDbsubkQfGnYShUW-6Ji12NwYHd0bpFP6T377vtkKe4ZjBNYCAfkJC3cSgw36t6Juh7IYzS2otQ-BSLYoq4m5EyZx2ZytxQfzg7AMOZcrOmDbQKWvL1WtA-COoxo2-QcFLM0AUdcTTtXu7nEKGRkNfI5D46r8Il-B4yZ1g2bk.56o1Cx0L3BCWO3atExs4tVIUKZn7wONyIuK0WfB2Gzk&dib_tag=se&keywords=headphones&qid=1738866349&sr=8-213&xpid=e5LGh1mEO1xrA",
+    "name": "Belkin SoundForm Isolate Noise-Cancelling Over-Ear Headphones, Hybrid Active Noise-Cancelling, Wireless, Bluetooth w/ 60H Playtime, Deep Bass, CloudCushion Ear Cups for Travel, Home, or Office - Sand",
+    "price": "$44.99",
+    "options": {
+        "color": [
+            "Black",
+            "Sand"
+        ]
+    },
+    "specifications": {
+        "Brand": "Belkin",
+        "Color": "Sand",
+        "Ear Placement": "Over Ear",
+        "Form Factor": "Over Ear",
+        "Noise Control": "Active Noise Cancellation",
+        "Headphones Jack": "3.5 mm Jack",
+        "Model Name": "Belkin SoundForm Isolate",
+        "Connectivity Technology": "Wireless, Bluetooth",
+        "Wireless Communication Technology": "Bluetooth",
+        "Included Components": "1 x SoundForm Isolate Headphones, 1 x USB-C charging and audio cable, 1 x 3.5mm AUX audio cable",
+        "Age Range (Description)": "Adult",
+        "Material": "Plastic",
+        "Specific Uses For Product": "Travel, Home, Office, Study, Sports",
+        "Charging Time": "6E+1 minutes",
+        "Recommended Uses For Product": "Office, Travel, Music, Relaxation/Focus, Calling, Home",
+        "Compatible Devices": "Apple iPhone 16 Series, iPhone 15 Series, iPhone 14 Series, iPhone 13 Series, iPhone 12 Series, Samsung Galaxy S24 Series, Galaxy S23 Series, Galaxy S22 Series, Google Pixel 9, Google Pixel 8, Google Pixel 7, iPad Pro, Tablet, MacBook Pro, and more. Bluetooth compatible devices",
+        "Control Type": "Touch Control",
+        "Water Resistance Level": "Not Water Resistant",
+        "Frequency Range": "20Hz-20kHz",
+        "Style": "Modern",
+        "Control Method": "Touch",
+        "Number of Items": "1",
+        "Battery Life": "6E+1 Hours",
+        "Audio Driver Type": "Dynamic Driver",
+        "Bluetooth Range": "33 Feet",
+        "Bluetooth Version": "5.4",
+        "Earpiece Shape": "Over Ear",
+        "Is Autographed": "No",
+        "Number of Power Levels": "10",
+        "UPC": "745883901388",
+        "Manufacturer": "Belkin",
+        "Package Dimensions": "6.93 x 5.59 x 3.31 inches",
+        "Item Weight": "12.1 ounces",
+        "ASIN": "B0DQLWL9T3",
+        "Item model number": "AUD008fqSA",
+        "Customer Reviews": "4.1 4.1 out of 5 stars 45 ratings var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); }); 4.1 out of 5 stars",
+        "Best Sellers Rank": "#16,116 in Electronics (See Top 100 in Electronics) #701 in Over-Ear Headphones",
+        "Other display features": "CE",
+        "Country of Origin": "China",
+        "Date First Available": "December 23, 2024"
+    },
+    "features": [
+        "ALL-DAY BATTERY + QUALITY CALLS: Up to 60 hours of battery life keeps your headphones working all day with a single charge. Plus, advanced hybrid active noise cancellation combines feedforward and feedback mics,* reducing external noise by up to 25 dB.",
+        "TRUE WIRELESS BLUETOOTH 5.4 CONNECTION: Enjoy the latest Bluetooth 5.4 technology for a stable, reliable connection with all Bluetooth-enabled devices within a 33-foot (10M) range, providing smooth, high-quality audio without interruption.",
+        "MULTIPLE LISTENING MODES FOR EVERY ENVIRONMENT: Choose from Belkin Signature Sound for balanced high-fidelity audio, Active Noise Cancellation (ANC) for maximum noise reduction, or Hear Thru mode to stay aware of surroundings—all at the touch of a button.",
+        "ISOLATE EFFECT PRODUCES RELAXING OCEAN WAVE SOUNDS: The unique 'Isolate' feature plays soothing ocean wave sounds to create a calming atmosphere and help tune out distracting background noise, making it ideal for focus or unwinding.",
+        "BLUETOOTH MULTIPOINT 2-DEVICE CONNECTION: Stay connected to 2 devices at once; enjoy a seamless transition from your laptop to your iPhone and vice versa. Switch back and forth between taking calls on the laptop and listening to music on your phone.",
+        "TRUE WIRELESS BLUETOOTH 5.4 CONNECTION: Enjoy the latest Bluetooth 5.4 technology for a stable, reliable connection with all Bluetooth-enabled devices within a 33-foot (10M) range, providing smooth, high-quality audio without interruption.",
+        "UNIVERSAL COMPATIBILITY + USB-C FAST CHARGING: SoundForm Isolate includes both 3.5mm and USB-C cables, letting you connect to a wide variety of modern audio sources. Plus, the USB-C port supports fast charging, ensuring minimal downtime between uses.**",
+        "SUSTAINABLY MADE + 2-YEAR WARRANTY: Our SoundForm Isolate wireless headphones are made with post-consumer recycled materials*** (43.81% total aggregate) and 100% plastic-free packaging. And a 2-year warranty ensures you can purchase with peace of mind."
+    ],
+    "breadcrumbs": [],
+    "media": {
+        "primary_image": "https://m.media-amazon.com/images/I/61MhuUWkZ8L.__AC_SX800_SY800_QL70_FMwebp_.jpg",
+        "secondary_images": [
+            "https://m.media-amazon.com/images/I/31k0BaxAMAL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41I2BmzYEoL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41OxaYejdwL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41p4WVRXMqL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/412o4gqhdqL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/4116ToSDM3L._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/51CbF03OKiL.SX38_SY50_CR,0,0,38,50_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg"
+        ],
+        "featured_images": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9732e125-186d-449e-9457-704380447e28.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4beeffe7-31d8-4ee5-8758-5cb3fe10e7e8.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/baa67b05-c61a-4a6c-a45f-fbf248197677.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7034fca7-4c14-4084-8f65-5d50c5eca8df.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a2eeaa43-4548-4edb-b05b-1a1495964f76.mp4/productVideoOptimized.mp4"
+        ]
+    },
+    "ratings": {
+        "avg_rating": "4.1 out of 5",
+        "total_ratings": "45 global ratings",
+        "distribution": {
+            "5 star": "45%",
+            "4 star": "30%",
+            "3 star": "18%",
+            "2 star": "3%",
+            "1 star": "3%"
+        }
+    }
+},
+{
+    "created_at": "2025-02-06T18:30:20.193923",
+    "updated_at": "2025-02-06T18:30:20.193923",
+    "scrape_date": "2025-02-06",
+    "url": "https://www.amazon.com/SAMSUNG-Cancelling-Optimization-Interpreter-Redesigned/dp/B0D9YZJ3V7/ref=sr_1_212?dib=eyJ2IjoiMSJ9.v4CYnUKviRih9eotlt5ApdRX4UvrS7yUTzbOjFkgmTGDn-Ef-UJHCldReh94D1S3yBLDbsubkQfGnYShUW-6Ji12NwYHd0bpFP6T377vtkKe4ZjBNYCAfkJC3cSgw36t6Juh7IYzS2otQ-BSLYoq4m5EyZx2ZytxQfzg7AMOZcrOmDbQKWvL1WtA-COoxo2-QcFLM0AUdcTTtXu7nEKGRkNfI5D46r8Il-B4yZ1g2bk.56o1Cx0L3BCWO3atExs4tVIUKZn7wONyIuK0WfB2Gzk&dib_tag=se&keywords=headphones&qid=1738866349&sr=8-212&xpid=e5LGh1mEO1xrA",
+    "name": "SAMSUNG Galaxy Buds 3 Pro AI True Wireless Bluetooth Earbuds, Noise Cancelling, Sound Optimization, Real-Time Interpreter, Redesigned Comfort Fit, Silver [US Version, Amazon Exclusive 2Yr Warranty]",
+    "price": "$199.99",
+    "options": {
+        "color": [
+            "White",
+            "Silver"
+        ]
+    },
+    "specifications": {
+        "Brand": "SAMSUNG",
+        "Color": "Silver",
+        "Ear Placement": "In Ear",
+        "Form Factor": "In Ear",
+        "Noise Control": "Active Noise Cancellation, Adaptive Noise Cancellation",
+        "Frequency Response": "96 KHz",
+        "Model Name": "Buds3 Pro",
+        "Connectivity Technology": "Wireless",
+        "Wireless Communication Technology": "Bluetooth",
+        "Included Components": "L Earbud, USB-C Cable, S, M, L Eartips, Charging Case, R Earbud",
+        "Age Range (Description)": "Adult",
+        "Material": "Plastic",
+        "Specific Uses For Product": "Travel, Entertainment",
+        "Recommended Uses For Product": "Calling",
+        "Compatible Devices": "Cellphones, Tablets",
+        "Control Type": "Touch Control",
+        "Cable Feature": "Without Cable",
+        "Item Weight": "0.19 ounces",
+        "Water Resistance Level": "Water Resistant",
+        "Package Type": "Standard Packaging",
+        "Style": "Buds 3 Pro",
+        "Control Method": "Touch",
+        "Number of Items": "1",
+        "Controller Type": "Touch",
+        "Battery Life": "6 Hours",
+        "Bluetooth Version": "5.4",
+        "Carrying Case Battery Average Life": "26 Hours",
+        "Carrying Case Material": "Plastic",
+        "Carrying Case Color": "Silver",
+        "Earpiece Shape": "Bud",
+        "Is Autographed": "No",
+        "Series Number": "3",
+        "UPC": "887276910802",
+        "Manufacturer": "SAMSUNG",
+        "Product Dimensions": "1.31 x 0.71 x 1.31 inches",
+        "ASIN": "B0D9YZJ3V7",
+        "Item model number": "SM-R630NZAEXAR",
+        "Customer Reviews": "4.1 4.1 out of 5 stars 888 ratings var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); }); 4.1 out of 5 stars",
+        "Special features": "Volume Control, Lightweight, Noise Cancellation, Fast Charging, Wireless Charging",
+        "Other display features": "Wireless",
+        "Country of Origin": "Vietnam",
+        "Date First Available": "July 23, 2024"
+    },
+    "features": [
+        "REDESIGNED WITH THE BEST SOUND IN MIND: Keep your Galaxy Buds3 Pro in with a design that delivers long-lasting comfort for an immersive listening experience",
+        "A SLEEK DESIGN MADE TO SHINE: Let your sound shine as much as you do with Buds3 Pro that light up¹",
+        "AUDIO THAT ADAPTS TO YOUR SURROUNDINGS: Immerse yourself while staying alert to your surroundings thanks to Adaptive Active Noise Cancellation with Galaxy AI²; Your Buds will automatically adapt to help you hear what matters²",
+        "AUDIO TAILORED TO BEST FIT YOU: Immerse yourself in the best listening experience, no matter how you wear your Galaxy Buds3 Pro; An Adaptive Equalizer for Sound Optimization with Galaxy AI allows you to get the most out of your audio²",
+        "SOUND THAT TRANSPORTS YOU: Your favorite content deserves our best and most immersive audio¹",
+        "THEY SAY “HOLA,” YOU HEAR “HELLO: Hear translations through your Galaxy Buds during face-to-face conversations using Real-Time Interpreter with Galaxy AI³",
+        "YOUR BEST BUDS FOR TRANSLATING CALLS: Hear translations through your Galaxy Buds while using the Samsung Phone app³"
+    ],
+    "breadcrumbs": [],
+    "media": {
+        "primary_image": "https://m.media-amazon.com/images/I/61zW8yc4hTL.__AC_SX800_SY800_QL70_FMwebp_.jpg",
+        "secondary_images": [
+            "https://m.media-amazon.com/images/I/413kP+TefdL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41RnGAqqQoL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41ct-vYaZ5L._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41YTW+ES4CL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41qo2dMt+JL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41q+LFI1E-L._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41CK8GzIjtL.SX38_SY50_CR,0,0,38,50_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg"
+        ],
+        "featured_images": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ac91c8f2-53da-4dbc-b78f-2fa16dcc82dc.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a66c7c91-b5ab-40d6-bb3f-95ea5eecdda2.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f4916f0c-db7b-428d-9d15-f1481374599b.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/dbfbe6ae-b038-479d-af03-93085d8f5723.__CR0,0,3051,1250_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/eba044d4-b873-4605-be40-9f0841a44ca6.__CR0,0,3051,1250_PT0_SX1464_V1___.jpg"
+        ],
+        "videos": [
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9732e125-186d-449e-9457-704380447e28.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4beeffe7-31d8-4ee5-8758-5cb3fe10e7e8.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/baa67b05-c61a-4a6c-a45f-fbf248197677.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7034fca7-4c14-4084-8f65-5d50c5eca8df.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a2eeaa43-4548-4edb-b05b-1a1495964f76.mp4/productVideoOptimized.mp4"
+        ]
+    },
+    "ratings": {
+        "avg_rating": "4.1 out of 5",
+        "total_ratings": "888 global ratings",
+        "distribution": {
+            "5 star": "66%",
+            "4 star": "10%",
+            "3 star": "8%",
+            "2 star": "7%",
+            "1 star": "10%"
+        }
+    }
+},
+{
+    "created_at": "2025-02-06T18:30:31.483406",
+    "updated_at": "2025-02-06T18:30:31.483406",
+    "scrape_date": "2025-02-06",
+    "url": "https://www.amazon.com/Baseus-Bowie-30-Max-Headphones/dp/B0CZ9JSFCX/ref=sr_1_211?dib=eyJ2IjoiMSJ9.v4CYnUKviRih9eotlt5ApdRX4UvrS7yUTzbOjFkgmTGDn-Ef-UJHCldReh94D1S3yBLDbsubkQfGnYShUW-6Ji12NwYHd0bpFP6T377vtkKe4ZjBNYCAfkJC3cSgw36t6Juh7IYzS2otQ-BSLYoq4m5EyZx2ZytxQfzg7AMOZcrOmDbQKWvL1WtA-COoxo2-QcFLM0AUdcTTtXu7nEKGRkNfI5D46r8Il-B4yZ1g2bk.56o1Cx0L3BCWO3atExs4tVIUKZn7wONyIuK0WfB2Gzk&dib_tag=se&keywords=headphones&qid=1738866349&sr=8-211&xpid=e5LGh1mEO1xrA",
+    "name": "Baseus Bowie 30 Max Active Noise Cancelling Headphones, Head Tracking Spatial Audio, LDAC Hi-Res Wireless Sound, 65H Playtime, Comfort Fit, Clear Calls, App Control, Bluetooth 5.4 Headphones Over Ear",
+    "price": "$79.99",
+    "options": {},
+    "specifications": {
+        "Brand": "Baseus",
+        "Color": "Black",
+        "Ear Placement": "Over Ear",
+        "Form Factor": "Over Ear",
+        "Impedance": "32 Ohm",
+        "Noise Control": "Active Noise Cancellation",
+        "Headphones Jack": "3.5 mm Jack",
+        "Model Name": "Baseus Bowie 30 Max",
+        "Connectivity Technology": "Wireless, Bluetooth 5.4",
+        "Wireless Communication Technology": "Bluetooth 5.4",
+        "Included Components": "Bowie 30 Max Noise Cancelling Headphones, USB-C Charging Cable, 3.5mm Audio Cable, User Manual",
+        "Age Range (Description)": "Adult",
+        "Material": "Plastic",
+        "Specific Uses For Product": "Travel, Entertainment, Fitness",
+        "Recommended Uses For Product": "Music, Travel, Exercising",
+        "Compatible Devices": "Cellphones, Tablets, Devices with Bluetooth Audio Capability, including iOS, Android, Windows, Mac OS and Switch., Laptops",
+        "Control Type": "Button Control",
+        "Cable Feature": "Without Cable",
+        "Water Resistance Level": "Not Water Resistant",
+        "Frequency Range": "20 Hz - 20,000 Hz",
+        "Package Type": "Box",
+        "Control Method": "App",
+        "Number of Items": "1",
+        "Controller Type": "Button Control",
+        "Bluetooth Version": "5.4",
+        "Earpiece Shape": "Oval",
+        "Is Autographed": "No",
+        "UPC": "850060076855",
+        "Manufacturer": "Baseus",
+        "Package Dimensions": "9.21 x 8.62 x 2.24 inches",
+        "Item Weight": "1.08 pounds",
+        "ASIN": "B0CZ9JSFCX",
+        "Item model number": "Baseus Bowie 30 Max",
+        "Batteries": "1 Lithium Ion batteries required. (included)",
+        "Customer Reviews": "4.4 4.4 out of 5 stars 141 ratings var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); }); 4.4 out of 5 stars",
+        "Best Sellers Rank": "#17,354 in Electronics (See Top 100 in Electronics) #749 in Over-Ear Headphones",
+        "Date First Available": "March 28, 2024",
+        "Country of Origin": "China"
+    },
+    "features": [
+        "[Recommended by GRAMMY & EMMY Winner and Berklee Professor] \"My new Baseus Bowie 30 Max noise cancelling headphones are essential for my professional setup. They're perfect for studio work and long flights, offering superb sound quality, excellent noise cancellation, amazing spatial acoustics with head tracking, long-lasting battery, and a modern look. I feel comfortable even wearing it all day.\", said Claudio Ragazzi",
+        "[Brilliant Head Tracking Spatial Audio] Featuring Baseus BISA Pro acoustic technology, the built-in gyros and accelerometers ensure amazingly smooth and accurate tracking as you move your head, allowing you to experience lifelike and cinematic 3D audio at its best",
+        "[Effectively Eliminate 96% Noise] The hybrid active noise cancelling system blocks out up to 96% of external distraction noises with a wider range from plane engines to office chat. Also, use the App to choose your noise cancelling levels. Enjoy uninterrupted music anywhere with Bowie 30 Max noise canceling headphones",
+        "[300% Upgraded Audio Detail] Certified by Hi-Res Audio Wireless sound, Bowie 30 Max bluetooth headphones over the ear reproduces every detail heard only in a studio, with LDAC codec support that increases audio detail by 3 times compared to average audio",
+        "[Bass Enhanced by Up to 200%] The 50mm super bass drivers produce sound with up to 200% deeper bass and crisp treble. Turn on bass enhancement in the Baseus App for a more powerful bass and bounce with bass beats you can't resist. Also, you can use the App to customize your own EQ",
+        "[65 Hours of Playtime] Get 31 hours of playtime in active noise canceling mode with head tracking on to cover a whole day of enjoyment, with head tracking off to get up to 50 hours of playtime. In normal mode, extend it to 65 hours. If you are low on battery, charge for 10 minutes for 14 hours of playtime"
+    ],
+    "breadcrumbs": [],
+    "media": {
+        "primary_image": "https://m.media-amazon.com/images/I/611ItdtljJL.__AC_SX800_SY800_QL70_FMwebp_.jpg",
+        "secondary_images": [
+            "https://m.media-amazon.com/images/I/31U-QapMyvL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41neZ9wFlCL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/414-ck1IY7L._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41HmY-94aoL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41e-jF0vqhL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/416eQH5P4AL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/71mE5ERA4FL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg"
+        ],
+        "featured_images": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/12ef365d-a552-4bdb-a685-84f1c1f20b71.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f58fdb32-832b-4e13-8dbe-16a1077bbf89.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ca5f6a9f-5fec-4ff9-a860-e825d0d7f153.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/18f7279c-acb5-4483-b2ba-6b835923c4ca.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6d118ca1-720c-4797-9ff7-cd9336278a84.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/47cf61c1-bb31-4b13-ba45-d5869b1e4ef9.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d157ef86-37b5-44ed-a671-1d46e593d182.__CR0,0,362,453_PT0_SX362_V1___.jpg"
+        ],
+        "videos": [
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9732e125-186d-449e-9457-704380447e28.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4beeffe7-31d8-4ee5-8758-5cb3fe10e7e8.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/baa67b05-c61a-4a6c-a45f-fbf248197677.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7034fca7-4c14-4084-8f65-5d50c5eca8df.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a2eeaa43-4548-4edb-b05b-1a1495964f76.mp4/productVideoOptimized.mp4"
+        ]
+    },
+    "ratings": {
+        "avg_rating": "4.4 out of 5",
+        "total_ratings": "141 global ratings",
+        "distribution": {
+            "5 star": "62%",
+            "4 star": "25%",
+            "3 star": "6%",
+            "2 star": "1%",
+            "1 star": "5%"
+        }
+    }
+},
+{
+    "created_at": "2025-02-06T18:30:31.935143",
+    "updated_at": "2025-02-06T18:30:31.935143",
+    "scrape_date": "2025-02-06",
+    "url": "https://www.amazon.com/HyperX-Official-Compatible-Detachable-Noise-Cancelling/dp/B08KS397GY/ref=sr_1_10?dib=eyJ2IjoiMSJ9.hkeFfEL7O7dLU10a2aBZw99esjun4Kp3xpYywJ5nGQeEb2ggY3c5M7IOHSuKAGQ3UgKRbHW_zkZwywm_hN6ndWeTwEcIBbyc9cWefaKzEI23Ikk0gvS8z3fbkiD6Uzyds0IGpmpUBfjvq-48T9Vx6Sqyf7NlMVexr5VkDaxjjG8kVj4L-y0sLJnBGR91JCBCWm8DTvEH01nJlWKuaYS2XcVtuaDwr7U2gQqDM-0DEVk.urXRqmiKUxUDWkhJWXSyDhtbISP4ZfKEim2jZeUHk2U&dib_tag=se&keywords=headsets&qid=1738865657&sr=8-10",
+    "name": "HyperX CloudX, Official Xbox Licensed Gaming Headset, Compatible with Xbox One and Series X|S, Memory Foam Ear Cushions, Detachable Noise-Cancelling Mic, in-line Audio Controls,Black/ Silver",
+    "price": "$258.99",
+    "options": {},
+    "specifications": {
+        "Brand": "HyperX",
+        "Color": "Black, Silver",
+        "Ear Placement": "Over Ear",
+        "Form Factor": "Over Ear",
+        "Noise Control": "Active Noise Cancellation",
+        "Headphones Jack": "3.5 mm Jack",
+        "Model Name": "CloudX",
+        "Connectivity Technology": "Wired",
+        "Wireless Communication Technology": "Not Applicable - Wired",
+        "Included Components": "Detachable Mic, User Manual",
+        "Age Range (Description)": "Adult",
+        "Material": "Aluminum",
+        "Specific Uses For Product": "Personal, Gaming, Business",
+        "Compatible Devices": "Xbox Series X|S, Xbox One",
+        "Theme": "Video Game",
+        "Cable Feature": "Retractable",
+        "Item Weight": "11.9 ounces",
+        "Unit Count": "1.0 Count",
+        "Style": "CloudX",
+        "Number of Items": "1",
+        "Cable Length": "3 Feet",
+        "Controller Type": "Standard wired controller",
+        "Audio Driver Type": "Dynamic Driver",
+        "Audio Driver Size": "53 Millimeters",
+        "Earpiece Shape": "Circle",
+        "Is Autographed": "No",
+        "Series Number": "2",
+        "UPC": "196188047361",
+        "Global Trade Identification Number": "00196188047361",
+        "Manufacturer": "HP Inc.",
+        "ASIN": "B08KS397GY",
+        "Item model number": "CLOO3 600721CF",
+        "Batteries": "1 A batteries required.",
+        "Customer Reviews": "4.5 4.5 out of 5 stars 6,120 ratings var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); }); 4.5 out of 5 stars",
+        "Best Sellers Rank": "#306 in Video Games (See Top 100 in Video Games) #8 in Xbox One Headsets #20 in Xbox Series X & S Accessories",
+        "Date First Available": "September 26, 2020"
+    },
+    "features": [
+        "Headphones fit type:Over-Ear",
+        "Official Xbox licensed headset: CloudX was tested by Microsoft and works with Xbox controllers that have a 3.5 millimeter headset jack..Signature HyperX comfort: Cloud's legendary comfort will keep you gaming strong during those marathon gaming sessions.",
+        "Durable aluminum frame: The sturdy aluminum frame provides reliable durability and stability.",
+        "Immersive in-game audio: Enhanced bass reproduction and crystal clear lows, mids, and highs help fully immerse you in your gaming.",
+        "[Convenient in-line audio control]: Intuitive in-line audio controls allow you to adjust volume and mute mic without having to dig into console settings..Detachable noise-cancellation microphone: The flexible, detachable mic can be easily positioned as you like it, and removed if you're enjoying music..Flexible braided cable: The tough braided cable is engineered to withstand the perils of daily gaming and is flexible to allow you to move freely."
+    ],
+    "breadcrumbs": [],
+    "media": {
+        "primary_image": "https://m.media-amazon.com/images/I/71yqtewaJKL.__AC_SX800_SY800_QL70_FMwebp_.jpg",
+        "secondary_images": [
+            "https://m.media-amazon.com/images/I/31seZ60CVQL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41q2uYG77mL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/11UfEMMXOmL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41S1RBfeNwL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41QBmQ9pRYL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41sM5QCxWrL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg"
+        ],
+        "featured_images": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0b9d098f-9bbd-45d4-83ac-2ad0829de0ce.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+        ],
+        "videos": [
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f90c4ce4-d4b3-4376-83dc-5b460d39915a.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/8474cf9b-1e22-4543-84f9-d0e00c4d8b7e.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1e9983e5-e2fc-4790-b424-2fb31b658945.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/61162795-8826-4d29-a16a-8a43e7c542b2.mp4/productVideoOptimized.mp4",
+            "https://d1f0esyb34c1g2.cloudfront.net/transcode/storyTeller/A2S8GSYAQUWJZ8/1648763281442/cc4fc8b1-e9bb-4739-bac8-369330590f8f/1648763321511sbv.mp4"
+        ]
+    },
+    "ratings": {
+        "avg_rating": "4.5 out of 5",
+        "total_ratings": "6,120 global ratings",
+        "distribution": {
+            "5 star": "74%",
+            "4 star": "14%",
+            "3 star": "5%",
+            "2 star": "3%",
+            "1 star": "4%"
+        }
+    }
+},
+{
+    "created_at": "2025-02-06T18:31:32.274949",
+    "updated_at": "2025-02-06T18:31:32.274949",
+    "scrape_date": "2025-02-06",
+    "url": "https://www.amazon.com/Jimonyer-Surround-Headphones-Canceling-Flexible/dp/B0D45KJ869/ref=sr_1_4?dib=eyJ2IjoiMSJ9.hkeFfEL7O7dLU10a2aBZw99esjun4Kp3xpYywJ5nGQeEb2ggY3c5M7IOHSuKAGQ3UgKRbHW_zkZwywm_hN6ndWeTwEcIBbyc9cWefaKzEI23Ikk0gvS8z3fbkiD6Uzyds0IGpmpUBfjvq-48T9Vx6Sqyf7NlMVexr5VkDaxjjG8kVj4L-y0sLJnBGR91JCBCWm8DTvEH01nJlWKuaYS2XcVtuaDwr7U2gQqDM-0DEVk.urXRqmiKUxUDWkhJWXSyDhtbISP4ZfKEim2jZeUHk2U&dib_tag=se&keywords=headsets&qid=1738865657&sr=8-4",
+    "name": "Gaming Headset for PC/PS4/PS5/Xbox One/Switch, Stereo Surround Sound Gaming Headphones with Noise Canceling Flexible Mic, Computer Headset with 3.5mm Jack & RGB Light(Blue)",
+    "price": "$14.99",
+    "options": {
+        "color": [
+            "Purple",
+            "DeepBlack",
+            "Green",
+            "Blue",
+            "Black",
+            "White",
+            "Red"
+        ]
+    },
+    "specifications": {
+        "Brand": "Jimonyer",
+        "Color": "Blue",
+        "Ear Placement": "Over Ear",
+        "Form Factor": "Over Ear",
+        "Impedance": "32 Ohm",
+        "Noise Control": "Active Noise Cancellation",
+        "Frequency Response": "20 KHz",
+        "Headphones Jack": "3.5 mm Jack",
+        "Model Name": "A82-1",
+        "Connectivity Technology": "Wired",
+        "Wireless Communication Technology": "Wired",
+        "Included Components": "User Manual, 1 to 2 3.5mm Jack, Gaming Headset",
+        "Age Range (Description)": "All Age",
+        "Material": "Aluminum",
+        "Specific Uses For Product": "Gaming",
+        "Recommended Uses For Product": "Gaming",
+        "Compatible Devices": "PC, PS4,PS5 controller, Xbox One,Xbox One S/X controller, Mac, laptop, Phone,Mac",
+        "Theme": "Video Game",
+        "Control Type": "Volume Control",
+        "Cable Feature": "Tangle Free",
+        "Water Resistance Level": "Not Water Resistant",
+        "Frequency Range": "20 Hz - 20,000 Hz",
+        "Package Type": "FFP",
+        "Style": "Gaming",
+        "Control Method": "Touch",
+        "Number of Items": "1",
+        "Controller Type": "Button",
+        "Audio Driver Type": "Dynamic Driver",
+        "Carrying Case Color": "Black",
+        "Audio Driver Size": "50 Millimeters",
+        "Earpiece Shape": "Oval",
+        "Is Autographed": "No",
+        "Number of USB 2 Ports": "1",
+        "Manufacturer": "Jimonyer",
+        "Package Dimensions": "8.03 x 7.56 x 4.02 inches",
+        "Item Weight": "14.9 ounces",
+        "ASIN": "B0D45KJ869",
+        "Item model number": "A82-Blue",
+        "Customer Reviews": "4.3 4.3 out of 5 stars 398 ratings var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); }); 4.3 out of 5 stars",
+        "Best Sellers Rank": "#341 in Video Games (See Top 100 in Video Games) #15 in PlayStation 5 Headsets",
+        "Date First Available": "July 24, 2023",
+        "Country of Origin": "China"
+    },
+    "features": [
+        "【Exceptional Gaming Headsets】50mm high-density neodymium audio drivers with stereo surround sound and deep bass. The immersive audio provides you with a distinct gameplay advantage, and the fantastic movie viewing experience for movies sound.",
+        "【Humanized Design】The ideal gaming headset must be comfortable to wear for long periods of time. Lightweight frame, double reduce pressure headband with soft protein leather ear cups, so much more comfortable than other gaming headphones, the smaller burden keeps long time gaming.",
+        "【Noise-Canceling Microphone】Sensitive, Clear, Noise canceling, Non-static when recording, 120°adjustable, long, and flexible, this gaming microphone is the amazing essential assistive microphone for gaming.",
+        "【High Quality Excellent Durability】Our gaming headsets make of alloy steel headband, long-lasting case, the 86 inches braided cable, and other materials, all are though thousands or ten thousands of testing for durability, we have the confidence to promise any product problems for unconditional replacement.",
+        "【Multi-Console Compatibility】Gaming Headphones for PC, PS4, PS5, Xbox One, Xbox series s, Xbox series x, Laptop, Mac, Switch, and so on. Any device with a 3.5mm jack. One gaming headset is enough for all devices you have.",
+        "*NOTE 1: When using the headset on a PC, make sure to connect the \"1-to-2 3.5mm audio jack splitter cable(include).",
+        "*NOTE 2: The USB connector is only used for powering the RGB lighting. If your device has a USB socket, the RGB lights can be activated.",
+        "*NOTE 3: An additional adapter is required for older versions of the Xbox controller (Not include, This headset has a 3.5mm jack)."
+    ],
+    "breadcrumbs": [],
+    "media": {
+        "primary_image": "https://m.media-amazon.com/images/I/61-5D5L20+L._AC_SY800_SX800_.jpg",
+        "secondary_images": [
+            "https://m.media-amazon.com/images/I/41vA2SepIQL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51lX6uEoRkL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51bOc16FBRL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41eZmJASWtL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51sqDW9r0oL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41zh+PmUcDL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41VM5TNcKaL._AC_US_.jpg"
+        ],
+        "featured_images": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/511ca328-47d8-494b-8a06-9b03f043ffa0.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8e8c6adf-7ff8-4aec-8634-210f7b1ed8a1.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/75d0c72a-b34e-46fe-abf7-af9a111cddd0.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fbfddf54-11ca-485d-b09e-c4ee67c7c784.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f67c0525-2fd4-4ce6-9dcd-bc1106017391.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+        ],
+        "videos": [
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/d869b354-799a-48aa-a507-f99780382d78.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9ddf2ffd-750b-46ae-bc94-48a43ec7b019.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/fb9b8f61-5522-40cd-bd63-9c27b9a04132.mp4/productVideoOptimized.mp4",
+            "https://d1f0esyb34c1g2.cloudfront.net/transcode/storyTeller/A2S8GSYAQUWJZ8/1648763281442/cc4fc8b1-e9bb-4739-bac8-369330590f8f/1648763321511sbv.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/112489ff-8c76-459b-9097-9089852617c0.mp4/productVideoOptimized.mp4"
+        ]
+    },
+    "ratings": {
+        "avg_rating": "4.3 out of 5",
+        "total_ratings": "398 global ratings",
+        "distribution": {
+            "5 star": "70%",
+            "4 star": "12%",
+            "3 star": "7%",
+            "2 star": "2%",
+            "1 star": "9%"
+        }
+    }
+}
+]

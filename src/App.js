@@ -1,25 +1,46 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useEffect, useState } from "react";
+import ProductTable from "./components/ProductTable";
+import "./styles.css";
 
-function App() {
+const jsonFiles = [
+  "/crawler/headphones.json",
+  "/crawler/laptops.json",
+  "/crawler/smartphones.json",
+];
+
+const App = () => {
+  const [products, setProducts] = useState([]);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        const data = await Promise.all(
+          jsonFiles.map(file =>
+            fetch(file).then(res => res.json())
+          )
+        );
+        setProducts(data.flat());
+        setLoading(false);
+      } catch (error) {
+        console.error("Error loading JSON files:", error);
+        setLoading(false);
+      }
+    };
+
+    fetchData();
+  }, []);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="container">
+      <h1>Product Listings</h1>
+      {loading ? (
+        <div className="spinner">Loading...</div>
+      ) : (
+        <ProductTable products={products} />
+      )}
     </div>
   );
-}
+};
 
 export default App;

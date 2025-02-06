@@ -1,0 +1,2363 @@
+[
+{
+    "created_at": "2025-02-06T18:05:24.884589",
+    "updated_at": "2025-02-06T18:05:24.885577",
+    "scrape_date": "2025-02-06",
+    "url": "https://www.amazon.com/HP-Micro-edge-Microsoft-14-dq0040nr-Snowflake/dp/B0947BJ67M/ref=sr_1_1?dib=eyJ2IjoiMSJ9.uqkwWighaAruu-g77mMSLomCBhXcByNrNllGGZxktmjPJlesdGjevnfA--EL03a9GZuvLYlU87MloPrJZvt-n0KsfSPUAqu7cQYD1BCcYQOuDhYnSbCKhZJdG2SHXfFfX_wUdjxp9XTK38pfB0yRQo4Nnb8CdxDqSGBzA7VKea7HesaPUdxrMzDuLHrRP7p-aUCx_wFz_IofptCGBw-pSEnsFGhHig1LVC73CDkrdoM.-bTz3fu00bNV1Z8tJnkEyYyuRR6xTDn1LnApd7eAVIs&dib_tag=se&keywords=laptops&qid=1738865084&sr=8-1",
+    "name": "HP 14 Laptop, Intel Celeron N4020, 4 GB RAM, 64 GB Storage, 14-inch Micro-edge HD Display, Windows 11 Home, Thin & Portable, 4K Graphics, One Year of Microsoft 365 (14-dq0040nr, Snowflake White)",
+    "price": "$469.99",
+    "options": {},
+    "specifications": {
+        "Brand": "‎HP",
+        "Model Name": "14-dq0040nr",
+        "Screen Size": "14 Inches",
+        "Color": "‎Snowflake White",
+        "Hard Disk Size": "64 GB",
+        "CPU Model": "Celeron N4020",
+        "Ram Memory Installed Size": "4 GB",
+        "Operating System": "‎Windows 11 S",
+        "Special Feature": "Micro-edge Bezel",
+        "Graphics Card Description": "Integrated",
+        "Standing screen display size": "‎14 Inches",
+        "Screen Resolution": "‎1366 x 768 pixels",
+        "Max Screen Resolution": "‎1366 x 768 Pixels",
+        "Processor": "‎2.8 GHz celeron_n4020",
+        "RAM": "‎4 GB DDR4",
+        "Memory Speed": "‎2400 MHz",
+        "Hard Drive": "‎64 GB Emmc",
+        "Graphics Coprocessor": "‎Intel UHD Graphics",
+        "Chipset Brand": "‎Intel",
+        "Card Description": "‎Integrated",
+        "Graphics Card Ram Size": "‎4 GB",
+        "Wireless Type": "‎802.11a/b/g/n/ac, Bluetooth",
+        "Number of USB 2.0 Ports": "‎3",
+        "Number of USB 3.0 Ports": "‎3",
+        "Average Battery Life (in hours)": "‎10 Hours",
+        "Series": "‎14-dq0040nr",
+        "Item model number": "‎14-dq0040nr",
+        "Hardware Platform": "‎PC",
+        "Item Weight": "‎3.24 pounds",
+        "Product Dimensions": "‎12.76 x 8.86 x 0.71 inches",
+        "Item Dimensions LxWxH": "‎12.76 x 8.86 x 0.71 inches",
+        "Processor Brand": "‎Intel",
+        "Number of Processors": "‎2",
+        "Computer Memory Type": "‎DDR4 SDRAM",
+        "Hard Drive Interface": "‎eSATA",
+        "Hard Drive Rotational Speed": "‎7200 RPM",
+        "Optical Drive Type": "‎No optical storage drive",
+        "Power Source": "‎Battery Powered",
+        "Voltage": "‎5 Volts",
+        "Batteries": "‎1 C batteries required. (included)",
+        "ASIN": "B0947BJ67M",
+        "Customer Reviews": "4.1 4.1 out of 5 stars 2,258 ratings var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); }); 4.1 out of 5 stars",
+        "Best Sellers Rank": "#7 in Computers & Accessories (See Top 100 in Computers & Accessories) #1 in Traditional Laptop Computers",
+        "Date First Available": "May 30, 2021"
+    },
+    "features": [
+        "READY FOR ANYWHERE – With its thin and light design, 6.5 mm micro-edge bezel display, and 79% screen-to-body ratio, you’ll take this PC anywhere while you see and do more of what you love (1)",
+        "MORE SCREEN, MORE FUN – With virtually no bezel encircling the screen, you’ll enjoy every bit of detail on this 14-inch HD (1366 x 768) display (2)",
+        "ALL-DAY PERFORMANCE – Tackle your busiest days with the dual-core, Intel Celeron N4020—the perfect processor for performance, power consumption, and value (3)",
+        "4K READY – Smoothly stream 4K content and play your favorite next-gen games with Intel UHD Graphics 600 (4) (5)",
+        "STORAGE AND MEMORY – An embedded multimedia card provides reliable flash-based, 64 GB of storage while 4 GB of RAM expands your bandwidth and boosts your performance (6)"
+    ],
+    "breadcrumbs": [],
+    "media": {
+        "primary_image": "https://m.media-amazon.com/images/I/815uX7wkOZS.__AC_SX800_SY800_QL70_FMwebp_.jpg",
+        "secondary_images": [
+            "https://m.media-amazon.com/images/I/41iUBrIDcDS._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41wHfNF0gzL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41AhlS+8tfS._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41Tk-s3Hl1S._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/31e0DWljz+S._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/415pAGsqJQS._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/31dqBgIxzyL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg"
+        ],
+        "featured_images": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1ee22508-2498-44c7-8a34-999b2e36ddde.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/83a968f6-6e25-4ac9-8c8a-5128ca0606c1.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8fa85865-b7ba-48d3-b623-caace46bdcc8.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f925c57d-bc69-4a4d-9091-d1b3a61285ec.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+        ],
+        "videos": [
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/dfc8e46c-89e2-4622-8bc0-e325d174e795.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e91a8c07-53a8-43c9-bb6d-095af09a6034.mp4/productVideoOptimized.mp4"
+        ]
+    },
+    "ratings": {
+        "avg_rating": "4.1 out of 5",
+        "total_ratings": "2,258 global ratings",
+        "distribution": {
+            "5 star": "63%",
+            "4 star": "13%",
+            "3 star": "7%",
+            "2 star": "3%",
+            "1 star": "14%"
+        }
+    }
+},
+{
+    "created_at": "2025-02-06T18:05:46.130517",
+    "updated_at": "2025-02-06T18:05:46.130517",
+    "scrape_date": "2025-02-06",
+    "url": "https://www.amazon.com/MSI-Katana-15-Display-Keyboard/dp/B0CFL7P2TD/ref=sr_1_18?dib=eyJ2IjoiMSJ9.uqkwWighaAruu-g77mMSLomCBhXcByNrNllGGZxktmjPJlesdGjevnfA--EL03a9GZuvLYlU87MloPrJZvt-n0KsfSPUAqu7cQYD1BCcYQOuDhYnSbCKhZJdG2SHXfFfX_wUdjxp9XTK38pfB0yRQo4Nnb8CdxDqSGBzA7VKea7HesaPUdxrMzDuLHrRP7p-aUCx_wFz_IofptCGBw-pSEnsFGhHig1LVC73CDkrdoM.-bTz3fu00bNV1Z8tJnkEyYyuRR6xTDn1LnApd7eAVIs&dib_tag=se&keywords=laptops&qid=1738865084&sr=8-18",
+    "name": "MSI 2023 Katana 15 Gaming Laptop, 15.6\" 144 Hz IPS Display, Intel Core i7 12650H (Up to 4.7 GHz), GeForce RTX 4070, 16GB RAM, 1TB SSD, Wi-Fi 6, 4-Zone RGB Gaming Keyboard, Windows 11 Home",
+    "price": "$1,199.86",
+    "options": {
+        "style": [
+            "16GB RAM | 1TB SSD",
+            "32GB RAM | 2TB SSD",
+            "64GB RAM | 2TB SSD",
+            "64GB RAM | 4TB SSD"
+        ]
+    },
+    "specifications": {
+        "Brand": "‎MSI",
+        "Model Name": "MSI Katana 15",
+        "Screen Size": "15.6 Inches",
+        "Color": "‎Black",
+        "Hard Disk Size": "1 TB",
+        "CPU Model": "Core i7",
+        "Ram Memory Installed Size": "16 GB",
+        "Operating System": "‎Windows 11 Home",
+        "Special Feature": "Backlit Keyboard",
+        "Graphics Card Description": "Dedicated",
+        "Standing screen display size": "‎15.6 Inches",
+        "Screen Resolution": "‎1920 x 1080 pixels",
+        "Max Screen Resolution": "‎1920x1080 Pixels",
+        "Processor": "‎4.7 GHz core_i7",
+        "RAM": "‎16 DDR5",
+        "Hard Drive": "‎1 TB SSD",
+        "Graphics Coprocessor": "‎NVIDIA GeForce RTX 4070",
+        "Chipset Brand": "‎NVIDIA",
+        "Card Description": "‎Dedicated",
+        "Graphics Card Ram Size": "‎8 GB",
+        "Wireless Type": "‎802.11ax",
+        "Number of USB 3.0 Ports": "‎3",
+        "Series": "‎MSI Katana 15",
+        "Item model number": "‎MSI Katana 15",
+        "Item Weight": "‎4.96 pounds",
+        "Product Dimensions": "‎14.13 x 0.98 x 10.2 inches",
+        "Item Dimensions LxWxH": "‎14.13 x 0.98 x 10.2 inches",
+        "Processor Brand": "‎Intel",
+        "Number of Processors": "‎10",
+        "Computer Memory Type": "‎DDR5 RAM",
+        "Hard Drive Interface": "‎Solid State",
+        "Voltage": "‎230 Volts",
+        "Batteries": "‎1 Lithium Ion batteries required.",
+        "ASIN": "B0CFL7P2TD",
+        "Customer Reviews": "4.6 4.6 out of 5 stars 23 ratings var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); }); 4.6 out of 5 stars",
+        "Best Sellers Rank": "#44,568 in Computers & Accessories (See Top 100 in Computers & Accessories) #7,797 in Traditional Laptop Computers",
+        "Date First Available": "August 14, 2023"
+    },
+    "features": [
+        "【Graphics】 Immerse yourself in stunning visuals with the powerful NVIDIA GeForce RTX 4070 graphics card. Whether you're gaming, designing, or editing, this graphics card ensures smooth performance and breathtaking detail.",
+        "【Processor】 Unleash unparalleled processing power with the 12th Generation Intel Core i7-12650H processor, clocked at 2.3GHz and capable of Turbo Boost speeds up to 4.7GHz. With 10 cores and 16 threads, accompanied by 24MB of cache, this processor intelligently allocates performance where it matters most. This optimization saves you valuable time and amplifies your capability to focus on the tasks that truly matter to you.",
+        "【Upgraded】 Elevate your computing experience with up to 64GB of RAM, perfectly suited for both basic tasks and resource-intensive applications. The high-bandwidth DDR5 RAM ensures seamless multitasking, effortlessly handling numerous programs and files simultaneously. Store without limits. With storage capacities of up to 4TB, you'll never have to worry about running out of space. Safeguard all your files while enjoying the freedom to accumulate even more data.",
+        "【Connectivity】 Stay connected at the forefront of technology with the Intel Wi-Fi 6 and Bluetooth 5.2 combo. Seamlessly integrate your devices through a variety of ports: 1 x USB 3.2 Gen 1 Type-C, 2 x USB 3.2 Gen 1 Type-A, 1 x USB 2.0, 1 x HDMI 2.1, 1 x RJ-45, and 1 x Headphone/Microphone Combo Jack.",
+        "【 Operating System】 Experience the latest in operating systems with Windows 11 Home. Its user-friendly interface and enhanced features enhance your productivity and make navigating your tasks a breeze."
+    ],
+    "breadcrumbs": [],
+    "media": {
+        "primary_image": "https://m.media-amazon.com/images/I/814JT-HwKUL.__AC_SX800_SY800_QL70_FMwebp_.jpg",
+        "secondary_images": [
+            "https://m.media-amazon.com/images/I/41ikZ2v4bGL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/414Y-KR9GZL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/414NN-qn26L._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/316T-7BCj7L._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41yDzNy1vbL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41zumzziLIL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/21KkU5Fg3jL._AC_US_.jpg"
+        ],
+        "featured_images": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/dfc8e46c-89e2-4622-8bc0-e325d174e795.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7ea0d60c-7250-455c-a9bd-512c11c440d1.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e91a8c07-53a8-43c9-bb6d-095af09a6034.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/309951be-e163-4713-bea7-2ff71e61d0ac.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/97a7cdfe-acd9-4181-8c9e-9c76d04ca0f0.mp4/productVideoOptimized.mp4"
+        ]
+    },
+    "ratings": {
+        "avg_rating": "4.6 out of 5",
+        "total_ratings": "23 global ratings",
+        "distribution": {
+            "5 star": "81%",
+            "4 star": "11%",
+            "1 star": "8%"
+        }
+    }
+},
+{
+    "created_at": "2025-02-06T18:06:04.073982",
+    "updated_at": "2025-02-06T18:06:04.073982",
+    "scrape_date": "2025-02-06",
+    "url": "https://www.amazon.com/BHWW-Computer-i5-1035G4-Graphics-1920x1200p/dp/B0D66F2Q6J/ref=sr_1_16?dib=eyJ2IjoiMSJ9.uqkwWighaAruu-g77mMSLomCBhXcByNrNllGGZxktmjPJlesdGjevnfA--EL03a9GZuvLYlU87MloPrJZvt-n0KsfSPUAqu7cQYD1BCcYQOuDhYnSbCKhZJdG2SHXfFfX_wUdjxp9XTK38pfB0yRQo4Nnb8CdxDqSGBzA7VKea7HesaPUdxrMzDuLHrRP7p-aUCx_wFz_IofptCGBw-pSEnsFGhHig1LVC73CDkrdoM.-bTz3fu00bNV1Z8tJnkEyYyuRR6xTDn1LnApd7eAVIs&dib_tag=se&keywords=laptops&qid=1738865084&sr=8-16",
+    "name": "Light Gaming Laptop for Work & Study, 10th Gen Core i5-1035G4 Computer, PC with Iris Plus Graphics, 16\" FHD IPS 100% sRGB Display, 1920x1200p, 16:10, 32GB DDR4 SSD, 1T SSD, Win 11 Pro, Wi-Fi 5",
+    "price": "$409.99",
+    "options": {},
+    "specifications": {
+        "Brand": "‎BHWW",
+        "Model Name": "PD-BHWW-160BP-Gray",
+        "Screen Size": "16.1 Inches",
+        "Color": "‎Gray",
+        "Hard Disk Size": "1 TB",
+        "CPU Model": "Core i5",
+        "Ram Memory Installed Size": "32 GB",
+        "Operating System": "‎Windows 11 Pro",
+        "Special Feature": "Fingerprint Reader, HD Audio, Lightweight, Memory Card Slot, Numeric Keypad",
+        "Graphics Card Description": "Integrated",
+        "Standing screen display size": "‎16.1 Inches",
+        "Screen Resolution": "‎1920 x 1200 pixels",
+        "Max Screen Resolution": "‎1920x1200 Pixels",
+        "Processor": "‎1.1 GHz core_i5",
+        "RAM": "‎DDR4",
+        "Hard Drive": "‎1 TB SSD",
+        "Graphics Coprocessor": "‎Intel Iris Plus",
+        "Chipset Brand": "‎Intel",
+        "Card Description": "‎Integrated",
+        "Wireless Type": "‎802.11a/b/g/n/ac",
+        "Number of USB 3.0 Ports": "‎3",
+        "Series": "‎PD-BHWW-160BP-Gray",
+        "Item model number": "‎PD-BHWW-160BP-Gray",
+        "Item Weight": "‎7.24 pounds",
+        "Product Dimensions": "‎14.05 x 9.58 x 0.7 inches",
+        "Item Dimensions LxWxH": "‎14.05 x 9.58 x 0.7 inches",
+        "Processor Brand": "‎Intel",
+        "Number of Processors": "‎1",
+        "Computer Memory Type": "‎DDR4 SDRAM",
+        "Flash Memory Size": "‎1 TB",
+        "Hard Drive Interface": "‎Solid State",
+        "Optical Drive Type": "‎No optical storage device",
+        "Voltage": "‎19 Volts",
+        "Batteries": "‎3 Lithium Ion batteries required. (included)",
+        "ASIN": "B0D66F2Q6J",
+        "Best Sellers Rank": "#49,314 in Computers & Accessories (See Top 100 in Computers & Accessories) #8,737 in Traditional Laptop Computers",
+        "Date First Available": "June 5, 2024"
+    },
+    "features": [
+        "Blazing-Fast Processing Power: This laptop is powered by a robust Core i5 processor, boasting a turbo frequency of up to 3.7 GHz. This CPU of the computadora delivers exceptional speed, allowing you to perform everyday tasks like browsing, streaming, and office applications with remarkable efficiency. Experience smooth operation and rapid response times that elevate your productivity.",
+        "Enhanced Visual Precision: The 16-inch FHD (1920x1200) IPS display of this computer is designed for stunning visual performance. With 100% sRGB color accuracy and a 180° viewing angle, every image and video bursts with color and detail. This high-quality screen configuration makes this notebook an essential tool for both productivity and entertainment, ensuring you never miss a detail from any perspective.",
+        "Enhanced Performance with Vast Storage: This PC comes with a powerful combination of 32GB RAM and 1TB SSD, delivering exceptional multitasking capabilities and quick data retrieval. The ample RAM ensures that you can run multiple applications and browser tabs effortlessly, while the large SSD storage guarantees fast boot-up and data transfer speeds. Enjoy a smooth and responsive user experience, whether you're working, gaming, or streaming content.",
+        "Secure and Stable Environment: Benefit from the stability and security of Windows 11 Pro on this laptop. This operating system is built to provide a secure environment for all your activities, from conducting important meetings to casual internet browsing. With robust protection against cyber threats, you can focus on your tasks without worrying about data breaches.",
+        "Stable Network Connectivity This laptop is designed for reliable and seamless networking with both LAN (RJ45) port and WiFi 5.0 capabilities. Enjoy a stable and robust network connection at home through the LAN port, ensuring uninterrupted productivity and entertainment. On the go, switch to WiFi for convenient and flexible connectivity, allowing you to work or relax in any environment without missing a beat.",
+        "Versatile for Study, Play and Work: This laptop is designed to meet the needs of users at different stages of life. Effortlessly transition from homework assignment to professional projects. With its robust performance and smooth multitasking capabilities, this BaseBook Pro is perfect for students, professionals, and everyone in between.",
+        "Comprehensive Warranty for Peace of Mind: Thank you for visiting our store. We offer a 18-month after-sales support on all our products. If you encounter any issues, simply contact us through \"Order\" - \"Seller\" - \"Contact Seller\". We will respond within 24 hours to help resolve your problem."
+    ],
+    "breadcrumbs": [],
+    "media": {
+        "primary_image": "https://m.media-amazon.com/images/I/71z6eBstf4L.__AC_SX800_SY800_QL70_FMwebp_.jpg",
+        "secondary_images": [
+            "https://m.media-amazon.com/images/I/415DGGp0zBL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51FBFH+Cl6L._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/415Lj7inKnL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41YBoeooNvL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41KaIN9q6wL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51g+jBNtdxL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51qtek3WYHL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg"
+        ],
+        "featured_images": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/659aa439-428b-4b77-9702-ab518f326332.__CR0,23,463,579_PT0_SX362_V1___.jpg"
+        ],
+        "videos": [
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/dfc8e46c-89e2-4622-8bc0-e325d174e795.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7ea0d60c-7250-455c-a9bd-512c11c440d1.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e91a8c07-53a8-43c9-bb6d-095af09a6034.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/309951be-e163-4713-bea7-2ff71e61d0ac.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/97a7cdfe-acd9-4181-8c9e-9c76d04ca0f0.mp4/productVideoOptimized.mp4"
+        ]
+    },
+    "ratings": {
+        "avg_rating": "-",
+        "total_ratings": "-",
+        "distribution": {}
+    }
+},
+{
+    "created_at": "2025-02-06T18:06:49.172189",
+    "updated_at": "2025-02-06T18:06:49.172189",
+    "scrape_date": "2025-02-06",
+    "url": "https://www.amazon.com/SAMSUNG-155H-Touchscreen-NP944XGK-KG4US-Moonstone/dp/B0DG42YPLL/ref=sr_1_15?dib=eyJ2IjoiMSJ9.uqkwWighaAruu-g77mMSLomCBhXcByNrNllGGZxktmjPJlesdGjevnfA--EL03a9GZuvLYlU87MloPrJZvt-n0KsfSPUAqu7cQYD1BCcYQOuDhYnSbCKhZJdG2SHXfFfX_wUdjxp9XTK38pfB0yRQo4Nnb8CdxDqSGBzA7VKea7HesaPUdxrMzDuLHrRP7p-aUCx_wFz_IofptCGBw-pSEnsFGhHig1LVC73CDkrdoM.-bTz3fu00bNV1Z8tJnkEyYyuRR6xTDn1LnApd7eAVIs&dib_tag=se&keywords=laptops&qid=1738865084&sr=8-15",
+    "name": "SAMSUNG 14\" Galaxy Book4 Pro Business Laptop, Wi-Fi PC Computer, Windows 11 PRO, Intel Core 7 Ultra 155H / 32GB / 1TB, 3K AMOLED Touchscreen, 2024 Model, NP944XGK-KG4US, Moonstone Gray",
+    "price": "$1,949.99",
+    "options": {
+        "processor_description": [
+            "Intel Ultra7 155H/ 32GB",
+            "Intel Core 5 Ultra/ 16GB",
+            "Intel Core 7 Ultra/ 16GB",
+            "Intel Ultra7 155H/ 16GB",
+            "Intel Core 7 Ultra/ 32GB See available options"
+        ],
+        "size": [
+            "14 Inch",
+            "16 Inch"
+        ],
+        "style": [
+            "Business PC",
+            "PC"
+        ]
+    },
+    "specifications": {
+        "Brand": "‎SAMSUNG",
+        "Model Name": "GB4 Pro 14”",
+        "Screen Size": "14 Inches",
+        "Color": "‎Moonstone Gray",
+        "Hard Disk Size": "512 GB",
+        "CPU Model": "Intel Core Ultra 7",
+        "Ram Memory Installed Size": "32 GB",
+        "Operating System": "‎Windows 11 Pro",
+        "Special Feature": "Touchscreen",
+        "Graphics Card Description": "Intel ARC Integrated",
+        "Standing screen display size": "‎14 Inches",
+        "Screen Resolution": "‎3840 x 2160 pixels",
+        "Max Screen Resolution": "‎3840 x 2160 pixels",
+        "Processor": "‎3.8 GHz intel_core_ultra_7",
+        "RAM": "‎LPDDR5",
+        "Hard Drive": "‎512 GB SSD",
+        "Graphics Coprocessor": "‎Intel ARC Integrated",
+        "Chipset Brand": "‎Intel",
+        "Card Description": "‎Intel ARC Integrated",
+        "Wireless Type": "‎802.11ax",
+        "Number of USB 3.0 Ports": "‎3",
+        "Series": "‎GB4 Pro 14”",
+        "Item model number": "‎Ultra7 155H",
+        "Item Weight": "‎2.71 pounds",
+        "Product Dimensions": "‎12.3 x 0.46 x 8.81 inches",
+        "Item Dimensions LxWxH": "‎12.3 x 0.46 x 8.81 inches",
+        "Processor Brand": "‎Intel",
+        "Number of Processors": "‎4",
+        "Computer Memory Type": "‎DDR5 RAM",
+        "Flash Memory Size": "‎32 GB",
+        "Optical Drive Type": "‎CD-ROM",
+        "Batteries": "‎1 Lithium Ion batteries required. (included)",
+        "ASIN": "B0DG42YPLL",
+        "Customer Reviews": "4.1 4.1 out of 5 stars 144 ratings var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); }); 4.1 out of 5 stars",
+        "Best Sellers Rank": "#48,604 in Computers & Accessories (See Top 100 in Computers & Accessories) #8,606 in Traditional Laptop Computers",
+        "Date First Available": "October 22, 2024"
+    },
+    "features": [
+        "POWER FOR YOUR MOST PRODUCTIVE DAYS: Galaxy Book4 Pro models come with a new Intel Core Ultra 7 processor 155H or Intel Core Ultra 5 processor 125H with a higher-performance Intel ARC graphics & newly added AI neural processing unit (NPU)",
+        "POWERFUL. LIGHT. AMAZINGLY SLIM: Galaxy Book4 Pro is the epitome of portability and the lightest in our all-new Galaxy Book4 Series; 16” Thickness: 12.5mm, Weight: 3.44 lbs; 14\" Thickness: 11.6mm, Weight: 2.71 lbs",
+        "BRACE YOURSELF FOR THE ULTIMATE SCREEN EXPERIENCE: Tackle your workday on a spacious 14\" or 16\" Dynamic AMOLED 2X touchscreen; New anti-reflective screen with Vision Booster reduces glare and improves picture clarity in bright lighting conditions",
+        "A PACKED BATTERY FOR YOUR STACKED DAYS: Achieve your goals – and more – with a long-lasting battery that goes the distance; 16”: 76Wh (Typical) 65W Adapter; 14”: 63Wh (Typical) 65W Adapter",
+        "OUR MOST ADVANCED GALAXY BOOK SECURITY YET: Bring your business ideas to life with our most advanced Galaxy Book security available; Secured Core PC and now secured by Knox to help protect your enterprise data from attacks below the OS layer"
+    ],
+    "breadcrumbs": [],
+    "media": {
+        "primary_image": "https://m.media-amazon.com/images/I/6131ZgIFn1L.__AC_SX800_SY800_QL70_FMwebp_.jpg",
+        "secondary_images": [
+            "https://m.media-amazon.com/images/I/41LanTuDUfL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/5165pvYqEjL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51dxiiGL71L._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41yk9heJlSL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51TNqYklUaL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51uHq9SIHCL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg"
+        ],
+        "featured_images": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/183a3f5d-2293-4e37-8d62-0e89a3b9fc1f.__CR0,0,3050,1250_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/50aadabc-6886-4b73-a486-2a25d4f966c3.__CR0,0,3050,1250_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ac91c8f2-53da-4dbc-b78f-2fa16dcc82dc.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/21c31af7-b0ee-45b4-8e4d-29d76e61d412.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/712169fd-6ff2-4be8-8995-a048d31639f7.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3f6b0214-a476-4fa7-ab8f-3c301f200410.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/db5da5d4-0347-417e-9b2b-364fd1630daa.__CR0,0,362,453_PT0_SX362_V1___.jpg"
+        ],
+        "videos": [
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c5986216-e163-4ec7-b91f-d9ca9357e04b.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/dfc8e46c-89e2-4622-8bc0-e325d174e795.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7ea0d60c-7250-455c-a9bd-512c11c440d1.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e91a8c07-53a8-43c9-bb6d-095af09a6034.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/97a7cdfe-acd9-4181-8c9e-9c76d04ca0f0.mp4/productVideoOptimized.mp4"
+        ]
+    },
+    "ratings": {
+        "avg_rating": "4.1 out of 5",
+        "total_ratings": "144 global ratings",
+        "distribution": {
+            "5 star": "63%",
+            "4 star": "11%",
+            "3 star": "9%",
+            "2 star": "6%",
+            "1 star": "12%"
+        }
+    }
+},
+{
+    "created_at": "2025-02-06T18:06:50.240577",
+    "updated_at": "2025-02-06T18:06:50.240577",
+    "scrape_date": "2025-02-06",
+    "url": "https://www.amazon.com/Pryloxen-Student-1-7-3-4GHz-Keyboard-Fingerprint/dp/B0DGTV1NQ6/ref=sr_1_14?dib=eyJ2IjoiMSJ9.uqkwWighaAruu-g77mMSLomCBhXcByNrNllGGZxktmjPJlesdGjevnfA--EL03a9GZuvLYlU87MloPrJZvt-n0KsfSPUAqu7cQYD1BCcYQOuDhYnSbCKhZJdG2SHXfFfX_wUdjxp9XTK38pfB0yRQo4Nnb8CdxDqSGBzA7VKea7HesaPUdxrMzDuLHrRP7p-aUCx_wFz_IofptCGBw-pSEnsFGhHig1LVC73CDkrdoM.-bTz3fu00bNV1Z8tJnkEyYyuRR6xTDn1LnApd7eAVIs&dib_tag=se&keywords=laptops&qid=1738865084&sr=8-14",
+    "name": "Student Laptop, 1TB M2 PCIe NVMe SSD, 4C4T 1.7-3.4GHz Intel N95 CPU, 15.6\" FHD IPS LCD Screen, Privacy Shutter, Backlit Keyboard, Fingerprint Reader, USB-Ax3, USB-C, Win11 Pro (32GB DDR4 RAM)",
+    "price": "$324.99",
+    "options": {
+        "style": [
+            "N95 | 32GB | 1TB",
+            "R9 | 32GB | 2TB",
+            "N5105 | 8GB | 256GB"
+        ]
+    },
+    "specifications": {
+        "Brand": "‎Pryloxen",
+        "Model Name": "T156A-32GB",
+        "Screen Size": "15.6 Inches",
+        "Color": "‎Silver",
+        "Hard Disk Size": "1 TB",
+        "CPU Model": "Intel Mobile CPU",
+        "Ram Memory Installed Size": "32 GB",
+        "Operating System": "‎Windows 11 Pro",
+        "Special Feature": "Fingerprint Reader, HD Audio, Lightweight, Backlit Keyboard, Memory Card Slot",
+        "Graphics Card Description": "Integrated",
+        "Standing screen display size": "‎15.6 Inches",
+        "Screen Resolution": "‎1920 x 1080 pixels",
+        "Max Screen Resolution": "‎1920x1080 Pixels",
+        "Processor": "‎1.7 GHz Intel_Mobile_CPU",
+        "RAM": "‎DDR4",
+        "Memory Speed": "‎2666 MHz",
+        "Hard Drive": "‎1 TB SSD",
+        "Graphics Coprocessor": "‎Intel UHD Graphics",
+        "Chipset Brand": "‎Intel",
+        "Card Description": "‎Integrated",
+        "Graphics Card Ram Size": "‎32 GB",
+        "Wireless Type": "‎Bluetooth, 5 GHz Radio Frequency, 2.4 GHz Radio Frequency",
+        "Number of USB 2.0 Ports": "‎1",
+        "Number of USB 3.0 Ports": "‎2",
+        "Series": "‎T156A-32GB",
+        "Item model number": "‎T156A-32GB",
+        "Hardware Platform": "‎PC",
+        "Item Weight": "‎3.53 pounds",
+        "Product Dimensions": "‎14 x 9 x 0.7 inches",
+        "Item Dimensions LxWxH": "‎14 x 9 x 0.7 inches",
+        "Processor Brand": "‎Intel",
+        "Number of Processors": "‎4",
+        "Computer Memory Type": "‎DDR4 SDRAM",
+        "Flash Memory Size": "‎1 TB",
+        "Hard Drive Interface": "‎Solid State",
+        "Voltage": "‎7.7 Volts",
+        "Batteries": "‎1 Lithium Ion batteries required. (included)",
+        "ASIN": "B0DGTV1NQ6",
+        "Customer Reviews": "3.4 3.4 out of 5 stars 13 ratings var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); }); 3.4 out of 5 stars",
+        "Best Sellers Rank": "#25,832 in Computers & Accessories (See Top 100 in Computers & Accessories) #206 in Sports Fan Electronics #4,108 in Traditional Laptop Computers",
+        "Date First Available": "November 1, 2024"
+    },
+    "features": [
+        "High-Capacity & Lightning-Fast SSD: The best laptop 2024 features a 1TB M.2 PCIe NVMe SSD, offering speeds up to 5 times faster than traditional SATA SSDs for quick boot times and seamless loading. With 1TB, you can install about 200-300 more applications and 20-30 additional games compared to a 512GB SSD. The SSD is upgradeable to 8TB, and with a microSD slot supporting up to 2TB, you can reach a total of 10TB storage, providing ample space for all your essential programs and games",
+        "Ample Memory for Multitasking: This light gamer laptop comes with 32GB RAM, enabling you to run about 20-30 more applications simultaneously compared to an 16GB setup. With DDR4 RAM that's up to 1.5 times faster than DDR3, you’ll experience smoother performance for gaming, streaming, and multitasking. The RAM is also upgradeable to a maximum of 32GB DDR5 (dependent on memory type), offering even greater flexibility for your computing needs with this 2666MHz 32GB RAM laptop",
+        "Powerful Processor: This laptop for gaming ranks among the best 2024 laptops with the Intel N95 processor, a 4-core, 4-thread chip that operates at a base frequency of 1.7 GHz and boosts to 3.4 GHz for demanding tasks. With a TDP of just 15W. Compared to the Intel N5095, the N95 delivers a performance boost of 20-30%. The integrated Intel UHD Graphics includes 16 units, a max frequency of 1.2 GHz, supports 4K@60Hz, and can drive 3 displays, effectively handling graphics tasks and light gaming",
+        "Vibrant FHD Display: This 15.6 laptop showcases a stunning FHD IPS LCD display with ultra-slim 0.2-inch bezels, delivering crystal-clear visuals and vibrant colors. With a resolution of 1920 x 1080, it ensures sharp detail. The IPS technology provides wide viewing angles, and the screen flips 180 degrees, making it ideal for presentations. This laptop 2024 also includes a privacy camera, while the anti-glare coating reduces reflections for comfortable use in various lighting conditions",
+        "**Backlit Keyboard for Enhanced Typing Experience** This laptop features a backlit keyboard, offering the advantage of easy typing in low-light environments. The adjustable backlight reduces eye strain and enhances typing accuracy, making it perfect for late-night work or dimly lit spaces. To adjust the backlight brightness, simply press the \"Fn\" key and the \"F9\" key together. Enjoy a comfortable and efficient typing experience, no matter the lighting conditions!",
+        "**Fingerprint Reader for Quick and Secure Unlocking** Unlock your laptop in just 1 second with the built-in fingerprint reader, offering both speed and enhanced security. Forget about remembering passwords—simply touch your finger, and your laptop is instantly unlocked. This feature not only ensures that your personal data is protected but also provides a seamless, fast, and convenient login experience, making your device both secure and user-friendly.",
+        "Comprehensive Connectivity: This Win 11 Pro laptop includes a USB-C port for fast data transfer and power delivery, enhancing productivity. It also offers three USB-A ports for connecting multiple devices, an HDMI port for external displays, and a K-slot for added security. With a 3.5mm audio jack, a 3.5mm x 1.35mm charging port, and a microSD slot supporting up to 1TB, this laptop provides versatile connectivity and storage options, making it ideal for both work and entertainment",
+        "Protection Plan: Enjoy peace of mind with a comprehensive coverage policy for your student laptop, valid for a full 730 days from the date of purchase"
+    ],
+    "breadcrumbs": [],
+    "media": {
+        "primary_image": "https://m.media-amazon.com/images/I/71LqNeDQq4L.__AC_SX800_SY800_QL70_FMwebp_.jpg",
+        "secondary_images": [
+            "https://m.media-amazon.com/images/I/41ljxCXvNHL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51iv5afzMiL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/516WYRFnQAL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51+HYKHedlL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41yCQuFxsDL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51cjBhLNDhL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51uvjXOon4L._AC_US_.jpg"
+        ],
+        "featured_images": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cf754520-1e77-4d3f-9b03-2aa07dff1752.__CR0,0,1464,625_PT0_SX1464_V1___.jpg"
+        ],
+        "videos": [
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/dfc8e46c-89e2-4622-8bc0-e325d174e795.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7ea0d60c-7250-455c-a9bd-512c11c440d1.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e91a8c07-53a8-43c9-bb6d-095af09a6034.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/ccfcd7f0-5915-4579-bb1a-2a04bbd54699.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4a5b9e95-ceed-44a4-b0bc-b28ce797821b.mp4/productVideoOptimized.mp4"
+        ]
+    },
+    "ratings": {
+        "avg_rating": "3.4 out of 5",
+        "total_ratings": "13 global ratings",
+        "distribution": {
+            "5 star": "42%",
+            "4 star": "11%",
+            "3 star": "11%",
+            "2 star": "18%",
+            "1 star": "18%"
+        }
+    }
+},
+{
+    "created_at": "2025-02-06T18:07:29.598164",
+    "updated_at": "2025-02-06T18:07:29.598164",
+    "scrape_date": "2025-02-06",
+    "url": "https://www.amazon.com/Dell-Inspiron-15-3525-Laptop/dp/B0CKMYJ5VR/ref=sr_1_13?dib=eyJ2IjoiMSJ9.uqkwWighaAruu-g77mMSLomCBhXcByNrNllGGZxktmjPJlesdGjevnfA--EL03a9GZuvLYlU87MloPrJZvt-n0KsfSPUAqu7cQYD1BCcYQOuDhYnSbCKhZJdG2SHXfFfX_wUdjxp9XTK38pfB0yRQo4Nnb8CdxDqSGBzA7VKea7HesaPUdxrMzDuLHrRP7p-aUCx_wFz_IofptCGBw-pSEnsFGhHig1LVC73CDkrdoM.-bTz3fu00bNV1Z8tJnkEyYyuRR6xTDn1LnApd7eAVIs&dib_tag=se&keywords=laptops&qid=1738865084&sr=8-13",
+    "name": "Dell 2023 Inspiron 15 3525 Laptop, 15.6\" FHD Display, AMD Ryzen 5 5500U Processor up to 4GHz, 8GB RAM, 512GB SSD, AMD Radeon Graphics, Wi-Fi, Bluetooth, Windows 11 Home",
+    "price": "$699.99",
+    "options": {
+        "style": [
+            "8GB RAM | 512GB SSD",
+            "16GB RAM | 512GB SSD",
+            "32GB RAM | 1TB SSD"
+        ]
+    },
+    "specifications": {
+        "Brand": "‎Dell",
+        "Model Name": "Dell Inspiron 15 3525 Laptop",
+        "Screen Size": "15.6 Inches",
+        "Color": "‎Black",
+        "Hard Disk Size": "512 GB",
+        "CPU Model": "Ryzen 5",
+        "Ram Memory Installed Size": "8 GB",
+        "Operating System": "‎Windows 11 Home",
+        "Special Feature": "Backlit Keyboard, Anti Glare Coating, Numeric Keypad",
+        "Graphics Card Description": "Integrated",
+        "Standing screen display size": "‎15.6 Inches",
+        "Screen Resolution": "‎1920 x 1080 pixels",
+        "Max Screen Resolution": "‎1920x1080 Pixels",
+        "Processor": "‎4 GHz ryzen_5",
+        "RAM": "‎8 GB DDR4",
+        "Hard Drive": "‎512 GB SSD",
+        "Graphics Coprocessor": "‎AMD Radeon",
+        "Chipset Brand": "‎AMD",
+        "Card Description": "‎Integrated",
+        "Wireless Type": "‎Bluetooth, 802.11a/b/g/n/ac",
+        "Number of USB 2.0 Ports": "‎1",
+        "Number of USB 3.0 Ports": "‎2",
+        "Average Battery Life (in hours)": "‎4 Hours",
+        "Series": "‎Dell Inspiron 15 3525 Laptop",
+        "Item model number": "‎Dell Inspiron 15 3525 Laptop",
+        "Item Weight": "‎3.71 pounds",
+        "Product Dimensions": "‎14.11 x 0.83 x 9.27 inches",
+        "Item Dimensions LxWxH": "‎14.11 x 0.83 x 9.27 inches",
+        "Processor Brand": "‎AMD",
+        "Number of Processors": "‎6",
+        "Computer Memory Type": "‎DDR4 SDRAM",
+        "Hard Drive Interface": "‎Solid State",
+        "ASIN": "B0CKMYJ5VR",
+        "Customer Reviews": "4.1 4.1 out of 5 stars 278 ratings var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); }); 4.1 out of 5 stars",
+        "Best Sellers Rank": "#17,533 in Computers & Accessories (See Top 100 in Computers & Accessories) #2,554 in Traditional Laptop Computers",
+        "Date First Available": "October 7, 2023"
+    },
+    "features": [
+        "【Processor】AMD Ryzen 5 5500U (up to 4GHz) brings the perfect combination of features to make you unstoppable. With 6 cores and 12 threads are ready to handle all your work.",
+        "【Upgraded】Up to 64GB DDR4 RAM significantly increases performance, and up to 2TB SSD has no moving parts, resulting in faster start-up times and data access, no noise, and reduced heat production and power draw on the battery.",
+        "【Display】With the 15.6-inch IPS display, your entertainment just got pushed to the very edge. Get expansive, 1920 x 1080 (Full HD) resolution, vibrant images with awesome colors, and intuitively control your PC right from the screen.",
+        "【Graphics】Smoothly stream content and play your favorite games with AMD Radeon Graphics. Impressive performance for creating, gaming, and entertainment. A new level of graphics performance and crisp, stunning visuals – with the convenience of a thin and light laptop.",
+        "【Windows 11 Home】From a rejuvenated Start menu, to new ways to connect to your favorite people, news, games, and content, Windows 11 Home is the place to think, express, and create in a natural way."
+    ],
+    "breadcrumbs": [],
+    "media": {
+        "primary_image": "https://m.media-amazon.com/images/I/61KPrzQ14GL.__AC_SY800_SX800_QL70_FMwebp_.jpg",
+        "secondary_images": [
+            "https://m.media-amazon.com/images/I/41nH87C8QfL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41b5RdmBuvL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41VJqji13uL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41JeMmWjNaL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/31xq18F9YzL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/21jxdDovooL._AC_US_.jpg"
+        ],
+        "featured_images": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/dfc8e46c-89e2-4622-8bc0-e325d174e795.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7ea0d60c-7250-455c-a9bd-512c11c440d1.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e91a8c07-53a8-43c9-bb6d-095af09a6034.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/309951be-e163-4713-bea7-2ff71e61d0ac.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/ccfcd7f0-5915-4579-bb1a-2a04bbd54699.mp4/productVideoOptimized.mp4"
+        ]
+    },
+    "ratings": {
+        "avg_rating": "4.1 out of 5",
+        "total_ratings": "278 global ratings",
+        "distribution": {
+            "5 star": "64%",
+            "4 star": "15%",
+            "3 star": "4%",
+            "2 star": "4%",
+            "1 star": "15%"
+        }
+    }
+},
+{
+    "created_at": "2025-02-06T18:07:53.630108",
+    "updated_at": "2025-02-06T18:07:53.630108",
+    "scrape_date": "2025-02-06",
+    "url": "https://www.amazon.com/acer-Aspire-i3-N305-Graphics-Windows/dp/B0DP47CFPZ/ref=sr_1_11?dib=eyJ2IjoiMSJ9.uqkwWighaAruu-g77mMSLomCBhXcByNrNllGGZxktmjPJlesdGjevnfA--EL03a9GZuvLYlU87MloPrJZvt-n0KsfSPUAqu7cQYD1BCcYQOuDhYnSbCKhZJdG2SHXfFfX_wUdjxp9XTK38pfB0yRQo4Nnb8CdxDqSGBzA7VKea7HesaPUdxrMzDuLHrRP7p-aUCx_wFz_IofptCGBw-pSEnsFGhHig1LVC73CDkrdoM.-bTz3fu00bNV1Z8tJnkEyYyuRR6xTDn1LnApd7eAVIs&dib_tag=se&keywords=laptops&qid=1738865084&sr=8-11",
+    "name": "acer Aspire Go 15.6 FHD IPS Slim Laptop |Intel Core i3-N305 | Intel UHD Graphics | Wi-Fi 6 | Silver | 8GB RAM DDR5 | 128GB SSD | Windows 11 S | Bundle with 64GB USB Flash Drive",
+    "price": "$299.00",
+    "options": {},
+    "specifications": {
+        "Brand": "‎acer",
+        "Screen Size": "15.6 Inches",
+        "Resolution": "1080p",
+        "Total USB Ports": "3",
+        "Connectivity Technology": "USB, HDMI",
+        "Graphics Processor Manufacturer": "Intel",
+        "Battery Cell Composition": "Lithium Ion",
+        "Has webcam capability?": "Yes",
+        "Software Included": "Windows 11 S",
+        "Form Factor": "Clamshell",
+        "Standing screen display size": "‎15.6 Inches",
+        "Screen Resolution": "‎1920 x 1080 pixels",
+        "RAM": "‎8 GB",
+        "Chipset Brand": "‎Intel",
+        "Wireless Type": "‎802.11ax",
+        "Item model number": "‎Acer Aspire",
+        "Item Weight": "‎6 pounds",
+        "Product Dimensions": "‎14.29 x 9.44 x 0.74 inches",
+        "Item Dimensions LxWxH": "‎14.29 x 9.44 x 0.74 inches",
+        "Computer Memory Type": "‎DDR5 RAM",
+        "ASIN": "B0DP47CFPZ",
+        "Customer Reviews": "5.0 5.0 out of 5 stars 2 ratings var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); }); 5.0 out of 5 stars",
+        "Best Sellers Rank": "#52,980 in Computers & Accessories (See Top 100 in Computers & Accessories) #9,472 in Traditional Laptop Computers",
+        "Date First Available": "November 27, 2024"
+    },
+    "features": [],
+    "breadcrumbs": [],
+    "media": {
+        "primary_image": "https://m.media-amazon.com/images/I/611LCgNAAiL.__AC_SY800_SX800_QL70_FMwebp_.jpg",
+        "secondary_images": [
+            "https://m.media-amazon.com/images/I/31V-P+ePAkL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/31WQ8HuI5DL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41KSeetI9-L._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/21c3JnlL3UL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41uP2wtabpL._AC_US_.jpg"
+        ],
+        "featured_images": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/dfc8e46c-89e2-4622-8bc0-e325d174e795.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7ea0d60c-7250-455c-a9bd-512c11c440d1.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e91a8c07-53a8-43c9-bb6d-095af09a6034.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/97a7cdfe-acd9-4181-8c9e-9c76d04ca0f0.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e8d897a6-65e1-4598-9e49-f3c798328eee.mp4/productVideoOptimized.mp4"
+        ]
+    },
+    "ratings": {
+        "avg_rating": "5 out of 5",
+        "total_ratings": "2 global ratings",
+        "distribution": {
+            "5 star": "100%"
+        }
+    }
+},
+{
+    "created_at": "2025-02-06T18:08:17.985585",
+    "updated_at": "2025-02-06T18:08:17.986584",
+    "scrape_date": "2025-02-06",
+    "url": "https://www.amazon.com/ASUS-Processor-NumberPad-Microsoft-L210MA-DB01/dp/B081V6W99V/ref=sr_1_10?dib=eyJ2IjoiMSJ9.uqkwWighaAruu-g77mMSLomCBhXcByNrNllGGZxktmjPJlesdGjevnfA--EL03a9GZuvLYlU87MloPrJZvt-n0KsfSPUAqu7cQYD1BCcYQOuDhYnSbCKhZJdG2SHXfFfX_wUdjxp9XTK38pfB0yRQo4Nnb8CdxDqSGBzA7VKea7HesaPUdxrMzDuLHrRP7p-aUCx_wFz_IofptCGBw-pSEnsFGhHig1LVC73CDkrdoM.-bTz3fu00bNV1Z8tJnkEyYyuRR6xTDn1LnApd7eAVIs&dib_tag=se&keywords=laptops&qid=1738865084&sr=8-10",
+    "name": "[2021 Version]ASUS Vivobook Laptop L210 11.6” ultra thin, Intel Celeron N4020 Processor, 4GB RAM, 64GB eMMC storage, Windows 10 Home in S mode with One Year of Office 365 Personal, L210MA-DB01",
+    "price": "$452.99",
+    "options": {},
+    "specifications": {
+        "Brand": "‎ASUS",
+        "Model Name": "ASUS L210",
+        "Screen Size": "11.6 Inches",
+        "Color": "‎Black",
+        "Hard Disk Size": "64 GB",
+        "CPU Model": "Celeron N4020",
+        "Ram Memory Installed Size": "4 GB",
+        "Operating System": "‎Windows 10 S",
+        "Special Feature": "Anti Glare Coating",
+        "Graphics Card Description": "Integrated",
+        "Standing screen display size": "‎11.6 Inches",
+        "Screen Resolution": "‎1366 x 768 pixels",
+        "Max Screen Resolution": "‎1920x1080",
+        "Processor": "‎2.8 GHz celeron_n4020",
+        "RAM": "‎4 GB DDR4",
+        "Memory Speed": "‎2.8 GHz",
+        "Hard Drive": "‎64 GB Emmc",
+        "Graphics Coprocessor": "‎Intel UHD Graphics 600",
+        "Chipset Brand": "‎Intel",
+        "Card Description": "‎Integrated",
+        "Graphics Card Ram Size": "‎4 GB",
+        "Wireless Type": "‎802.11ac",
+        "Number of USB 2.0 Ports": "‎1",
+        "Average Battery Life (in hours)": "‎12 Hours",
+        "Series": "‎ASUS L210",
+        "Item model number": "‎L210MA-DB01",
+        "Hardware Platform": "‎PC",
+        "Item Weight": "‎2.31 pounds",
+        "Product Dimensions": "‎11 x 7.5 x 0.67 inches",
+        "Item Dimensions LxWxH": "‎11 x 7.5 x 0.67 inches",
+        "Processor Brand": "‎Intel",
+        "Number of Processors": "‎2",
+        "Computer Memory Type": "‎DDR4 SDRAM",
+        "Flash Memory Size": "‎64 GB",
+        "Hard Drive Interface": "‎USB",
+        "Optical Drive Type": "‎No Optical Drive",
+        "Power Source": "‎Battery Powered",
+        "Voltage": "‎19 Volts",
+        "Batteries": "‎1 Lithium Metal batteries required. (included)",
+        "ASIN": "B081V6W99V",
+        "Customer Reviews": "4.2 4.2 out of 5 stars 8,440 ratings var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); }); 4.2 out of 5 stars",
+        "Best Sellers Rank": "#11,948 in Computers & Accessories (See Top 100 in Computers & Accessories) #1,594 in Traditional Laptop Computers",
+        "Date First Available": "October 5, 2020"
+    },
+    "features": [
+        "Aspect Ratio:16:9.Keyboard layout:qwerty",
+        "Efficient Intel Celeron N4020 Processor (4M Cache, up to 2.8 GHz)",
+        "11.6” HD (1366 x 768) Slim Display",
+        "64GB eMMC Flash Storage and 4GB DDR4 RAM",
+        "Windows 10 in S Mode with One Year of Microsoft 365 Personal",
+        "Slim and Portable: 0.7” thin and weighs only 2.2 lbs (battery included)"
+    ],
+    "breadcrumbs": [],
+    "media": {
+        "primary_image": "https://m.media-amazon.com/images/I/81fstJkUlaL.__AC_SX800_SY800_QL70_FMwebp_.jpg",
+        "secondary_images": [
+            "https://m.media-amazon.com/images/I/41oaMSUsOVL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41c0wng4eVL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/31r8JzUVAGL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41FLPxdvRkL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/31K4Eg5KnGL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/81+VY-NJVCL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.png"
+        ],
+        "featured_images": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/88928aef-a3d3-4b68-aa33-c13123ca223c.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/513d9446-6783-4ca6-87d6-69a3611e4ea4.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/946cf34d-840f-44ff-aa77-ec2a844dbd46.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ec0666ce-0bac-48df-9a49-279c62140ec4.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/28a1aa7d-20d7-42b7-85bf-c09809a112f0.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/27e4dd59-e686-4af1-b87e-b5a1457249dc.__CR0,0,362,453_PT0_SX362_V1___.jpg"
+        ],
+        "videos": [
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/dfc8e46c-89e2-4622-8bc0-e325d174e795.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7ea0d60c-7250-455c-a9bd-512c11c440d1.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e91a8c07-53a8-43c9-bb6d-095af09a6034.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/309951be-e163-4713-bea7-2ff71e61d0ac.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/97a7cdfe-acd9-4181-8c9e-9c76d04ca0f0.mp4/productVideoOptimized.mp4"
+        ]
+    },
+    "ratings": {
+        "avg_rating": "4.2 out of 5",
+        "total_ratings": "8,440 global ratings",
+        "distribution": {
+            "5 star": "64%",
+            "4 star": "17%",
+            "3 star": "8%",
+            "2 star": "3%",
+            "1 star": "8%"
+        }
+    }
+},
+{
+    "created_at": "2025-02-06T18:09:06.116103",
+    "updated_at": "2025-02-06T18:09:06.116103",
+    "scrape_date": "2025-02-06",
+    "url": "https://www.amazon.com/Lenovo-Touchscreen-i3-1115G4-Processor-Bluetooth/dp/B09V273F3C/ref=sr_1_9?dib=eyJ2IjoiMSJ9.uqkwWighaAruu-g77mMSLomCBhXcByNrNllGGZxktmjPJlesdGjevnfA--EL03a9GZuvLYlU87MloPrJZvt-n0KsfSPUAqu7cQYD1BCcYQOuDhYnSbCKhZJdG2SHXfFfX_wUdjxp9XTK38pfB0yRQo4Nnb8CdxDqSGBzA7VKea7HesaPUdxrMzDuLHrRP7p-aUCx_wFz_IofptCGBw-pSEnsFGhHig1LVC73CDkrdoM.-bTz3fu00bNV1Z8tJnkEyYyuRR6xTDn1LnApd7eAVIs&dib_tag=se&keywords=laptops&qid=1738865084&sr=8-9",
+    "name": "Lenovo 2022 Ideapad 3 Laptop, 15.6\" HD Touchscreen, 11th Gen Intel Core i3-1115G4 Processor, 8GB DDR4 RAM, 256GB PCIe NVMe SSD, HDMI, Webcam, Wi-Fi 5, Bluetooth, Windows 11 Home, Platinum Grey",
+    "price": "$289.99",
+    "options": {
+        "size": [
+            "8Gl256G",
+            "12GB RAM | 256GB SSD",
+            "12GB RAM | 512GB SSD",
+            "20GB RAM | 1TB SSD",
+            "20GB RAM | 2TB SSD",
+            "20GB RAM | 256GB SSD",
+            "20GB RAM | 512GB SSD"
+        ],
+        "color": [
+            "Almond",
+            "Platinum Grey"
+        ]
+    },
+    "specifications": {
+        "Brand": "‎Lenovo",
+        "Model Name": "Ideapad",
+        "Screen Size": "15.6 Inches",
+        "Color": "‎Platinum Grey",
+        "Hard Disk Size": "256 GB",
+        "CPU Model": "Intel Core i3",
+        "Ram Memory Installed Size": "8 GB",
+        "Operating System": "‎Windows 11 Home",
+        "Special Feature": "Anti Glare Coating",
+        "Graphics Card Description": "Integrated",
+        "Standing screen display size": "‎15.6 Inches",
+        "Screen Resolution": "‎1366 x 768 pixels",
+        "Max Screen Resolution": "‎1366 x 768 Pixels",
+        "Processor": "‎3 GHz apple_ci3",
+        "RAM": "‎8 GB DDR4",
+        "Memory Speed": "‎4.1 GHz",
+        "Hard Drive": "‎256 GB SSD",
+        "Graphics Coprocessor": "‎Intel UHD Graphics",
+        "Chipset Brand": "‎Intel",
+        "Card Description": "‎Integrated",
+        "Graphics Card Ram Size": "‎6 MB",
+        "Wireless Type": "‎Bluetooth",
+        "Number of USB 2.0 Ports": "‎1",
+        "Number of USB 3.0 Ports": "‎2",
+        "Average Battery Life (in hours)": "‎7 Hours",
+        "Series": "‎Ideapad",
+        "Item Weight": "‎3.74 pounds",
+        "Product Dimensions": "‎15 x 10 x 1 inches",
+        "Item Dimensions LxWxH": "‎15 x 10 x 1 inches",
+        "Processor Brand": "‎Intel",
+        "Number of Processors": "‎2",
+        "Computer Memory Type": "‎DDR4 SDRAM",
+        "Flash Memory Size": "‎8 GB",
+        "Hard Drive Interface": "‎USB 3.2",
+        "Optical Drive Type": "‎No Optical Drive",
+        "Power Source": "‎Battery Powered",
+        "Voltage": "‎3.7 Volts",
+        "Batteries": "‎1 Lithium Ion batteries required. (included)",
+        "ASIN": "B09V273F3C",
+        "Customer Reviews": "4.3 4.3 out of 5 stars 540 ratings var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); }); 4.3 out of 5 stars",
+        "Best Sellers Rank": "#2,382 in Computers & Accessories (See Top 100 in Computers & Accessories) #273 in Traditional Laptop Computers",
+        "Date First Available": "March 8, 2022"
+    },
+    "features": [
+        "【Memory & Storage】Memory is 8GB high-bandwidth RAM to smoothly run multiple applications and browser tabs all at once. Hard Drive is 256GB PCIe Solid State Drive which allows to fast bootup and data transfer",
+        "【Processor】11th Gen Intel Core i3-1115G4 Dual-Core 3.0GHz Processor (6MB Intel Smart Cache, up to 4.10GHz) Intel UHD Graphics",
+        "【Screen】15.6\" HD Touchscreen (1366 x 768) Display"
+    ],
+    "breadcrumbs": [],
+    "media": {
+        "primary_image": "https://m.media-amazon.com/images/I/81M05PyYgYL.__AC_SY800_SX800_QL70_FMwebp_.jpg",
+        "secondary_images": [
+            "https://m.media-amazon.com/images/I/41qfu+cqVtL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41-8AtJ1ZyL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/416kDpzP+9L._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41blAfAdYcL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41aFVevXUcL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41HnQC7nuJL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/315DfLdwFpL._AC_US_.jpg"
+        ],
+        "featured_images": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/dfc8e46c-89e2-4622-8bc0-e325d174e795.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7ea0d60c-7250-455c-a9bd-512c11c440d1.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e91a8c07-53a8-43c9-bb6d-095af09a6034.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/db12456b-05fd-41ba-bd35-30f3a5b5527e.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/97a7cdfe-acd9-4181-8c9e-9c76d04ca0f0.mp4/productVideoOptimized.mp4"
+        ]
+    },
+    "ratings": {
+        "avg_rating": "4.3 out of 5",
+        "total_ratings": "540 global ratings",
+        "distribution": {
+            "5 star": "69%",
+            "4 star": "14%",
+            "3 star": "5%",
+            "2 star": "4%",
+            "1 star": "8%"
+        }
+    }
+},
+{
+    "created_at": "2025-02-06T18:09:34.143581",
+    "updated_at": "2025-02-06T18:09:34.143581",
+    "scrape_date": "2025-02-06",
+    "url": "https://www.amazon.com/HP-15-Notebook-i3-1115G4-Windows/dp/B0BN6WNJVY/ref=sr_1_8?dib=eyJ2IjoiMSJ9.uqkwWighaAruu-g77mMSLomCBhXcByNrNllGGZxktmjPJlesdGjevnfA--EL03a9GZuvLYlU87MloPrJZvt-n0KsfSPUAqu7cQYD1BCcYQOuDhYnSbCKhZJdG2SHXfFfX_wUdjxp9XTK38pfB0yRQo4Nnb8CdxDqSGBzA7VKea7HesaPUdxrMzDuLHrRP7p-aUCx_wFz_IofptCGBw-pSEnsFGhHig1LVC73CDkrdoM.-bTz3fu00bNV1Z8tJnkEyYyuRR6xTDn1LnApd7eAVIs&dib_tag=se&keywords=laptops&qid=1738865084&sr=8-8",
+    "name": "HP 15 Notebook, 15.6\" HD Screen Laptop, Intel Core i3-1115G4, 32GB DDR4 RAM, 1TB SSD, Webcam, HDMI, Wi-Fi, Windows 11 Home, Natural Silver",
+    "price": "$329.00",
+    "options": {},
+    "specifications": {
+        "Brand": "‎HP",
+        "Model Name": "Notebook",
+        "Screen Size": "15.6 Inches",
+        "Color": "‎Silver",
+        "Hard Disk Size": "1 TB",
+        "CPU Model": "Core i3 Family",
+        "Ram Memory Installed Size": "32 GB",
+        "Operating System": "‎Windows 11 Home",
+        "Graphics Card Description": "Integrated",
+        "Graphics Coprocessor": "‎Intel UHD Graphics",
+        "Standing screen display size": "‎15.6 Inches",
+        "Screen Resolution": "‎1366x768",
+        "Max Screen Resolution": "‎1366 x 768 Pixels",
+        "Processor": "‎3 GHz core_i3_family",
+        "RAM": "‎32 GB DDR4",
+        "Hard Drive": "‎1 TB SSD",
+        "Chipset Brand": "‎Intel",
+        "Card Description": "‎Integrated",
+        "Graphics Card Ram Size": "‎32 GB",
+        "Wireless Type": "‎Bluetooth",
+        "Number of USB 3.0 Ports": "‎3",
+        "Series": "‎Notebook",
+        "Item model number": "‎15",
+        "Hardware Platform": "‎PC",
+        "Item Weight": "‎3.75 pounds",
+        "Product Dimensions": "‎14.11 x 9.53 x 0.71 inches",
+        "Item Dimensions LxWxH": "‎14.11 x 9.53 x 0.71 inches",
+        "Processor Brand": "‎Intel",
+        "Number of Processors": "‎2",
+        "Computer Memory Type": "‎DDR4 SDRAM",
+        "Hard Drive Interface": "‎PCIE x 4",
+        "Optical Drive Type": "‎No Optical Drive",
+        "Power Source": "‎AC & Battery",
+        "Voltage": "‎3 Volts",
+        "Batteries": "‎1 Lithium Ion batteries required. (included)",
+        "ASIN": "B0BN6WNJVY",
+        "Customer Reviews": "4.1 4.1 out of 5 stars 156 ratings var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); }); 4.1 out of 5 stars",
+        "Best Sellers Rank": "#6,546 in Computers & Accessories (See Top 100 in Computers & Accessories) #768 in Traditional Laptop Computers",
+        "Date First Available": "November 23, 2022"
+    },
+    "features": [
+        "【High-Speed RAM And Enormous Space】32GB DDR4 high-bandwidth RAM to smoothly run multiple applications and browser tabs all at once; 1TB PCIe NVMe M.2 Solid State Drive allows to fast bootup and data transfer",
+        "【Processor】Intel Core i3-1115G4 (2 Cores, 4 Threads, 6MB Intel Smart Cache, Base Frequency at 3.00 GHz, Up to 4.10 GHz at Maximum Turbo Frequency), Intel UHD Graphics",
+        "【Display】15.6\" HD (1366 x 768) Display, micro-edge, BrightView",
+        "【Tech Specs】2 x SuperSpeed USB Type-A 5Gbps signaling rate, 1 x USB Type-C, 1 x HDMI 1.4b, 1 x headphone/microphone combo; SD card Reader; Audio by B&O; Webcam",
+        "【Operating System】Windows 11 Home - Beautiful, more consistent new design, Great window layout options, Better multi-monitor functionality, Improved performance features, New videogame selection and capabilities, Compatible with Android Apps"
+    ],
+    "breadcrumbs": [],
+    "media": {
+        "primary_image": "https://m.media-amazon.com/images/I/71on4mHJNxL.__AC_SY800_SX800_QL70_FMwebp_.jpg",
+        "secondary_images": [
+            "https://m.media-amazon.com/images/I/41+R933xd0L._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/419k7YEu4IL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/213DZTEsArL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/217R4ZQusJL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/31MuVCFhCJL._AC_US_.jpg"
+        ],
+        "featured_images": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/dfc8e46c-89e2-4622-8bc0-e325d174e795.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7ea0d60c-7250-455c-a9bd-512c11c440d1.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e91a8c07-53a8-43c9-bb6d-095af09a6034.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4a5b9e95-ceed-44a4-b0bc-b28ce797821b.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/309951be-e163-4713-bea7-2ff71e61d0ac.mp4/productVideoOptimized.mp4"
+        ]
+    },
+    "ratings": {
+        "avg_rating": "4.1 out of 5",
+        "total_ratings": "156 global ratings",
+        "distribution": {
+            "5 star": "64%",
+            "4 star": "13%",
+            "3 star": "4%",
+            "2 star": "4%",
+            "1 star": "16%"
+        }
+    }
+},
+{
+    "created_at": "2025-02-06T18:10:01.122357",
+    "updated_at": "2025-02-06T18:10:01.122357",
+    "scrape_date": "2025-02-06",
+    "url": "https://www.amazon.com/HP-Intel-Graphics-Fingerprint-Bluetooth/dp/B0DNSHQWQS/ref=sr_1_7?dib=eyJ2IjoiMSJ9.uqkwWighaAruu-g77mMSLomCBhXcByNrNllGGZxktmjPJlesdGjevnfA--EL03a9GZuvLYlU87MloPrJZvt-n0KsfSPUAqu7cQYD1BCcYQOuDhYnSbCKhZJdG2SHXfFfX_wUdjxp9XTK38pfB0yRQo4Nnb8CdxDqSGBzA7VKea7HesaPUdxrMzDuLHrRP7p-aUCx_wFz_IofptCGBw-pSEnsFGhHig1LVC73CDkrdoM.-bTz3fu00bNV1Z8tJnkEyYyuRR6xTDn1LnApd7eAVIs&dib_tag=se&keywords=laptops&qid=1738865084&sr=8-7",
+    "name": "HP 15.6 inch FHD Laptop, Intel Core i3-N305, 8GB RAM, 256GB SSD, Intel UHD Graphics, Fingerprint, USB Type-C, HDMI, Wi-Fi 6, Bluetooth 5.3, Windows 11 Home, Natural Silver, EAT 64GB USB Flash Drive",
+    "price": "$329.00",
+    "options": {},
+    "specifications": {
+        "Brand": "‎HP",
+        "Model Name": "HP 15.6",
+        "Screen Size": "15.6 Inches",
+        "Color": "‎Silver",
+        "Hard Disk Size": "256 GB",
+        "CPU Model": "Intel Core i3",
+        "Ram Memory Installed Size": "8 GB",
+        "Operating System": "‎Windows 11 Home",
+        "Special Feature": "Fingerprint Reader",
+        "Graphics Card Description": "Integrated",
+        "Standing screen display size": "‎15.6 Inches",
+        "Screen Resolution": "‎1920 x 1080 pixels",
+        "Max Screen Resolution": "‎1920 x 1080 Pixels",
+        "Processor": "‎3.8 GHz apple_ci3",
+        "RAM": "‎8 GB DDR4",
+        "Hard Drive": "‎256 GB SSD",
+        "Graphics Coprocessor": "‎Intel UHD Graphics",
+        "Chipset Brand": "‎Intel",
+        "Card Description": "‎Integrated",
+        "Wireless Type": "‎802.11ax",
+        "Average Battery Life (in hours)": "‎10 Hours",
+        "Series": "‎HP 15.6",
+        "Item model number": "‎Intel",
+        "Hardware Platform": "‎PC",
+        "Item Weight": "‎6 pounds",
+        "Product Dimensions": "‎14.17 x 9.29 x 0.73 inches",
+        "Item Dimensions LxWxH": "‎14.17 x 9.29 x 0.73 inches",
+        "Processor Brand": "‎Intel",
+        "Number of Processors": "‎8",
+        "Computer Memory Type": "‎DDR4 SDRAM",
+        "Hard Drive Interface": "‎Solid State",
+        "ASIN": "B0DNSHQWQS",
+        "Customer Reviews": "4.5 4.5 out of 5 stars 5 ratings var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); }); 4.5 out of 5 stars",
+        "Best Sellers Rank": "#10,778 in Computers & Accessories (See Top 100 in Computers & Accessories) #1,403 in Traditional Laptop Computers",
+        "Date First Available": "November 22, 2024"
+    },
+    "features": [
+        "【Processor】Intel Core i3-N305 Processor. It is a mobile processor with 8 cores, launched in January 2023. It is part of the Core i3 lineup, using the Alder Lake-N architecture with BGA 1264. Core i3-N305 has 6 MB of L3 cache and operates at 100 MHz by default, but can boost up to 3.8 GHz, depending on the workload. All cores can use up to 6 MB L3-cache.",
+        "【Display】HP 15.6\" Laptop with micro-edge Full HD IPS anti-glare display",
+        "【Memory & Storage】8 GB DDR4 RAM, 256 GB PCIe NVMe M.2 solid-state drive",
+        "【Tech Specs】Intel UHD Graphics,Fingerprint reader, camera privacy shutter, mic mute key, HP True Vision HD camera, Windows 11 Home OS.",
+        "【Operating System】Bundle with 64GB USB Flash Drive. Premium, reliable and secure data storage for your videos, music, photos, or other files."
+    ],
+    "breadcrumbs": [],
+    "media": {
+        "primary_image": "https://m.media-amazon.com/images/I/71LgbKfJisL.__AC_SX800_SY800_QL70_FMwebp_.jpg",
+        "secondary_images": [
+            "https://m.media-amazon.com/images/I/41bPQaIKXrL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41a87-dyu9L._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41Bf1gUFvJL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/31R+0UTDdNL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/11CKdxKaeSL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/11Mpf23qWLL._AC_US_.jpg"
+        ],
+        "featured_images": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/dfc8e46c-89e2-4622-8bc0-e325d174e795.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7ea0d60c-7250-455c-a9bd-512c11c440d1.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e91a8c07-53a8-43c9-bb6d-095af09a6034.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/309951be-e163-4713-bea7-2ff71e61d0ac.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/97a7cdfe-acd9-4181-8c9e-9c76d04ca0f0.mp4/productVideoOptimized.mp4"
+        ]
+    },
+    "ratings": {
+        "avg_rating": "4.5 out of 5",
+        "total_ratings": "5 global ratings",
+        "distribution": {
+            "5 star": "74%",
+            "3 star": "26%"
+        }
+    }
+},
+{
+    "created_at": "2025-02-06T18:10:32.945008",
+    "updated_at": "2025-02-06T18:10:32.945008",
+    "scrape_date": "2025-02-06",
+    "url": "https://www.amazon.com/BiTECOOL-Windows-i3-5005U-Display-Battery/dp/B0C8MYQRGB/ref=sr_1_6?dib=eyJ2IjoiMSJ9.uqkwWighaAruu-g77mMSLomCBhXcByNrNllGGZxktmjPJlesdGjevnfA--EL03a9GZuvLYlU87MloPrJZvt-n0KsfSPUAqu7cQYD1BCcYQOuDhYnSbCKhZJdG2SHXfFfX_wUdjxp9XTK38pfB0yRQo4Nnb8CdxDqSGBzA7VKea7HesaPUdxrMzDuLHrRP7p-aUCx_wFz_IofptCGBw-pSEnsFGhHig1LVC73CDkrdoM.-bTz3fu00bNV1Z8tJnkEyYyuRR6xTDn1LnApd7eAVIs&dib_tag=se&keywords=laptops&qid=1738865084&sr=8-6",
+    "name": "15.6\" Windows 11 Laptop, Intel Core i3-5005U, 16GB RAM, 512GB SSD, FHD IPS Display, 2.4G/5G WiFi, BT5.0, RJ45, Webcam, Long Battery Life - for Work, Study, and Entertainment",
+    "price": "$279.00",
+    "options": {},
+    "specifications": {
+        "Brand": "‎BiTECOOL",
+        "Screen Size": "15.6 Inches",
+        "Color": "‎Gray",
+        "Hard Disk Size": "512 GB",
+        "CPU Model": "Core i3",
+        "Ram Memory Installed Size": "16 GB",
+        "Operating System": "‎Windows 11 Pro",
+        "Special Feature": "HD Audio",
+        "Graphics Card Description": "Integrated, Dedicated",
+        "Graphics Coprocessor": "‎Intel HD Graphics 5500",
+        "Standing screen display size": "‎15.6 Inches",
+        "Screen Resolution": "‎1920 x 1080 pixels",
+        "Max Screen Resolution": "‎1920 x 1080 Pixels",
+        "Processor": "‎2 GHz core_i3",
+        "RAM": "‎16 GB LPDDR4",
+        "Memory Speed": "‎2400 MHz",
+        "Hard Drive": "‎512 GB SSD",
+        "Chipset Brand": "‎Intel",
+        "Card Description": "‎Integrated, Dedicated",
+        "Graphics Card Ram Size": "‎2 GB",
+        "Wireless Type": "‎Bluetooth",
+        "Number of USB 3.0 Ports": "‎2",
+        "Item model number": "‎HaloBook",
+        "Hardware Platform": "‎PC",
+        "Item Weight": "‎5.37 pounds",
+        "Product Dimensions": "‎14.1 x 9.5 x 0.78 inches",
+        "Item Dimensions LxWxH": "‎14.1 x 9.5 x 0.78 inches",
+        "Processor Brand": "‎Intel",
+        "Number of Processors": "‎2",
+        "Computer Memory Type": "‎DDR4 SDRAM",
+        "Flash Memory Size": "‎512 GB",
+        "Hard Drive Interface": "‎Solid State",
+        "Optical Drive Type": "‎No",
+        "Voltage": "‎19 Volts",
+        "Batteries": "‎1 Lithium Polymer batteries required. (included)",
+        "ASIN": "B0C8MYQRGB",
+        "Customer Reviews": "4.1 4.1 out of 5 stars 279 ratings var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); }); 4.1 out of 5 stars",
+        "Best Sellers Rank": "#2,635 in Computers & Accessories (See Top 100 in Computers & Accessories) #304 in Traditional Laptop Computers",
+        "Date First Available": "June 20, 2023"
+    },
+    "features": [
+        "Powerful Processor: Our Windows laptop is equipped with a fast and efficient Intel Core i3-5005U processor that can handle all your computing needs with ease.",
+        "High-Resolution Display: Enjoy stunning visuals on our laptop's 15.6 inches full high-resolution display, which produces vivid colors and sharp images.",
+        "Large Storage Capacity: With a generous amount of 512GB SSD storage space, you can store all your important files and documents without worrying about running out of space.",
+        "Lightweight and Portable: Our laptop is designed to be lightweight and easy to carry around, making it the perfect choice for those who are always on the go.",
+        "Long Battery Life: You won't have to worry about running out of battery life in the middle of an important project, thanks to our laptop's long-lasting battery.",
+        "Multiple Ports: With 2 x USB3.0, Standard Size HD, Headphone Jack, Micro SD, you can easily connect all your peripherals and devices to our laptop.",
+        "Windows 11 Pro Operating System: Our laptop comes pre-installed with the latest version of Windows 11 Pro, giving you access to all the latest features and updates."
+    ],
+    "breadcrumbs": [],
+    "media": {
+        "primary_image": "https://m.media-amazon.com/images/I/71FuBQEb08L.__AC_SX800_SY800_QL70_FMwebp_.jpg",
+        "secondary_images": [
+            "https://m.media-amazon.com/images/I/41ECGJVsCYL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41sYe8QPSTL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51yZQyWXfQL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/413yQd7U6bL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41-N0nJ0rML._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41st374owSL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41-1HkGsaVL._AC_US_.jpg"
+        ],
+        "featured_images": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/dfc8e46c-89e2-4622-8bc0-e325d174e795.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7ea0d60c-7250-455c-a9bd-512c11c440d1.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e91a8c07-53a8-43c9-bb6d-095af09a6034.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/db12456b-05fd-41ba-bd35-30f3a5b5527e.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/97a7cdfe-acd9-4181-8c9e-9c76d04ca0f0.mp4/productVideoOptimized.mp4"
+        ]
+    },
+    "ratings": {
+        "avg_rating": "4.1 out of 5",
+        "total_ratings": "279 global ratings",
+        "distribution": {
+            "5 star": "65%",
+            "4 star": "13%",
+            "3 star": "3%",
+            "2 star": "4%",
+            "1 star": "14%"
+        }
+    }
+},
+{
+    "created_at": "2025-02-06T18:11:20.736021",
+    "updated_at": "2025-02-06T18:11:20.736021",
+    "scrape_date": "2025-02-06",
+    "url": "https://www.amazon.com/Lenovo-Dual-Core-Processor-Bluetooth-Befec-Toy/dp/B0DLGZRH8S/ref=sr_1_5?dib=eyJ2IjoiMSJ9.uqkwWighaAruu-g77mMSLomCBhXcByNrNllGGZxktmjPJlesdGjevnfA--EL03a9GZuvLYlU87MloPrJZvt-n0KsfSPUAqu7cQYD1BCcYQOuDhYnSbCKhZJdG2SHXfFfX_wUdjxp9XTK38pfB0yRQo4Nnb8CdxDqSGBzA7VKea7HesaPUdxrMzDuLHrRP7p-aUCx_wFz_IofptCGBw-pSEnsFGhHig1LVC73CDkrdoM.-bTz3fu00bNV1Z8tJnkEyYyuRR6xTDn1LnApd7eAVIs&dib_tag=se&keywords=laptops&qid=1738865084&sr=8-5",
+    "name": "Lenovo V15 15.6\" FHD Business Laptop Computer, Intel Dual-Core Processor, 16GB DDR4 RAM, 256GB PCIe SSD, AC WiFi, Bluetooth 5.1, RJ-45, Type-C, HDMI, Numeric Keypad, Windows 11 Pro, Befec-Toy",
+    "price": "$379.00",
+    "options": {
+        "size": [
+            "16GB DDR4 RAM, 256GB PCIe SSD",
+            "16GB DDR4 RAM, 1TB PCIe SSD",
+            "16GB DDR4 RAM, 512GB PCIe SSD",
+            "32GB DDR4 RAM, 1TB PCIe SSD",
+            "32GB DDR4 RAM, 2TB PCIe SSD"
+        ]
+    },
+    "specifications": {
+        "Brand": "‎Lenovo",
+        "Model Name": "V15",
+        "Screen Size": "15.6 Inches",
+        "Hard Disk Size": "256 GB",
+        "CPU Model": "Celeron",
+        "Ram Memory Installed Size": "16 GB",
+        "Operating System": "‎Windows 11 Pro",
+        "Graphics Coprocessor": "‎Intel UHD Graphics",
+        "CPU Speed": "1.1 GHz",
+        "Hard Disk Description": "SSD",
+        "Standing screen display size": "‎15.6 Inches",
+        "Screen Resolution": "‎1920x1080",
+        "Max Screen Resolution": "‎1920x1080",
+        "Processor": "‎1.1 GHz celeron",
+        "RAM": "‎16 GB DDR4",
+        "Hard Drive": "‎256 GB SSD",
+        "Series": "‎V15",
+        "Item model number": "‎G2",
+        "Hardware Platform": "‎PC",
+        "Item Weight": "‎5.04 pounds",
+        "Product Dimensions": "‎14.37 x 9.45 x 0.74 inches",
+        "Item Dimensions LxWxH": "‎14.37 x 9.45 x 0.74 inches",
+        "Processor Brand": "‎Intel",
+        "Number of Processors": "‎2",
+        "Computer Memory Type": "‎DDR4 SDRAM",
+        "Hard Drive Interface": "‎PCIE x 4",
+        "ASIN": "B0DLGZRH8S",
+        "Customer Reviews": "3.9 3.9 out of 5 stars 93 ratings var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); }); 3.9 out of 5 stars",
+        "Best Sellers Rank": "#24,371 in Computers & Accessories (See Top 100 in Computers & Accessories) #3,830 in Traditional Laptop Computers",
+        "Date First Available": "October 30, 2024"
+    },
+    "features": [
+        "Going portable shouldn’t mean giving up processing power. And it no longer has to, thanks to the 15.6\" V15 G2 Laptop from Lenovo. Intended to provide performance on the go, the V15 features a Intel Celeron N4500 Processor @ 1.10GHz ( 2 Cores, 4M Cache, up to 2.80 GHz).",
+        "15.6\" FHD (1920x1080) TN 250nits Anti-glare Non-Touch Display; Intel UHD Graphics.",
+        "16GB DDR4 RAM; 256GB SSD M.2 2242 PCIe 3.0x4 NVMe.",
+        "Intel 11ac 2x2 Wi-Fi + Bluetooth 5.1; 1x USB 2.0, 1x USB 3.2 Gen 1, 1x USB-C 3.2 Gen 1, 1x HDMI 1.4b, 1x Ethernet (RJ-45), 1x Headphone / microphone combo jack (3.5mm), 1x Power connector.",
+        "Operating System: Windows 11 Pro 64, English; Black. Bundled with Befec-Toy Cable."
+    ],
+    "breadcrumbs": [],
+    "media": {
+        "primary_image": "https://m.media-amazon.com/images/I/71CDQQ10YdL.__AC_SX800_SY800_QL70_FMwebp_.jpg",
+        "secondary_images": [
+            "https://m.media-amazon.com/images/I/41dxfo3KriL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51Z7dgG8yEL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41RVX6Yz-TL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/415JbLPLLPL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/516jM0ZCvNL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41RJzSCeX0L._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/31gUAYcYWqL._AC_US_.jpg"
+        ],
+        "featured_images": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/dfc8e46c-89e2-4622-8bc0-e325d174e795.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7ea0d60c-7250-455c-a9bd-512c11c440d1.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/db12456b-05fd-41ba-bd35-30f3a5b5527e.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e91a8c07-53a8-43c9-bb6d-095af09a6034.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/2a6f6a44-c15b-4ae4-af6b-b566591614d6.mp4/productVideoOptimized.mp4"
+        ]
+    },
+    "ratings": {
+        "avg_rating": "3.9 out of 5",
+        "total_ratings": "93 global ratings",
+        "distribution": {
+            "5 star": "58%",
+            "4 star": "11%",
+            "3 star": "7%",
+            "2 star": "9%",
+            "1 star": "15%"
+        }
+    }
+},
+{
+    "created_at": "2025-02-06T18:12:39.779910",
+    "updated_at": "2025-02-06T18:12:39.779910",
+    "scrape_date": "2025-02-06",
+    "url": "https://www.amazon.com/Display-i3-N305-Graphics-Windows-AG15-31P-3947/dp/B0CV5ZSR17/ref=sr_1_4?dib=eyJ2IjoiMSJ9.uqkwWighaAruu-g77mMSLomCBhXcByNrNllGGZxktmjPJlesdGjevnfA--EL03a9GZuvLYlU87MloPrJZvt-n0KsfSPUAqu7cQYD1BCcYQOuDhYnSbCKhZJdG2SHXfFfX_wUdjxp9XTK38pfB0yRQo4Nnb8CdxDqSGBzA7VKea7HesaPUdxrMzDuLHrRP7p-aUCx_wFz_IofptCGBw-pSEnsFGhHig1LVC73CDkrdoM.-bTz3fu00bNV1Z8tJnkEyYyuRR6xTDn1LnApd7eAVIs&dib_tag=se&keywords=laptops&qid=1738865084&sr=8-4",
+    "name": "Acer Aspire Go 15 Slim Laptop | 15.6\" Full HD IPS 1080P Display | Intel Core i3-N305| Intel UHD Graphics | 8GB LPDDR5 | 128GB HD | Wi-Fi 6 | AI PC | Windows 11 Home in S Mode | AG15-31P-3947",
+    "price": "$445.00",
+    "options": {
+        "processor_description": [
+            "i3-N305",
+            "c3 N355",
+            "i5-13420H See available options",
+            "i7-1355U See available options"
+        ],
+        "size": [
+            "15.6 inch",
+            "15.6 inch touch",
+            "17.3 inch"
+        ],
+        "style": [
+            "8GB / 128GB",
+            "16GB / 512GB"
+        ]
+    },
+    "specifications": {
+        "Brand": "‎acer",
+        "Model Name": "Aspire Go 15",
+        "Screen Size": "15.6 Inches",
+        "Color": "‎Silver",
+        "Hard Disk Size": "128 GB",
+        "CPU Model": "Intel Core i3",
+        "Ram Memory Installed Size": "8 GB",
+        "Operating System": "‎Windows 11 S",
+        "Graphics Card Description": "Integrated",
+        "Graphics Coprocessor": "‎Intel UHD Graphics",
+        "Standing screen display size": "‎15.6 Inches",
+        "Screen Resolution": "‎1920 x 1080 pixels",
+        "Max Screen Resolution": "‎1920x1080",
+        "Processor": "‎1.8 GHz apple_ci3",
+        "RAM": "‎8 GB LPDDR5",
+        "Memory Speed": "‎2400 MHz",
+        "Hard Drive": "‎128 GB SSD",
+        "Chipset Brand": "‎Intel",
+        "Card Description": "‎Integrated",
+        "Wireless Type": "‎Bluetooth, 802.11ax",
+        "Number of USB 3.0 Ports": "‎3",
+        "Series": "‎Aspire Go 15",
+        "Item model number": "‎AG15-31P-3947",
+        "Item Weight": "‎3.86 pounds",
+        "Product Dimensions": "‎14.29 x 0.74 x 9.44 inches",
+        "Item Dimensions LxWxH": "‎14.29 x 0.74 x 9.44 inches",
+        "Processor Brand": "‎Intel",
+        "Number of Processors": "‎8",
+        "Computer Memory Type": "‎DDR5 RAM",
+        "Flash Memory Size": "‎128 GB",
+        "Hard Drive Interface": "‎Serial ATA",
+        "Batteries": "‎1 Lithium Ion batteries required. (included)",
+        "ASIN": "B0CV5ZSR17",
+        "Customer Reviews": "4.2 4.2 out of 5 stars 518 ratings var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); }); 4.2 out of 5 stars",
+        "Best Sellers Rank": "#768 in Computers & Accessories (See Top 100 in Computers & Accessories) #93 in Traditional Laptop Computers",
+        "Date First Available": "April 5, 2024"
+    },
+    "features": [
+        "Speed and Storage: Equipped with an Intel Core i3-N305 processor, 8GB LPDDR5 RAM, and fast 128GB Universal Flash Onboard Storage, this laptop ensures smooth multitasking and responsive performance. Plus, enjoy extended productivity with exceptional battery life.",
+        "Copilot in Windows - your AI Assistant: Do more, quicker than ever across multiple applications with the centralized generative AI assistance of Copilot in Windows (in preview). Accessible with a single touch of the Copilot Key",
+        "Clarity and Comfort: With its narrow bezel design the 15.6\" 1080p Full HD IPS display is perfect for casual web browsing and watching movies or streaming, allowing for a sharp, detailed view of what's in front of you. And with Acer BluelightShield, lower the levels of blue light to lessen the negative effects of blue light exposure.",
+        "The Connectivity: Effortlessly connect or charge your devices through the full-function USB Type-C port—while Wi-Fi 6 and HDMI 2.1 enhance your digital experiences to be faster, smoother, and more enjoyable.",
+        "Unlock More with AcerSense: Your device health and battery life are in good hands with AcerSense, which also optimizes storage space, monitors your apps, and much more. It’s a versatile tool for a smoother, more user-friendly experience.",
+        "Kinder to the Planet: Packaged in 100% recyclable materials and featuring a back cover made from 30% recycled plastic, Aspire Go 15 holds both Energy Star certification and EPEAT Silver registration, empowering you to make a more responsible choice.",
+        "Internal Specifications: 8GB LPDDR5 memory; 128GB Universal Flash Onboard Storage to store your files and media; Windows 11 Home in S mode"
+    ],
+    "breadcrumbs": [],
+    "media": {
+        "primary_image": "https://m.media-amazon.com/images/I/71wKJVtV-+L._AC_SY800_SX800_.jpg",
+        "secondary_images": [
+            "https://m.media-amazon.com/images/I/41mihvhc5CL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41xp7Ki8qoL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51QFfZvw1TL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41kHAiw2ihL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51lRt9Nv-ML._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51kG9xrgVWL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51i87gYBYYL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg"
+        ],
+        "featured_images": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/dfc8e46c-89e2-4622-8bc0-e325d174e795.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7ea0d60c-7250-455c-a9bd-512c11c440d1.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e91a8c07-53a8-43c9-bb6d-095af09a6034.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/97a7cdfe-acd9-4181-8c9e-9c76d04ca0f0.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/309951be-e163-4713-bea7-2ff71e61d0ac.mp4/productVideoOptimized.mp4"
+        ]
+    },
+    "ratings": {
+        "avg_rating": "4.2 out of 5",
+        "total_ratings": "518 global ratings",
+        "distribution": {
+            "5 star": "66%",
+            "4 star": "16%",
+            "3 star": "4%",
+            "2 star": "3%",
+            "1 star": "11%"
+        }
+    }
+},
+{
+    "created_at": "2025-02-06T18:14:15.516039",
+    "updated_at": "2025-02-06T18:14:15.516039",
+    "scrape_date": "2025-02-06",
+    "url": "https://www.amazon.com/BLUEING-Lightweight-Celeron-Computer-Windows/dp/B0DKWS1QZ4/ref=sr_1_3?dib=eyJ2IjoiMSJ9.uqkwWighaAruu-g77mMSLomCBhXcByNrNllGGZxktmjPJlesdGjevnfA--EL03a9GZuvLYlU87MloPrJZvt-n0KsfSPUAqu7cQYD1BCcYQOuDhYnSbCKhZJdG2SHXfFfX_wUdjxp9XTK38pfB0yRQo4Nnb8CdxDqSGBzA7VKea7HesaPUdxrMzDuLHrRP7p-aUCx_wFz_IofptCGBw-pSEnsFGhHig1LVC73CDkrdoM.-bTz3fu00bNV1Z8tJnkEyYyuRR6xTDn1LnApd7eAVIs&dib_tag=se&keywords=laptops&qid=1738865084&sr=8-3",
+    "name": "14\" FHD Lightweight Laptop, Intel Celeron N3350 Laptop Computer, 6GB LPDDR4 RAM 192GB(64GB eMMC/128GB SSD), WI-FI 5, BT5.0, HD Camera, Windows 10 Laptop Computer for Home & Study",
+    "price": "$199.99",
+    "options": {
+        "size": [
+            "64GB eMMC + 128GB SSD",
+            "64GB eMMC + 256GB SSD"
+        ]
+    },
+    "specifications": {
+        "Brand": "‎BLUEING",
+        "Model Name": "BLNB147A",
+        "Screen Size": "14.1 Inches",
+        "Color": "‎Gray",
+        "Hard Disk Size": "192 GB",
+        "CPU Model": "Celeron N3350",
+        "Ram Memory Installed Size": "6 GB",
+        "Operating System": "‎Windows 10",
+        "Special Feature": "Lightweight",
+        "Graphics Card Description": "Integrated",
+        "Standing screen display size": "‎14.1 Inches",
+        "Screen Resolution": "‎1366 x 768 pixels",
+        "Max Screen Resolution": "‎1366x768 Pixels",
+        "Processor": "‎1.1 GHz celeron_n3350",
+        "RAM": "‎LPDDR4X",
+        "Hard Drive": "‎192 GB SSD",
+        "Graphics Coprocessor": "‎Intel HD Graphics 500",
+        "Chipset Brand": "‎Intel",
+        "Card Description": "‎Integrated",
+        "Graphics Card Ram Size": "‎6 GB",
+        "Wireless Type": "‎Bluetooth",
+        "Number of USB 2.0 Ports": "‎1",
+        "Number of USB 3.0 Ports": "‎1",
+        "Average Battery Life (in hours)": "‎5 Hours",
+        "Series": "‎BLNB147A",
+        "Item model number": "‎BLNB147A",
+        "Item Weight": "‎4 pounds",
+        "Product Dimensions": "‎13 x 8.6 x 0.8 inches",
+        "Item Dimensions LxWxH": "‎13 x 8.6 x 0.8 inches",
+        "Processor Brand": "‎Intel",
+        "Number of Processors": "‎2",
+        "Computer Memory Type": "‎DDR4 SDRAM",
+        "Flash Memory Size": "‎6 GB",
+        "Hard Drive Interface": "‎USB 3.0",
+        "Optical Drive Type": "‎BD-R",
+        "Power Source": "‎Battery Powered",
+        "Batteries": "‎1 9V batteries required. (included)",
+        "ASIN": "B0DKWS1QZ4",
+        "Customer Reviews": "4.3 4.3 out of 5 stars 2 ratings var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); }); 4.3 out of 5 stars",
+        "Best Sellers Rank": "#7,307 in Computers & Accessories (See Top 100 in Computers & Accessories) #875 in Traditional Laptop Computers",
+        "Date First Available": "November 1, 2024"
+    },
+    "features": [
+        "【Efficient Processing Powerhouse】BLUEING Laptop is armed with the Inter N3350 Processor (2 Cores/4 Threads, 2MB Intel Smart Cache, up to 2.4GHz), providing reliable performance for everyday computing tasks. It smoothly handles web browsing, document editing, and light multitasking, making it a practical choice for students and casual users.",
+        "【Adequate Storage Solutions】BLUEING Laptop with 6GB LPDDR4 MAX RAM and 192GB(64GB eMMC/128GB SSD), it offers sufficient space for storing your essential files, apps, and media. The SSD option provides faster boot-up times and data access, enhancing overall system responsiveness and allowing you to quickly get to work or play.",
+        "【Stunning Visuals】BLUEING Laptops have 14-inch FHD IPS displays. These displays have wide viewing angles and clear, vivid images. This makes for a stunning visual experience. Every frame is colorful and detailed. This makes watching movies, editing photos, or playing games more enjoyable and comfortable. It's like having your own personal movie theater or art gallery. These laptops bring your digital world to life.",
+        "【Convenient User Experience】BLUEING laptop has built-in Wi-Fi 5, so you can stay connected no matter where you are. Whether you're in the living room watching TV, bedroom working, or office, the network will always be stable and fast. You can connect your headphones, speakers, and other devices to the desktop with the BT5.0, so you won't have to deal with a mess of cables. It comes with Windows 10 already installed, making it easy to use for all your needs.",
+        "【BLUEING AT YOUR SERVICE】Package Contents: BLUEING Laptop x 1, Charger x 1, Manual x 1. 1-Year manufacturer warranty, 1-Month free return, 24-Hour reliable after-sales service *If you have any problems, such as being unable to activate the license, please contact us through Amazon Support. Please feel free to contact us through your Amazon account → Access your order history → Related orders → Click the \"There is a problem with your order\" button. We will respond as soon as possible."
+    ],
+    "breadcrumbs": [],
+    "media": {
+        "primary_image": "https://m.media-amazon.com/images/I/71yEBQfL0YL.__AC_SX800_SY800_QL70_FMwebp_.jpg",
+        "secondary_images": [
+            "https://m.media-amazon.com/images/I/51cD8eZQQgL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51X5XkG5tTL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41l9VnElS0L._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/415xBJ45G-L._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41Ke2Ly3YnL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51lUtOJHS6L._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/71GhTgCgGXL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg"
+        ],
+        "featured_images": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bb16ec99-b809-4ee9-803f-4ea312e03ace.__CR974,0,479,600_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bb16ec99-b809-4ee9-803f-4ea312e03ace.__CR492,0,479,600_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bb16ec99-b809-4ee9-803f-4ea312e03ace.__CR11,0,479,600_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0f292a10-0291-4699-ab91-1269348f77f2.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9d513796-1caa-4f5c-83b6-375de65eab41.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+        ],
+        "videos": [
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/dfc8e46c-89e2-4622-8bc0-e325d174e795.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7ea0d60c-7250-455c-a9bd-512c11c440d1.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e91a8c07-53a8-43c9-bb6d-095af09a6034.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/97a7cdfe-acd9-4181-8c9e-9c76d04ca0f0.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/309951be-e163-4713-bea7-2ff71e61d0ac.mp4/productVideoOptimized.mp4"
+        ]
+    },
+    "ratings": {
+        "avg_rating": "4.3 out of 5",
+        "total_ratings": "2 global ratings",
+        "distribution": {
+            "5 star": "31%",
+            "4 star": "69%"
+        }
+    }
+},
+{
+    "created_at": "2025-02-06T18:14:42.952981",
+    "updated_at": "2025-02-06T18:14:42.952981",
+    "scrape_date": "2025-02-06",
+    "url": "https://www.amazon.com/Microsoft-Surface-Touchscreen-Snapdragon-Sapphire/dp/B0CXKY7JYZ/ref=sr_1_2?dib=eyJ2IjoiMSJ9.uqkwWighaAruu-g77mMSLomCBhXcByNrNllGGZxktmjPJlesdGjevnfA--EL03a9GZuvLYlU87MloPrJZvt-n0KsfSPUAqu7cQYD1BCcYQOuDhYnSbCKhZJdG2SHXfFfX_wUdjxp9XTK38pfB0yRQo4Nnb8CdxDqSGBzA7VKea7HesaPUdxrMzDuLHrRP7p-aUCx_wFz_IofptCGBw-pSEnsFGhHig1LVC73CDkrdoM.-bTz3fu00bNV1Z8tJnkEyYyuRR6xTDn1LnApd7eAVIs&dib_tag=se&keywords=laptops&qid=1738865084&sr=8-2",
+    "name": "Microsoft Surface Laptop (2024), Windows 11 Copilot+ PC, 13.8\" Touchscreen Display, Snapdragon X Plus (10 core), 16GB RAM, 512GB SSD Storage, Sapphire",
+    "price": "$949.50",
+    "options": {
+        "processor_description": [
+            "Snapdragon X Plus (10 core)",
+            "Snapdragon X Elite (12 core)"
+        ],
+        "computer_memory_size": [
+            "16 GB",
+            "32 GB"
+        ],
+        "hard_disk_size": [],
+        "software_included": [
+            "13.8\" Touchscreen",
+            "15\" Touchscreen"
+        ],
+        "color": [
+            "Sapphire",
+            "Platinum",
+            "Black",
+            "Dune"
+        ]
+    },
+    "specifications": {
+        "Brand": "‎Microsoft",
+        "Model Name": "Surface Laptop",
+        "Screen Size": "13.8 Inches",
+        "Color": "‎Sapphire",
+        "Hard Disk Size": "512 GB",
+        "Ram Memory Installed Size": "16 GB",
+        "Operating System": "‎Windows 11 Home",
+        "Graphics Card Description": "Integrated",
+        "CPU Speed": "1",
+        "Hard Disk Description": "SSD",
+        "Standing screen display size": "‎13.8 Inches",
+        "Screen Resolution": "‎2304 x 1536",
+        "Max Screen Resolution": "‎2304 x 1536",
+        "Processor": "‎1",
+        "RAM": "‎16 GB LPDDR5x",
+        "Hard Drive": "‎512 GB SSD",
+        "Chipset Brand": "‎Qualcomm",
+        "Card Description": "‎Integrated",
+        "Wireless Type": "‎802.11bgn",
+        "Series": "‎Surface Laptop",
+        "Item model number": "‎ZGM-00062",
+        "Item Weight": "‎2.96 pounds",
+        "Product Dimensions": "‎11.85 x 8.67 x 0.69 inches",
+        "Item Dimensions LxWxH": "‎11.85 x 8.67 x 0.69 inches",
+        "Processor Brand": "‎Snapdragon X Plus (10 core)",
+        "Number of Processors": "‎1",
+        "Computer Memory Type": "‎DDR5 SDRAM",
+        "Flash Memory Size": "‎512 GB",
+        "Hard Drive Interface": "‎Serial ATA",
+        "Power Source": "‎Battery Powered",
+        "Voltage": "‎3.7 Volts",
+        "Batteries": "‎1 Lithium Ion batteries required. (included)",
+        "ASIN": "B0CXKY7JYZ",
+        "Customer Reviews": "4.3 4.3 out of 5 stars 261 ratings var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); }); 4.3 out of 5 stars",
+        "Best Sellers Rank": "#3,921 in Computers & Accessories (See Top 100 in Computers & Accessories) #444 in Traditional Laptop Computers",
+        "Date First Available": "March 8, 2024"
+    },
+    "features": [
+        "[This is a Copilot+ PC] — A new AI era begins. Experience enhanced performance and AI capabilities with Copilot+ PC, boosting productivity with security and privacy in mind",
+        "[Introducing Surface Laptop] — Power, speed, and touchscreen versatility with AI features. Transform your work, play, and creativity with a razor-thin display and best-in-class specs.",
+        "[Exceptional Performance] — Surface Laptop delivers faster performance than the MacBook Air M3[1], with blazing NPU speed for seamless productivity and AI apps.",
+        "[All-Day Battery Life] — Up to 20 hours of battery life[6] to focus, create, and play all day.",
+        "[Brilliant 13.8” Touchscreen Display] — Bright HDR tech, ultra-thin design, and optimized screen space.",
+        "[Recall with Copilot+]: Easily retrieve documents, emails, or web pages with an explorable timeline of your PC's history[2] (coming soon).",
+        "[Enhance Calls with Copilot+] — Improve lighting, cancel noise, and blur distractions with Windows Studio Effects for video calls. Prerelease product shown, subject to change."
+    ],
+    "breadcrumbs": [],
+    "media": {
+        "primary_image": "https://m.media-amazon.com/images/I/61cVvg6zcWL.__AC_SX800_SY800_QL70_FMwebp_.jpg",
+        "secondary_images": [
+            "https://m.media-amazon.com/images/I/414AigJ0TGL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41DO-RKacEL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41HPmXSkyhL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41Tq3JbUeVL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41VSwY-TBTL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/516aDtJk0AL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/71K-zLqlCSL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg"
+        ],
+        "featured_images": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d68282b5-3967-4e13-9d4f-e5b0db4446f9.__CR0,0,2928,1200_PT0_SX1464_V1___.jpg"
+        ],
+        "videos": [
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c5986216-e163-4ec7-b91f-d9ca9357e04b.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/dfc8e46c-89e2-4622-8bc0-e325d174e795.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7ea0d60c-7250-455c-a9bd-512c11c440d1.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/309951be-e163-4713-bea7-2ff71e61d0ac.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e8d897a6-65e1-4598-9e49-f3c798328eee.mp4/productVideoOptimized.mp4"
+        ]
+    },
+    "ratings": {
+        "avg_rating": "4.3 out of 5",
+        "total_ratings": "261 global ratings",
+        "distribution": {
+            "5 star": "72%",
+            "4 star": "9%",
+            "3 star": "4%",
+            "2 star": "3%",
+            "1 star": "12%"
+        }
+    }
+},
+{
+    "created_at": "2025-02-06T18:16:42.159201",
+    "updated_at": "2025-02-06T18:16:42.160201",
+    "scrape_date": "2025-02-06",
+    "url": "https://www.amazon.com/SteelSeries-Arctis-Multi-System-Gaming-Headset/dp/B0B8Q4CR52/ref=sr_1_15?dib=eyJ2IjoiMSJ9.hkeFfEL7O7dLU10a2aBZw99esjun4Kp3xpYywJ5nGQeEb2ggY3c5M7IOHSuKAGQ3UgKRbHW_zkZwywm_hN6ndWeTwEcIBbyc9cWefaKzEI23Ikk0gvS8z3fbkiD6Uzyds0IGpmpUBfjvq-48T9Vx6Sqyf7NlMVexr5VkDaxjjG8kVj4L-y0sLJnBGR91JCBCWm8DTvEH01nJlWKuaYS2XcVtuaDwr7U2gQqDM-0DEVk.urXRqmiKUxUDWkhJWXSyDhtbISP4ZfKEim2jZeUHk2U&dib_tag=se&keywords=headsets&qid=1738865657&sr=8-15",
+    "name": "SteelSeries Arctis Nova 1 Multi-System Gaming Headset — Hi-Fi Drivers — 360° Spatial Audio — Comfort Design — Durable — Ultra Lightweight — Noise-Cancelling Mic — PC, PS5/PS4, Switch, Xbox - Black",
+    "price": "$45.99",
+    "options": {
+        "style": [
+            "Nova 1",
+            "Arctis 3"
+        ],
+        "color": [
+            "Black",
+            "White"
+        ]
+    },
+    "specifications": {
+        "Brand": "SteelSeries",
+        "Color": "Black",
+        "Ear Placement": "Over Ear",
+        "Form Factor": "Over Ear",
+        "Impedance": "36 Ohm",
+        "Noise Control": "Active Noise Cancellation",
+        "Frequency Response": "22000 Hz",
+        "Headphones Jack": "3.5 mm Jack",
+        "Model Name": "Arctis Nova 1 Multi-System Gaming Headset - Black",
+        "Connectivity Technology": "Wired",
+        "Wireless Communication Technology": "Bluetooth",
+        "Included Components": "SteelSeries Arctis Nova 1 Multi-System Gaming Headset - Black",
+        "Age Range (Description)": "Information Not Available",
+        "Material": "Memory Foam",
+        "Specific Uses For Product": "Gaming",
+        "Recommended Uses For Product": "Gaming, Portable Electronics",
+        "Compatible Devices": "PC, Mac, PlayStation, Xbox, Switch",
+        "Theme": "Video Game",
+        "Control Type": "Volume Control",
+        "Cable Feature": "Retractable",
+        "Item Weight": "8.3 ounces",
+        "Style": "Nova 1",
+        "Control Method": "Touch",
+        "Number of Items": "1",
+        "Controller Type": "Standard Wired Controller",
+        "Earpiece Shape": "On-ear",
+        "Series Number": "61606",
+        "UPC": "850014119713",
+        "Global Trade Identification Number": "00850014119713",
+        "Manufacturer": "SteelSeries",
+        "Product Dimensions": "7.48 x 6.89 x 3.43 inches",
+        "ASIN": "B0B8Q4CR52",
+        "Item model number": "61606",
+        "Customer Reviews": "4.2 4.2 out of 5 stars 12,322 ratings var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); }); 4.2 out of 5 stars",
+        "Best Sellers Rank": "#160 in Video Games (See Top 100 in Video Games) #19 in PC Game Headsets",
+        "Date First Available": "August 23, 2022",
+        "Country of Origin": "China"
+    },
+    "features": [
+        "Almighty Audio — Custom-designed Nova Acoustic System features best-in class audio for gaming with High Fidelity Drivers. Fully customize your ideal sound experience with a first-in gaming Pro-grade Parametric EQ.",
+        "360 degree Spatial Audio — Immersive surround sound transports you to the gaming world, letting you hear every critical step, reload, or vocal cue to give you an advantage. *Fully compatible with Tempest 3D Audio for PS5 / Microsoft Spatial Sound",
+        "Adjustable for Perfect Fit — The ComfortMAX System includes height-adjusting, rotating earcups with AirWeave memory cushion and a stretchy band. The lightweight form of the headset keeps you comfortable no matter how long you play.",
+        "Bidirectional Noise-Cancelling Mic — The ClearCast Gen 2 mic silences background noise by up to 25dB on any platform to give you crystal clear comms. Fully retract the mic into the earcup for a sleeker look.",
+        "Multi-Platform Support — Easily connect to any gaming console with a 3.5mm jack, such as PC, Mac, PlayStation, Xbox, or Switch. Works great with mobile devices as well.",
+        "Easy Settings — On-board controls allow convenient volume adjustment and muting on the headset."
+    ],
+    "breadcrumbs": [],
+    "media": {
+        "primary_image": "https://m.media-amazon.com/images/I/71pY4rbIg0L.__AC_SX800_SY800_QL70_FMwebp_.jpg",
+        "secondary_images": [
+            "https://m.media-amazon.com/images/I/31E0h6GeHEL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41L3rBi74WL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/517a0-8zcsL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41dMIObEx-L._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/418NDg9DLfL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51zqEe+FhgL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51G+AEubYTL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg"
+        ],
+        "featured_images": [],
+        "videos": [
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f90c4ce4-d4b3-4376-83dc-5b460d39915a.mp4/productVideoOptimized.mp4",
+            "https://d1f0esyb34c1g2.cloudfront.net/transcode/storyTeller/A2S8GSYAQUWJZ8/1648763281442/cc4fc8b1-e9bb-4739-bac8-369330590f8f/1648763321511sbv.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/ad635e4a-8f2f-4900-b4a9-68091c5a4226.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/fb9b8f61-5522-40cd-bd63-9c27b9a04132.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a55537c5-5d8f-4a04-9208-80e42ebbc1aa.mp4/productVideoOptimized.mp4"
+        ]
+    },
+    "ratings": {
+        "avg_rating": "4.2 out of 5",
+        "total_ratings": "12,322 global ratings",
+        "distribution": {
+            "5 star": "67%",
+            "4 star": "13%",
+            "3 star": "7%",
+            "2 star": "5%",
+            "1 star": "9%"
+        }
+    }
+},
+{
+    "created_at": "2025-02-06T18:25:45.243547",
+    "updated_at": "2025-02-06T18:25:45.243547",
+    "scrape_date": "2025-02-06",
+    "url": "https://www.amazon.com/Plantronics-Blackwire-3220-Headset-Wired/dp/B0775S8X5C",
+    "name": "Plantronics - Blackwire 3220 - Wired Dual-Ear (Stereo) Headset with Boom Mic - USB-A to connect to your PC and/or Mac",
+    "price": "$36.49",
+    "options": {
+        "style": [
+            "2018 Version (USB-A Only)",
+            "2023 Version (USB-C & USB-A)"
+        ]
+    },
+    "specifications": {
+        "Brand": "Poly",
+        "Color": "Black",
+        "Ear Placement": "Over Ear",
+        "Form Factor": "On Ear",
+        "Impedance": "32 Ohm",
+        "Noise Control": "Active Noise Cancellation",
+        "Headphones Jack": "USB",
+        "Model Name": "Blackwire C3220",
+        "Connectivity Technology": "Bluetooth",
+        "Wireless Communication Technology": "1",
+        "Included Components": "Headset, Carrying Case",
+        "Age Range (Description)": "Adult",
+        "Material": "Metal",
+        "Specific Uses For Product": "Communication-focused activities",
+        "Recommended Uses For Product": "Calling",
+        "Compatible Devices": "PC, Mac",
+        "Theme": "Music",
+        "Control Type": "Call Control",
+        "Cable Feature": "General USB cable",
+        "Item Weight": "0.035 ounces",
+        "Water Resistance Level": "Not Water Resistant",
+        "Frequency Range": "20 Hz - 20,000 Hz",
+        "Package Type": "Rigid Packaging\" or \"Cushioned Packaging",
+        "Unit Count": "1.0 Count",
+        "Style": "2018 Version (USB-A Only)",
+        "Control Method": "Touch",
+        "Number of Items": "1",
+        "Cable Length": "5 Feet",
+        "Audio Driver Type": "Dynamic Driver",
+        "Carrying Case Material": "fabric",
+        "Earpiece Shape": "over-ear",
+        "Is Autographed": "No",
+        "Series Number": "209745",
+        "Number of USB 2 Ports": "1",
+        "UPC": "197497213782 017229160170 197192236833 017229173101",
+        "Global Trade Identification Number": "00017229173101, 00017229160170",
+        "Manufacturer": "Poly",
+        "ASIN": "B0775S8X5C",
+        "Item model number": "209745-101",
+        "Batteries": "1 A batteries required.",
+        "Customer Reviews": "4.3 4.3 out of 5 stars 3,333 ratings var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); }); 4.3 out of 5 stars",
+        "Best Sellers Rank": "#17 in Computer Headsets",
+        "Is Discontinued By Manufacturer": "No",
+        "Special features": "Microphone Included, Noise Cancellation, Foldable, Adjustable Headband, Durable, Lightweight, Portable",
+        "Other display features": "Wireless",
+        "Human Interface Input": "Buttons",
+        "Language": "English",
+        "Date First Available": "November 4, 2017"
+    },
+    "features": [
+        "Connects To: Simply and easily connects to PC or Mac via USB-A.",
+        "Ideal For: Users transitioning to a PC for telephony, webinars, conference calls, and other applications.",
+        "Audio Performance: Clear, natural and rich audio with wideband audio, a noise-canceling microphone, and enhanced digital signal processing (DSP). SoundGuard technology: Acoustic limiting for protection against sounds above 118 dBA",
+        "All-day Comfort: A lightweight metal headband offers durability and a comfortable custom fit.",
+        "Global Warranty & Wearing Style: 2 years global warranty; over the head wearing style with two earpieces."
+    ],
+    "breadcrumbs": [],
+    "media": {
+        "primary_image": "https://m.media-amazon.com/images/I/51Z640YNXBL.__AC_SX800_SY800_QL70_FMwebp_.jpg",
+        "secondary_images": [
+            "https://m.media-amazon.com/images/I/41W99SbvYIL._AC_SR38,50_.jpg",
+            "https://m.media-amazon.com/images/I/41CPf+af3JL._AC_SR38,50_.jpg"
+        ],
+        "featured_images": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/37ad2119-cb09-449f-8395-bab61849d13a.__CR0,0,1464,625_PT0_SX1464_V1___.jpg"
+        ],
+        "videos": [
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6966bbd6-bc28-447d-9815-b89faa622d23.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/d70ad7da-103c-4b88-93a9-3d6d5fcc1fa6.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a3bd1208-d31f-44d8-ac72-0b2e64c63f3b.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/2010796d-974b-43bc-a46c-fd8c358bfa54.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/d4276379-e794-4b4d-953d-4716670bc725.mp4/productVideoOptimized.mp4"
+        ]
+    },
+    "ratings": {
+        "avg_rating": "4.3 out of 5",
+        "total_ratings": "3,333 global ratings",
+        "distribution": {
+            "5 star": "68%",
+            "4 star": "14%",
+            "3 star": "8%",
+            "2 star": "2%",
+            "1 star": "8%"
+        }
+    }
+},
+{
+    "created_at": "2025-02-06T18:30:41.275965",
+    "updated_at": "2025-02-06T18:30:41.275965",
+    "scrape_date": "2025-02-06",
+    "url": "https://www.amazon.com/Razer-BlackShark-V2-Gaming-Headset/dp/B086PKMZ21/ref=sr_1_9?dib=eyJ2IjoiMSJ9.hkeFfEL7O7dLU10a2aBZw99esjun4Kp3xpYywJ5nGQeEb2ggY3c5M7IOHSuKAGQ3UgKRbHW_zkZwywm_hN6ndWeTwEcIBbyc9cWefaKzEI23Ikk0gvS8z3fbkiD6Uzyds0IGpmpUBfjvq-48T9Vx6Sqyf7NlMVexr5VkDaxjjG8kVj4L-y0sLJnBGR91JCBCWm8DTvEH01nJlWKuaYS2XcVtuaDwr7U2gQqDM-0DEVk.urXRqmiKUxUDWkhJWXSyDhtbISP4ZfKEim2jZeUHk2U&dib_tag=se&keywords=headsets&qid=1738865657&sr=8-9",
+    "name": "Razer BlackShark V2 X Gaming Headset: 7.1 Surround Sound - 50mm Drivers - Memory Foam Cushion - For PC, PS4, PS5, Switch - 3.5mm Audio Jack - Black",
+    "price": "$39.99",
+    "options": {
+        "color": [
+            "Green",
+            "Quartz Pink",
+            "Black",
+            "White",
+            "Classic Black"
+        ],
+        "size": [
+            "3.5mm",
+            "USB"
+        ],
+        "style": [
+            "PC",
+            "PlayStation",
+            "Xbox"
+        ]
+    },
+    "specifications": {
+        "Brand": "Razer",
+        "Color": "Black",
+        "Ear Placement": "Over Ear",
+        "Form Factor": "Over Ear",
+        "Impedance": "32 Ohm",
+        "Noise Control": "Sound Isolation",
+        "Frequency Response": "28 KHz",
+        "Sensitivity": "100 dB",
+        "Headphones Jack": "3.5 mm Jack",
+        "Model Name": "BlackShark V2 X",
+        "Connectivity Technology": "Wired",
+        "Wireless Communication Technology": "Bluetooth",
+        "Included Components": "Important Product Information Guide, Audio/mic splitter extension cable, Razer BlackShark V2 X",
+        "Age Range (Description)": "Adult",
+        "Material": "Titanium, Memory Foam",
+        "Specific Uses For Product": "Personal, Gaming",
+        "Recommended Uses For Product": "Gaming",
+        "Compatible Devices": "PlayStation 4, Switch, Laptops, Desktops, Mac",
+        "Theme": "Video Game",
+        "Control Type": "Noise Control",
+        "Cable Feature": "Retractable",
+        "Item Weight": "1.2 pounds",
+        "Water Resistance Level": "Not Water Resistant",
+        "Frequency Range": "100 Hz - 10 kHz",
+        "Package Type": "Standard Packaging",
+        "Unit Count": "1.0 Count",
+        "Style": "PC",
+        "Control Method": "Remote",
+        "Number of Items": "1",
+        "Audio Driver Type": "Dynamic Driver",
+        "Carrying Case Color": "Black or gray",
+        "Audio Driver Size": "50 Millimeters",
+        "Earpiece Shape": "Over-ear with oval cushions",
+        "Is Autographed": "No",
+        "UPC": "811659037572",
+        "Manufacturer": "Razer",
+        "Product Dimensions": "7.6 x 6.76 x 3.86 inches",
+        "ASIN": "B086PKMZ21",
+        "Item model number": "RZ04-03240100-R3U1",
+        "Customer Reviews": "4.4 4.4 out of 5 stars 20,562 ratings var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); }); 4.4 out of 5 stars",
+        "Best Sellers Rank": "#90 in Video Games (See Top 100 in Video Games) #10 in PC Game Headsets",
+        "Date First Available": "July 30, 2020",
+        "Country of Origin": "China"
+    },
+    "features": [
+        "ADVANCED PASSIVE NOISE CANCELLATION — sturdy closed earcups fully cover ears to prevent noise from leaking into the headset, with its cushions providing a closer seal for more sound isolation.",
+        "7.1 SURROUND SOUND FOR POSITIONAL AUDIO — Outfitted with custom-tuned 50 mm drivers, capable of software-enabled surround sound. *Only available on Windows 10 64-bit",
+        "TRIFORCE TITANIUM 50MM HIGH-END SOUND DRIVERS — With titanium-coated diaphragms for added clarity, our new, cutting-edge proprietary design divides the driver into 3 parts for the individual tuning of highs, mids, and lowsproducing brighter, clearer audio with richer highs and more powerful lows",
+        "LIGHTWEIGHT DESIGN WITH BREATHABLE FOAM EAR CUSHIONS — At just 240g, the BlackShark V2X is engineered from the ground up for maximum comfort",
+        "RAZER HYPERCLEAR CARDIOID MIC — Improved pickup pattern ensures more voice and less noise as it tapers off towards the mic’s back and sides",
+        "CROSS-PLATFORM COMPATIBILITY — Works with PC, Mac, PS4, Xbox One, Nintendo Switch via 3.5mm jack, enjoy unfair audio advantage across almost every platform. *Xbox One stereo adapter may be required, purchase separately",
+        "#1 SELLING PC GAMING PERIPHERALS BRAND IN THE U.S. — Source — Circana, Retail Tracking Service, U.S., Dollar Sales, Gaming Designed Mice, Keyboards, and PC Headsets, Jan. 2019- Dec. 2023 combined"
+    ],
+    "breadcrumbs": [],
+    "media": {
+        "primary_image": "https://m.media-amazon.com/images/I/51FRJHB7XOL.__AC_SX800_SY800_QL70_FMwebp_.jpg",
+        "secondary_images": [
+            "https://m.media-amazon.com/images/I/41EG-w4jXRL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41e6RgcV5WL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41luAWO+2pL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/412DFoVObWL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51NQuECz8WL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41ICzwSnopL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51xSAAsELKL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg"
+        ],
+        "featured_images": [
+            "https://m.media-amazon.com/images/S/aplus-media/vc/d652f78c-e932-4b5a-8b7c-de661d19ff44.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+        ],
+        "videos": [
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/8474cf9b-1e22-4543-84f9-d0e00c4d8b7e.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/d869b354-799a-48aa-a507-f99780382d78.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1e9983e5-e2fc-4790-b424-2fb31b658945.mp4/productVideoOptimized.mp4",
+            "https://d1f0esyb34c1g2.cloudfront.net/transcode/storyTeller/A2S8GSYAQUWJZ8/1648763281442/cc4fc8b1-e9bb-4739-bac8-369330590f8f/1648763321511sbv.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/fb9b8f61-5522-40cd-bd63-9c27b9a04132.mp4/productVideoOptimized.mp4"
+        ]
+    },
+    "ratings": {
+        "avg_rating": "4.4 out of 5",
+        "total_ratings": "20,562 global ratings",
+        "distribution": {
+            "5 star": "72%",
+            "4 star": "14%",
+            "3 star": "5%",
+            "2 star": "3%",
+            "1 star": "6%"
+        }
+    }
+},
+{
+    "created_at": "2025-02-06T18:30:49.634182",
+    "updated_at": "2025-02-06T18:30:49.634182",
+    "scrape_date": "2025-02-06",
+    "url": "https://www.amazon.com/Turtle-Gaming-Headset-PlayStation-Nintendo-Console/dp/B00YXO5U40/ref=sr_1_8?dib=eyJ2IjoiMSJ9.hkeFfEL7O7dLU10a2aBZw99esjun4Kp3xpYywJ5nGQeEb2ggY3c5M7IOHSuKAGQ3UgKRbHW_zkZwywm_hN6ndWeTwEcIBbyc9cWefaKzEI23Ikk0gvS8z3fbkiD6Uzyds0IGpmpUBfjvq-48T9Vx6Sqyf7NlMVexr5VkDaxjjG8kVj4L-y0sLJnBGR91JCBCWm8DTvEH01nJlWKuaYS2XcVtuaDwr7U2gQqDM-0DEVk.urXRqmiKUxUDWkhJWXSyDhtbISP4ZfKEim2jZeUHk2U&dib_tag=se&keywords=headsets&qid=1738865657&sr=8-8",
+    "name": "Turtle Beach Recon 50 Wired Gaming Headset - Xbox Series X|S, Xbox One, PS5, PS4, PlayStation, Nintendo Switch, Mobile & PC with 3.5mm - Removable Mic, 40mm Speakers, In-line Controls – Black",
+    "price": "$24.99",
+    "options": {
+        "color": [
+            "Black / Blue",
+            "Black / Green",
+            "Red/Blue",
+            "Black / Red"
+        ]
+    },
+    "specifications": {
+        "Brand": "Turtle Beach",
+        "Color": "Black / Green",
+        "Ear Placement": "Over Ear",
+        "Form Factor": "Over Ear",
+        "Noise Control": "Sound Isolation",
+        "Headphones Jack": "3.5 mm Jack",
+        "Model Name": "Recon 50X",
+        "Connectivity Technology": "Wired",
+        "Included Components": "Cable, User Manual, Headset",
+        "Age Range (Description)": "Kid",
+        "Material": "Plastic",
+        "Specific Uses For Product": "Gaming",
+        "Recommended Uses For Product": "Gaming",
+        "Compatible Devices": "Xbox, PlayStation, Nintendo Switch, PC, Mac, Mobile",
+        "Theme": "Video Game",
+        "Control Type": "Volume Control",
+        "Cable Feature": "Retractable",
+        "Item Weight": "5.4 ounces",
+        "Frequency Range": "20Hz - 20kHz",
+        "Package Type": "Standard Packaging",
+        "Unit Count": "1.0 Count",
+        "Style": "Stereo",
+        "Number of Items": "1",
+        "Cable Length": "40 Millimeters",
+        "Is Autographed": "No",
+        "Series Number": "2303",
+        "UPC": "731855023035",
+        "Manufacturer": "Turtle Beach",
+        "ASIN": "B00YXO5U40",
+        "Item model number": "TBS-2303-05",
+        "Customer Reviews": "4.3 4.3 out of 5 stars 102,864 ratings var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); }); 4.3 out of 5 stars",
+        "Best Sellers Rank": "#70 in Video Games (See Top 100 in Video Games) #2 in PlayStation Accessories #3 in Xbox One Headsets #4 in PlayStation 4 Headsets",
+        "Is Discontinued By Manufacturer": "No",
+        "Date First Available": "June 11, 2015",
+        "Language": "English",
+        "Country of Origin": "China"
+    },
+    "features": [
+        "Adjustable High Sensitivity Mic",
+        "Comfortable Lightweight Headset Design",
+        "High Quality 40mm Speakers for Superior Sound",
+        "Convenient In-Line Controls",
+        "High Sensitivity Mic for Crystal Clear Chat",
+        "Surround Sound Ready for Xbox",
+        "Versatile Compatibility Across Platforms"
+    ],
+    "breadcrumbs": [],
+    "media": {
+        "primary_image": "https://m.media-amazon.com/images/I/61+zbpS+6iL._AC_SY800_SX800_.jpg",
+        "secondary_images": [
+            "https://m.media-amazon.com/images/I/41ykb81BtlL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41n+cRgnxeL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41OgqocHMAL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/31REk+TseDL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41lQA8VYuRL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/310Uf7iWkmL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41q39YOUW2L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg"
+        ],
+        "featured_images": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ebfe7f89-64c4-46a6-b8e5-7d31649b318c.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/aa54681c-e2bb-4c0c-aca6-070c5e656809.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+        ],
+        "videos": [
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f90c4ce4-d4b3-4376-83dc-5b460d39915a.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9ddf2ffd-750b-46ae-bc94-48a43ec7b019.mp4/productVideoOptimized.mp4",
+            "https://d1f0esyb34c1g2.cloudfront.net/transcode/storyTeller/A2S8GSYAQUWJZ8/1648763281442/cc4fc8b1-e9bb-4739-bac8-369330590f8f/1648763321511sbv.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a55537c5-5d8f-4a04-9208-80e42ebbc1aa.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/30dee3fd-a286-4bcc-8354-a6804144749e.mp4/productVideoOptimized.mp4"
+        ]
+    },
+    "ratings": {
+        "avg_rating": "4.3 out of 5",
+        "total_ratings": "102,864 global ratings",
+        "distribution": {
+            "5 star": "67%",
+            "4 star": "15%",
+            "3 star": "7%",
+            "2 star": "4%",
+            "1 star": "7%"
+        }
+    }
+},
+{
+    "created_at": "2025-02-06T18:30:57.387982",
+    "updated_at": "2025-02-06T18:30:57.387982",
+    "scrape_date": "2025-02-06",
+    "url": "https://www.amazon.com/Logitech-Surround-Gaming-Headset-Leatherette/dp/B07MRMHML9/ref=sr_1_6?dib=eyJ2IjoiMSJ9.hkeFfEL7O7dLU10a2aBZw99esjun4Kp3xpYywJ5nGQeEb2ggY3c5M7IOHSuKAGQ3UgKRbHW_zkZwywm_hN6ndWeTwEcIBbyc9cWefaKzEI23Ikk0gvS8z3fbkiD6Uzyds0IGpmpUBfjvq-48T9Vx6Sqyf7NlMVexr5VkDaxjjG8kVj4L-y0sLJnBGR91JCBCWm8DTvEH01nJlWKuaYS2XcVtuaDwr7U2gQqDM-0DEVk.urXRqmiKUxUDWkhJWXSyDhtbISP4ZfKEim2jZeUHk2U&dib_tag=se&keywords=headsets&qid=1738865657&sr=8-6",
+    "name": "Logitech G432 Wired Gaming Headset, 7.1 Surround Sound, DTS Headphone:X 2.0, Flip-to-Mute Mic, PC (Leatherette) Black/Blue",
+    "price": "$29.99",
+    "options": {
+        "style": [
+            "Surround",
+            "Stereo See available options"
+        ],
+        "pattern": [
+            "Headset",
+            "Headset + G502 Hero",
+            "Headset + G213",
+            "Headset + G305 Black"
+        ]
+    },
+    "specifications": {
+        "Brand": "Logitech G",
+        "Color": "Black/Blue",
+        "Ear Placement": "Over Ear",
+        "Form Factor": "Over Ear",
+        "Impedance": "0.01 Ohm",
+        "Noise Control": "‎None",
+        "Frequency Response": "‎20000 Hz",
+        "Headphones Jack": "‎3.5 mm Jack",
+        "Model Name": "‎G432",
+        "Connectivity Technology": "‎Wired",
+        "Wireless Communication Technology": "‎RF",
+        "Included Components": "‎Cable, Ear Cushions, Headband",
+        "Age Range (Description)": "‎Adult",
+        "Material": "‎Faux Leather",
+        "Specific Uses For Product": "‎Gaming",
+        "Recommended Uses For Product": "‎PC, Mac, PS4, Xbox One, Nintendo Switch gaming",
+        "Compatible Devices": "‎PC, Mac, PS4, Xbox One, Nintendo Switch",
+        "Theme": "‎Video Game",
+        "Control Type": "‎Volume Control",
+        "Cable Feature": "‎Retractable",
+        "Item Weight": "‎10.6 ounces",
+        "Water Resistance Level": "‎Not Water Resistant",
+        "Frequency Range": "‎20 - 20,000 Hz",
+        "Package Type": "‎Standard Packaging",
+        "Style": "‎Surround",
+        "Control Method": "‎Touch",
+        "Number of Items": "‎1",
+        "Cable Length": "‎6.5 Feet",
+        "Controller Type": "‎Volume control",
+        "Audio Driver Type": "‎Dynamic Driver",
+        "Audio Driver Size": "‎5.1 Inches",
+        "Earpiece Shape": "‎Over-the-head",
+        "Is Autographed": "‎No",
+        "Series Number": "‎981",
+        "UPC": "‎097855145703",
+        "Global Trade Identification Number": "‎00097855145703",
+        "Manufacturer": "‎Logitech",
+        "Item model number": "‎981-000769",
+        "Hardware Platform": "‎PC, Xbox One, PlayStation 4, Nintendo Switch, Mobile Devices",
+        "Operating System": "‎Not Machine Specific",
+        "Item Dimensions LxWxH": "‎7.8 x 4.3 x 9 inches",
+        "Power Source": "‎Information Not Available",
+        "ASIN": "‎B07MRMHML9",
+        "Is Discontinued By Manufacturer": "‎No",
+        "Date First Available": "‎February 5, 2019",
+        "Customer Reviews": "4.3 4.3 out of 5 stars 11,724 ratings var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); }); 4.3 out of 5 stars",
+        "Best Sellers Rank": "#54 in Video Games (See Top 100 in Video Games) #5 in PC Game Headsets"
+    },
+    "features": [
+        "Frequency Response: 20Hz-20KHz.Headphones fit type:On-Ear",
+        "Large 50 millimeter audio drivers produce great sound for a more immersive gaming experience",
+        "Advanced DTS Headphone: X 2; 0 surround sound creates precise positional audio and a 3D soundscape",
+        "6 millimeter flip to mute mic with volume control at your fingertips",
+        "Connects to PC, mobile devices and game consoles via simple 3.5 millimeter or USB DAC input",
+        "Premium leatherette ear pads and headband for comfortable gaming"
+    ],
+    "breadcrumbs": [],
+    "media": {
+        "primary_image": "https://m.media-amazon.com/images/I/61j6ey6mBpL.__AC_SX800_SY800_QL70_FMwebp_.jpg",
+        "secondary_images": [
+            "https://m.media-amazon.com/images/I/41z-spbX6zL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41V0ys8wzYS._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51pp99f4KmS._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41HBzmEZIUS._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/415MGQLwBDS._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41cRhAI+YEL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51xNJ-7DGVL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg"
+        ],
+        "featured_images": [
+            "https://m.media-amazon.com/images/S/aplus-media/vc/d466a599-1d4c-43a0-b260-439e5d3bf0c5._CR0,0,1464,600_PT0_SX1464__.jpg"
+        ],
+        "videos": [
+            "https://d1f0esyb34c1g2.cloudfront.net/transcode/storyTeller/A2S8GSYAQUWJZ8/1648763281442/cc4fc8b1-e9bb-4739-bac8-369330590f8f/1648763321511sbv.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/fb9b8f61-5522-40cd-bd63-9c27b9a04132.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a55537c5-5d8f-4a04-9208-80e42ebbc1aa.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/30dee3fd-a286-4bcc-8354-a6804144749e.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/687c9f58-4f1d-4acf-9928-2b35bae479ea.mp4/productVideoOptimized.mp4"
+        ]
+    },
+    "ratings": {
+        "avg_rating": "4.3 out of 5",
+        "total_ratings": "11,724 global ratings",
+        "distribution": {
+            "5 star": "67%",
+            "4 star": "15%",
+            "3 star": "8%",
+            "2 star": "4%",
+            "1 star": "6%"
+        }
+    }
+},
+{
+    "created_at": "2025-02-06T18:31:12.450794",
+    "updated_at": "2025-02-06T18:31:12.450794",
+    "scrape_date": "2025-02-06",
+    "url": "https://www.amazon.com/Headset-Over-Ear-Computer-Headphones-Control/dp/B09B9PCYSS/ref=sr_1_5?dib=eyJ2IjoiMSJ9.hkeFfEL7O7dLU10a2aBZw99esjun4Kp3xpYywJ5nGQeEb2ggY3c5M7IOHSuKAGQ3UgKRbHW_zkZwywm_hN6ndWeTwEcIBbyc9cWefaKzEI23Ikk0gvS8z3fbkiD6Uzyds0IGpmpUBfjvq-48T9Vx6Sqyf7NlMVexr5VkDaxjjG8kVj4L-y0sLJnBGR91JCBCWm8DTvEH01nJlWKuaYS2XcVtuaDwr7U2gQqDM-0DEVk.urXRqmiKUxUDWkhJWXSyDhtbISP4ZfKEim2jZeUHk2U&dib_tag=se&keywords=headsets&qid=1738865657&sr=8-5",
+    "name": "USB Headset with Mic for PC, On-Ear Computer Laptop Headphones with Noise Cancelling Microphone in-line Control for Home Office Online Class Skype Zoom (USB+3.5mm, Black)",
+    "price": "$19.99",
+    "options": {
+        "color": [
+            "Green",
+            "Black",
+            "White",
+            "Apricot",
+            "Pink"
+        ],
+        "style": [
+            "USB+3.5mm",
+            "3.5mm",
+            "TYPE C+3.5mm",
+            "USB+3.5mm Single Ear Headset"
+        ]
+    },
+    "specifications": {
+        "Brand": "EAGLEND",
+        "Color": "Black",
+        "Ear Placement": "On Ear",
+        "Form Factor": "On Ear",
+        "Impedance": "1 Ohm",
+        "Noise Control": "Active Noise Cancellation",
+        "Headphones Jack": "3.5 mm Jack",
+        "Model Name": "EH01",
+        "Connectivity Technology": "Wired",
+        "Wireless Communication Technology": "Wired",
+        "Included Components": "User Manual",
+        "Age Range (Description)": "Adult",
+        "Material": "Plastic",
+        "Specific Uses For Product": "Gaming,Music,Calling",
+        "Compatible Devices": "PC, Mac, Chromebook, tablet, smartphones, MP3 players, PS5, PS4, Xbox one, gaming systems with an aux port",
+        "Theme": "Video Game",
+        "Control Type": "control",
+        "Cable Feature": "Retractable",
+        "Frequency Range": "20 Hz - 20 kHz",
+        "Unit Count": "1 Count",
+        "Style": "USB+3.5mm",
+        "Control Method": "Touch",
+        "Number of Items": "1",
+        "Cable Length": "9 Feet",
+        "Controller Type": "in-line control",
+        "Audio Driver Size": "40 Millimeters",
+        "Earpiece Shape": "Round",
+        "Is Autographed": "No",
+        "Manufacturer": "EAGLEND",
+        "Item Weight": "9.2 ounces",
+        "ASIN": "B09B9PCYSS",
+        "Item model number": "EH01",
+        "Customer Reviews": "4.3 4.3 out of 5 stars 5,404 ratings var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); }); 4.3 out of 5 stars",
+        "Best Sellers Rank": "#3 in Computer Headsets",
+        "Date First Available": "July 27, 2021"
+    },
+    "features": [
+        "✅【Outstanding Noise cancelling Microphone】 The headphones with unidirectional boom 270°microphone that only picks up your voice and block out unwanted background noises. Also, you can wear it on the left or right ear as you like.",
+        "✅【All-Day Comfort for All Head Shape】 Eaglend always designed for all-day comfort using, there will be no restraint pressure, with the adjustable headbend fit adult and kids easily.The soft protein memory foam earpads is made of high-level breathable materials，ROHS certified materials prevent your ears from heat and sweat.",
+        "✅【Enhanced sound performance & 40mm audio driver】:Corded phone headset with built-in audio sound card, Eaglend sound lab tested thousands of times for your daily conversation/music/movie/gaming, bringing you extra clear and bass for pleasant experience.",
+        "✅【USB/3.5mm Connection】 The headphone is designed for multiple use, 3.5mm audio cable with USB In-line audio volume control (cord length 5+4 feet)，with mic mute &indicators /speaker mute.Compatible with PC/Tablet/Mac/iOS/laptop /Android phone and other devices.\"",
+        "✅【Global warranty &multi-purpose】24 months warranty by eaglend. Great ideal for online courses, Skype chat, call center, Webinars Presentations, Office, Business, Rosetta Stone, Dragon Speaking, Conference Calls and more."
+    ],
+    "breadcrumbs": [],
+    "media": {
+        "primary_image": "https://m.media-amazon.com/images/I/61EkW1BUMRL.__AC_SX800_SY800_QL70_FMwebp_.jpg",
+        "secondary_images": [
+            "https://m.media-amazon.com/images/I/41zO-X0PRnL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41AtuZNdkQL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41vBm9ksWBL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41Zrlz0IvIL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/412LOASYjIL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41s-lk7drcL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/91o9r1YwaGL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg"
+        ],
+        "featured_images": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e7ed593b-0214-444c-96f2-fd3e296bb4cc.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d70cd7f6-53bd-40a4-bf93-7b2e797d620b.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cdc8d80b-ae48-452b-81f4-2eb00d75c6b7.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bd8840e3-4481-494c-b79a-95791cdbab47.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4d5d7df6-258d-418d-91a4-a66dd4701f38.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/181a2904-07fe-4692-b29e-279697996142.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c2996e93-b30f-4226-b8a4-72ac0449a826.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d02643d7-5c8b-42b6-99ac-765cfa26601f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+        ],
+        "videos": [
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9732e125-186d-449e-9457-704380447e28.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b5b6aeeb-cf2f-4218-b989-97eb2b27cdf3.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f0eafdba-f9ad-4840-bedd-e20b5b92c10a.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7a0d5a9b-c6ca-4ac4-9013-92c1cea32245.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/d38e5e06-6760-42b1-bdf3-0a5ec4e44a32.mp4/productVideoOptimized.mp4"
+        ]
+    },
+    "ratings": {
+        "avg_rating": "4.3 out of 5",
+        "total_ratings": "5,404 global ratings",
+        "distribution": {
+            "5 star": "68%",
+            "4 star": "13%",
+            "3 star": "7%",
+            "2 star": "5%",
+            "1 star": "7%"
+        }
+    }
+},
+{
+    "created_at": "2025-02-06T18:31:33.503246",
+    "updated_at": "2025-02-06T18:31:33.503246",
+    "scrape_date": "2025-02-06",
+    "url": "https://www.amazon.com/Surround-Headphones-Cancelling-Flexible-Earmuffs/dp/B09TB15CTL/ref=sr_1_3?dib=eyJ2IjoiMSJ9.hkeFfEL7O7dLU10a2aBZw99esjun4Kp3xpYywJ5nGQeEb2ggY3c5M7IOHSuKAGQ3UgKRbHW_zkZwywm_hN6ndWeTwEcIBbyc9cWefaKzEI23Ikk0gvS8z3fbkiD6Uzyds0IGpmpUBfjvq-48T9Vx6Sqyf7NlMVexr5VkDaxjjG8kVj4L-y0sLJnBGR91JCBCWm8DTvEH01nJlWKuaYS2XcVtuaDwr7U2gQqDM-0DEVk.urXRqmiKUxUDWkhJWXSyDhtbISP4ZfKEim2jZeUHk2U&dib_tag=se&keywords=headsets&qid=1738865657&sr=8-3",
+    "name": "Gaming Headset for PC, Ps4, Ps5, Xbox Headset with 7.1 Surround Sound, Gaming Headphones with Noise Cancelling Mic RGB Light Over Ear Headphones for Xbox Series X/S, Switch",
+    "price": "$23.99",
+    "options": {
+        "color": [
+            "Light Blue",
+            "Red",
+            "Green",
+            "Camo",
+            "White",
+            "Pink"
+        ]
+    },
+    "specifications": {
+        "Brand": "Ozeino",
+        "Color": "White",
+        "Ear Placement": "Over Ear",
+        "Form Factor": "Over Ear",
+        "Noise Control": "Active Noise Cancellation",
+        "Frequency Response": "20 GHz",
+        "Sensitivity": "42 dB",
+        "Headphones Jack": "3.5 mm Jack",
+        "Model Name": "ZW1",
+        "Connectivity Technology": "Wired",
+        "Included Components": "User Manual, 1-to-2 3.5mm audio jack splitter cable, 1.55 meter extension cord, White Gaming Headset",
+        "Age Range (Description)": "Adult",
+        "Material": "Plastic",
+        "Specific Uses For Product": "Widely used for gaming, listening to music and watching movies,calling, recording",
+        "Recommended Uses For Product": "Widely used for gaming, listening to music and watching movies,calling, recording",
+        "Compatible Devices": "Gaming Consoles, Phone, Laptops, Desktops",
+        "Theme": "Video Game",
+        "Cartoon Character": "gaming headset",
+        "Control Type": "Volume Control",
+        "Cable Feature": "Retractable",
+        "Item Weight": "10.6 ounces",
+        "Water Resistance Level": "Not Water Resistant",
+        "Frequency Range": "20 Hz - 20,000 Hz",
+        "Package Type": "Standard packaging",
+        "Unit Count": "1.0 Count",
+        "Style": "Wired",
+        "Control Method": "App",
+        "Number of Items": "1",
+        "Controller Type": "Button",
+        "Audio Driver Type": "Dynamic Driver",
+        "Audio Driver Size": "50 Millimeters",
+        "Earpiece Shape": "Over Ear",
+        "Is Autographed": "No",
+        "Global Trade Identification Number": "06975364701495",
+        "Manufacturer": "Ozeino",
+        "Product Dimensions": "7.48 x 4.05 x 8.07 inches",
+        "ASIN": "B09TB15CTL",
+        "Item model number": "ZW1",
+        "Customer Reviews": "4.5 4.5 out of 5 stars 5,024 ratings var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); }); 4.5 out of 5 stars",
+        "Best Sellers Rank": "#18 in Video Games (See Top 100 in Video Games) #1 in PC Game Headsets #1 in Xbox One Headsets #1 in PlayStation 4 Headsets",
+        "Date First Available": "February 24, 2022",
+        "Country of Origin": "China"
+    },
+    "features": [
+        "Superb 7.1 Surround Sound - Featuring a high-precision 50mm magnetic neodymium driver to create an immersive gaming experience with stereo surround sound in gaming headset for incredibly realistic sound.",
+        "Cool style gaming experience - Colorful Led lights create a gorgeous game atmosphere, enhances your immersive gaming experience. Perfect for most FPS games like God of war, Fortnite, PUBG or CS: GO.",
+        "Great Humanized Design - Comfortable and breathable permeability protein over-ear pads perfectly on your head, providing you with superior comfort during hours of gaming. The adjustable headband is very suitable for all gaming players of all ages.",
+        "Gaming Platform Compatibility - This gaming headset support Ps5, Ps4, New Xbox, Xbox Series X/S, Switch, PC, Laptop, iOS, Mobile Phone and other devices with 3.5mm jack. Please note you need an extra Microsoft Adapter (Not Included) when connect with an old version Xbox One controller.",
+        "Sensitivity Noise-Cancelling Microphone - 360° omnidirectionally rotatable sensitive microphone, premium noise cancellation, sound localisation, reduces distracting background noise to picks up your voice clearly to ensure your commands are always heard.",
+        "*Note 1: When you use headset on your PC, be sure to connect the \"1-to-2 3.5mm audio jack splitter cable\" (Red-Mic, Green-audio).",
+        "*Note 2: When your devices have a USB socket, the RGB lights can light up. The usb connector is only for led light power."
+    ],
+    "breadcrumbs": [],
+    "media": {
+        "primary_image": "https://m.media-amazon.com/images/I/712OyBPPL0L.__AC_SX800_SY800_QL70_FMwebp_.jpg",
+        "secondary_images": [
+            "https://m.media-amazon.com/images/I/41o-o1sxliL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51hOjSRbtZL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51WmhxCQypL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51k3GQXSeGL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/410qDfLx3RL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51pvA-9PASL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/912yYyz+5hL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.png"
+        ],
+        "featured_images": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ea16a669-e6e2-4a7f-a175-750ffdfc5b38.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/edd27dc2-3fe1-4fb2-9c7e-3bf4369a9b42.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/33307cad-de02-4b5b-af79-dd71224f5658.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4b5e1220-8d6d-47ad-a319-329c8b4ceb65.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c079d0bc-cff0-4477-afd9-7da0d3639d1e.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7bbba1bd-2f0c-4e1f-b813-02e574020898.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/5fcebc0f-bc1c-41b6-9bb3-a87a19eca5da.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7534db91-5604-4685-bf0b-88db8c8c58d5.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f4116355-bb17-412c-a53e-1c8e2d753da8.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/348d075c-f29c-4cce-b5a6-bad353e8ee2e.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+        ],
+        "videos": [
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9ddf2ffd-750b-46ae-bc94-48a43ec7b019.mp4/productVideoOptimized.mp4",
+            "https://d1f0esyb34c1g2.cloudfront.net/transcode/storyTeller/A2S8GSYAQUWJZ8/1648763281442/cc4fc8b1-e9bb-4739-bac8-369330590f8f/1648763321511sbv.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/ad635e4a-8f2f-4900-b4a9-68091c5a4226.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a55537c5-5d8f-4a04-9208-80e42ebbc1aa.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/30dee3fd-a286-4bcc-8354-a6804144749e.mp4/productVideoOptimized.mp4"
+        ]
+    },
+    "ratings": {
+        "avg_rating": "4.5 out of 5",
+        "total_ratings": "5,024 global ratings",
+        "distribution": {
+            "5 star": "76%",
+            "4 star": "9%",
+            "3 star": "4%",
+            "2 star": "4%",
+            "1 star": "6%"
+        }
+    }
+},
+{
+    "created_at": "2025-02-06T18:32:27.683692",
+    "updated_at": "2025-02-06T18:32:27.684691",
+    "scrape_date": "2025-02-06",
+    "url": "https://www.amazon.com/Corsair-Wireless-Premium-Headset-Surround/dp/B07X8SJ8HM/ref=sr_1_21?dib=eyJ2IjoiMSJ9.hkeFfEL7O7dLU10a2aBZw99esjun4Kp3xpYywJ5nGQeEb2ggY3c5M7IOHSuKAGQ3UgKRbHW_zkZwywm_hN6ndWeTwEcIBbyc9cWefaKzEI23Ikk0gvS8z3fbkiD6Uzyds0IGpmpUBfjvq-48T9Vx6Sqyf7NlMVexr5VkDaxjjG8kVj4L-y0sLJnBGR91JCBCWm8DTvEH01nJlWKuaYS2XcVtuaDwr7U2gQqDM-0DEVk.urXRqmiKUxUDWkhJWXSyDhtbISP4ZfKEim2jZeUHk2U&dib_tag=se&keywords=headsets&qid=1738865657&sr=8-21",
+    "name": "CORSAIR VOID RGB ELITE Wireless Gaming Headset – 7.1 Surround Sound – Omni-Directional Microphone – Microfiber Mesh Earpads – Up to 40ft Range – iCUE Compatible – PC, Mac, PS5, PS4 – Carbon",
+    "price": "$69.99",
+    "options": {
+        "style": [
+            "VOID RGB ELITE WIRELESS",
+            "VOID ELITE SURROUND",
+            "VOID RGB ELITE USB"
+        ],
+        "color": [
+            "Black",
+            "White",
+            "Cherry"
+        ]
+    },
+    "specifications": {
+        "Brand": "Corsair",
+        "Color": "Black",
+        "Ear Placement": "Over Ear",
+        "Form Factor": "On Ear",
+        "Impedance": "32 Ohm",
+        "Noise Control": "‎Active Noise Cancellation",
+        "Frequency Response": "‎30000 Hz",
+        "Headphones Jack": "‎usb",
+        "Model Name": "‎Void ELITE Wireless Carbon",
+        "Connectivity Technology": "‎Wireless",
+        "Wireless Communication Technology": "‎Bluetooth",
+        "Included Components": "‎USB adapter, Headphone",
+        "Age Range (Description)": "‎Adult",
+        "Material": "‎Aluminum",
+        "Specific Uses For Product": "‎Gaming",
+        "Charging Time": "‎16 Hours",
+        "Recommended Uses For Product": "‎Gaming",
+        "Compatible Devices": "‎PS4, PC",
+        "Theme": "‎Video Game",
+        "Control Type": "‎Noise Control",
+        "Cable Feature": "‎Without Cable",
+        "Item Weight": "‎14.1 ounces",
+        "Unit Count": "‎1.0 Count",
+        "Style": "‎VOID RGB ELITE WIRELESS",
+        "Control Method": "‎Touch",
+        "Number of Items": "‎1",
+        "Battery Life": "‎16 Hours",
+        "Audio Driver Type": "‎Dynamic Driver",
+        "Is Autographed": "‎No",
+        "UPC": "‎840006609841",
+        "Global Trade Identification Number": "‎00840006609841",
+        "Manufacturer": "‎CORSAIR",
+        "Average Battery Life (in hours)": "‎16 Hours",
+        "Item model number": "‎CA-9011201-NA",
+        "Hardware Platform": "‎PC",
+        "Product Dimensions": "‎7.87 x 3.74 x 7.87 inches",
+        "Item Dimensions LxWxH": "‎7.87 x 3.74 x 7.87 inches",
+        "Batteries": "‎1 A batteries required. (included)",
+        "ASIN": "‎B07X8SJ8HM",
+        "Country of Origin": "‎China",
+        "Is Discontinued By Manufacturer": "‎No",
+        "Date First Available": "‎November 29, 2022",
+        "Customer Reviews": "4.3 4.3 out of 5 stars 23,255 ratings var dpAcrHasRegisteredArcLinkClickAction; P.when('A', 'ready').execute(function(A) { if (dpAcrHasRegisteredArcLinkClickAction !== true) { dpAcrHasRegisteredArcLinkClickAction = true; A.declarative( 'acrLink-click-metrics', 'click', { \"allowLinkDefault\": true }, function (event) { if (window.ue) { ue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1); } } ); } }); P.when('A', 'cf').execute(function(A) { A.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){ if(window.ue) { ue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1); } }); }); 4.3 out of 5 stars",
+        "Best Sellers Rank": "#126 in Video Games (See Top 100 in Video Games) #14 in PC Game Headsets"
+    },
+    "features": [
+        "Stunning Sound: Hear everything from the lightest footstep to the most thundering explosion thanks to premium, custom-tuned 50mm high-density neodymium audio drivers with an expanded frequency range of 20Hz-30,000Hz.",
+        "Enduring Comfort: Breathable microfiber mesh fabric and plush memory foam earpads keep you comfortable even during long gaming sessions.",
+        "Low-Latency 2.4GHz Wireless: Connect wirelessly to your PC or PS4* with the included USB adapter. *7.1 surround sound only available on PC",
+        "Optimized Omnidirectional Microphone: Picks up your voice with exceptional clarity, with a flip-up mute function and a built-in LED mute indicator.",
+        "Durable Construction with Aluminum Yokes: Built to last through years of gaming."
+    ],
+    "breadcrumbs": [],
+    "media": {
+        "primary_image": "https://m.media-amazon.com/images/I/61oGokyedML.__AC_SX800_SY800_QL70_FMwebp_.jpg",
+        "secondary_images": [
+            "https://m.media-amazon.com/images/I/41bhtqqRXnL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41UsSK17yqL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51jEDwNRzQL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51AqAt18RgL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51jJfsvrI4L._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/51WK0Dy38JL._AC_US_.jpg",
+            "https://m.media-amazon.com/images/I/41iWvAXdHmL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg"
+        ],
+        "featured_images": [
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/99e5daf0-3e2f-4809-9b81-a05d833b7908.__CR0,0,1464,625_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3c012192-e52b-491e-9d61-c7913e5c7a98.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e02b10ee-90a0-460b-bf04-6f71d0ec32be.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/43cb51e5-35f6-4a2c-9874-402d14014269.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/67e85405-3b08-4825-9d9c-8bc4e8643d22.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2a74ecf5-880c-4685-a2e0-5c249aa777e8.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6adcc838-8fa1-469d-a193-c6f36d77d35c.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7db45b97-92a6-4ce6-aed4-29dc2e357306.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1f81f8c6-d76c-4811-b392-3a16463fd3bf.__CR0,0,362,453_PT0_SX362_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/0916b4e1-8902-4ccd-b4ff-b2cae3e2b423.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/56981a3c-bd6c-4a76-a377-d9296c011cb6.__CR0,0,1464,600_PT0_SX1464_V1___.jpg",
+            "https://m.media-amazon.com/images/S/aplus-media/vc/b62e0685-019f-4032-a07b-4c5d88ca6e7c.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+        ],
+        "videos": [
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/8474cf9b-1e22-4543-84f9-d0e00c4d8b7e.mp4/productVideoOptimized.mp4",
+            "https://d1f0esyb34c1g2.cloudfront.net/transcode/storyTeller/A2S8GSYAQUWJZ8/1648763281442/cc4fc8b1-e9bb-4739-bac8-369330590f8f/1648763321511sbv.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/fb9b8f61-5522-40cd-bd63-9c27b9a04132.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a55537c5-5d8f-4a04-9208-80e42ebbc1aa.mp4/productVideoOptimized.mp4",
+            "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/30dee3fd-a286-4bcc-8354-a6804144749e.mp4/productVideoOptimized.mp4"
+        ]
+    },
+    "ratings": {
+        "avg_rating": "4.3 out of 5",
+        "total_ratings": "23,255 global ratings",
+        "distribution": {
+            "5 star": "69%",
+            "4 star": "13%",
+            "3 star": "6%",
+            "2 star": "4%",
+            "1 star": "8%"
+        }
+    }
+}
+]
